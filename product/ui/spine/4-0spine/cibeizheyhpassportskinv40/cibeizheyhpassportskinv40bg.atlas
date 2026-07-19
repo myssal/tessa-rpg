@@ -1,0 +1,41 @@
+
+CiBeiZheYHPassportSkinV40Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_cbz_1
+  rotate: false
+  xy: 584, 41
+  size: 270, 180
+  orig: 270, 180
+  offset: 0, 0
+  index: -1
+Bg_cbz_5
+  rotate: false
+  xy: 2, 228
+  size: 1932, 1098
+  orig: 1932, 1098
+  offset: 0, 0
+  index: -1
+Fg_cbz_2
+  rotate: false
+  xy: 855, 37
+  size: 300, 103
+  orig: 300, 103
+  offset: 0, 0
+  index: -1
+Fg_cbz_3
+  rotate: true
+  xy: 274, 37
+  size: 112, 308
+  orig: 112, 308
+  offset: 0, 0
+  index: -1
+Fg_cbz_98
+  rotate: true
+  xy: 2, 2
+  size: 224, 300
+  orig: 224, 300
+  offset: 0, 0
+  index: -1

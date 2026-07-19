@@ -1,0 +1,20 @@
+
+V42UiMovieCG_BiAnKaMeiYing_Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 868
+  size: 1536, 864
+  orig: 1536, 864
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 1103, 864
+  orig: 1103, 864
+  offset: 0, 0
+  index: -1

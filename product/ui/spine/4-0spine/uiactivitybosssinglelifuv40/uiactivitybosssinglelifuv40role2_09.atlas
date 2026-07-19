@@ -1,0 +1,125 @@
+
+UiActivityBossSingleLifuV40Role2_09.webp
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Body
+  rotate: false
+  xy: 2, 756
+  size: 1550, 1291
+  orig: 1726, 1342
+  offset: 76, 0
+  index: -1
+EyeWhite_L
+  rotate: false
+  xy: 1386, 1008
+  size: 160, 94
+  orig: 1726, 1342
+  offset: 830, 907
+  index: -1
+EyeWhite_R
+  rotate: false
+  xy: 1450, 830
+  size: 129, 72
+  orig: 1726, 1342
+  offset: 694, 908
+  index: -1
+Eyes_L
+  rotate: false
+  xy: 2, 1460
+  size: 93, 79
+  orig: 1726, 1342
+  offset: 856, 908
+  index: -1
+Eyes_R
+  rotate: false
+  xy: 1368, 902
+  size: 128, 105
+  orig: 1726, 1342
+  offset: 701, 894
+  index: -1
+Hair_1
+  rotate: false
+  xy: 616, 434
+  size: 276, 321
+  orig: 1726, 1342
+  offset: 631, 959
+  index: -1
+Hair_2
+  rotate: false
+  xy: 1800, 1731
+  size: 198, 316
+  orig: 1726, 1342
+  offset: 639, 907
+  index: -1
+Hair_3
+  rotate: false
+  xy: 1532, 1707
+  size: 268, 341
+  orig: 1726, 1342
+  offset: 730, 904
+  index: -1
+Hair_4
+  rotate: false
+  xy: 481, 354
+  size: 140, 401
+  orig: 1726, 1342
+  offset: 890, 796
+  index: -1
+Hair_5
+  rotate: false
+  xy: 892, 284
+  size: 321, 471
+  orig: 1726, 1342
+  offset: 514, 727
+  index: -1
+Hair_6
+  rotate: false
+  xy: 2, 593
+  size: 140, 729
+  orig: 1726, 1342
+  offset: 612, 277
+  index: -1
+Hair_7
+  rotate: false
+  xy: 137, 88
+  size: 150, 667
+  orig: 1726, 1342
+  offset: 902, 281
+  index: -1
+Head
+  rotate: false
+  xy: 1495, 1102
+  size: 551, 561
+  orig: 1726, 1342
+  offset: 556, 703
+  index: -1
+Head_font_1
+  rotate: false
+  xy: 1207, 305
+  size: 374, 455
+  orig: 1726, 1342
+  offset: 961, 603
+  index: -1
+Head_font_2
+  rotate: false
+  xy: 1580, 565
+  size: 466, 536
+  orig: 1726, 1342
+  offset: 278, 615
+  index: -1
+Meimao_1
+  rotate: false
+  xy: 1910, 1702
+  size: 113, 40
+  orig: 1726, 1342
+  offset: 864, 960
+  index: -1
+Meimao_2
+  rotate: false
+  xy: 2, 1335
+  size: 121, 70
+  orig: 1726, 1342
+  offset: 701, 955
+  index: -1

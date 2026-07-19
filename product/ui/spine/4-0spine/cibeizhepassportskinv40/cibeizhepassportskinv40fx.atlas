@@ -1,0 +1,27 @@
+
+CiBeiZhePassportSkinV40Fx.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_cbz_1
+  rotate: false
+  xy: 2, 2
+  size: 1003, 1007
+  orig: 1003, 1007
+  offset: 0, 0
+  index: -1
+Effect_cbz_2
+  rotate: false
+  xy: 1007, 2
+  size: 877, 1007
+  orig: 877, 1007
+  offset: 0, 0
+  index: -1
+Effect_cbz_3
+  rotate: false
+  xy: 2, 1011
+  size: 1921, 215
+  orig: 1921, 215
+  offset: 0, 0
+  index: -1

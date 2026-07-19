@@ -1,0 +1,13 @@
+
+V45Activity_BingAerfa_Fn2.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg2
+  rotate: false
+  xy: 2, 3
+  size: 1578, 1015
+  orig: 1578, 1015
+  offset: 0, 0
+  index: -1

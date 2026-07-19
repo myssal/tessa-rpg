@@ -1,0 +1,146 @@
+
+BuouxiongTutorialV41Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 563
+  size: 2036, 1146
+  orig: 2036, 1146
+  offset: 0, 0
+  index: -1
+Bg_diannao
+  rotate: false
+  xy: 931, 12
+  size: 406, 281
+  orig: 406, 281
+  offset: 0, 0
+  index: -1
+Bg_juese1
+  rotate: true
+  xy: 924, 263
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+Bg_juese10
+  rotate: false
+  xy: 517, 71
+  size: 453, 491
+  orig: 453, 491
+  offset: 0, 0
+  index: -1
+Bg_juese11
+  rotate: false
+  xy: 2, 4
+  size: 609, 558
+  orig: 653, 558
+  offset: 0, 0
+  index: -1
+Bg_juese12
+  rotate: 180
+  xy: 1867, 11
+  size: 157, 198
+  orig: 157, 198
+  offset: 0, 0
+  index: -1
+Bg_juese2
+  rotate: false
+  xy: 376, 407
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+Bg_juese3
+  rotate: true
+  xy: 1426, 3
+  size: 180, 314
+  orig: 180, 314
+  offset: 0, 0
+  index: -1
+Bg_juese4
+  rotate: false
+  xy: 1690, 115
+  size: 244, 310
+  orig: 244, 310
+  offset: 0, 0
+  index: -1
+Bg_juese5
+  rotate: false
+  xy: 489, 424
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+Bg_juese6
+  rotate: false
+  xy: 2, 156
+  size: 154, 62
+  orig: 154, 62
+  offset: 0, 0
+  index: -1
+Bg_juese7
+  rotate: false
+  xy: 859, 485
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+Bg_juese8
+  rotate: true
+  xy: 1339, 112
+  size: 313, 349
+  orig: 313, 349
+  offset: 0, 0
+  index: -1
+Bg_juese9
+  rotate: 270
+  xy: 1224, 427
+  size: 135, 431
+  orig: 135, 438
+  offset: 0, 7
+  index: -1
+Bg_sekuai1
+  rotate: false
+  xy: 756, 494
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+Bg_sekuai2
+  rotate: false
+  xy: 2, 316
+  size: 44, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+Bg_sekuai3
+  rotate: false
+  xy: 383, 457
+  size: 104, 104
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+Bg_sekuai4
+  rotate: false
+  xy: 2, 523
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+Bg_sekuai5
+  rotate: false
+  xy: 2, 250
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+Bg_sekuai6
+  rotate: false
+  xy: 854, 435
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1

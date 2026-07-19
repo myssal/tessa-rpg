@@ -1,0 +1,76 @@
+
+UiMovieWeiluonikaV38Fg.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_guang10
+  rotate: false
+  xy: 775, 7
+  size: 326, 90
+  orig: 326, 90
+  offset: 0, 0
+  index: -1
+Effect_guang11
+  rotate: false
+  xy: 343, 46
+  size: 68, 202
+  orig: 68, 202
+  offset: 0, 0
+  index: -1
+Effect_guang4
+  rotate: true
+  xy: 413, 77
+  size: 171, 360
+  orig: 171, 360
+  offset: 0, 0
+  index: -1
+Effect_guang5
+  rotate: false
+  xy: 115, 5
+  size: 93, 18
+  orig: 93, 18
+  offset: 0, 0
+  index: -1
+Effect_guang7
+  rotate: false
+  xy: 19, 4
+  size: 94, 19
+  orig: 94, 19
+  offset: 0, 0
+  index: -1
+Effect_guang9
+  rotate: true
+  xy: 2, 25
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+Effect_guangdian1
+  rotate: false
+  xy: 210, 8
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Effect_guangdian2
+  rotate: true
+  xy: 2, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Effect_guangdian3
+  rotate: true
+  xy: 413, 21
+  size: 54, 131
+  orig: 54, 131
+  offset: 0, 0
+  index: -1
+Fg_wuqi
+  rotate: false
+  xy: 775, 99
+  size: 446, 149
+  orig: 446, 149
+  offset: 0, 0
+  index: -1

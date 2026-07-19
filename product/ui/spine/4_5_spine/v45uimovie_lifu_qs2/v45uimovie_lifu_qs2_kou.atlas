@@ -1,0 +1,90 @@
+
+V45UiMovie_LiFu_QS2_Kou.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+face1
+  rotate: false
+  xy: 189, 14
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 2, 218
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+hair9
+  rotate: 270
+  xy: 199, 55
+  size: 239, 91
+  orig: 239, 91
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 196, 292
+  orig: 196, 292
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2, 266
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 152, 262
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+mouth21
+  rotate: false
+  xy: 34, 256
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+mouth22
+  rotate: false
+  xy: 59, 285
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 160, 250
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 170, 234
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+mouth5
+  rotate: false
+  xy: 2, 241
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+mouth6
+  rotate: false
+  xy: 233, 20
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+V42UiMovie_JiZhe_Role.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Body1
+  rotate: false
+  xy: 530, 194
+  size: 308, 327
+  orig: 308, 327
+  offset: 0, 0
+  index: -1
+Body10
+  rotate: 270
+  xy: 513, 4
+  size: 165, 520
+  orig: 165, 520
+  offset: 0, 0
+  index: -1
+Body12
+  rotate: 270
+  xy: 167, 47
+  size: 223, 805
+  orig: 223, 805
+  offset: 0, 0
+  index: -1
+Body13
+  rotate: false
+  xy: 2, 114
+  size: 202, 811
+  orig: 219, 811
+  offset: 17, 0
+  index: -1
+Body14
+  rotate: false
+  xy: 297, 784
+  size: 63, 141
+  orig: 63, 141
+  offset: 0, 0
+  index: -1
+Body15
+  rotate: false
+  xy: 701, 524
+  size: 83, 160
+  orig: 83, 170
+  offset: 0, 10
+  index: -1
+Body16
+  rotate: false
+  xy: 200, 667
+  size: 137, 179
+  orig: 137, 179
+  offset: 0, 0
+  index: -1
+Body17
+  rotate: false
+  xy: 2, 52
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+Body18
+  rotate: false
+  xy: 972, 507
+  size: 134, 418
+  orig: 134, 418
+  offset: 0, 0
+  index: -1
+Body19
+  rotate: false
+  xy: 398, 523
+  size: 359, 402
+  orig: 359, 402
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 202, 832
+  size: 66, 68
+  orig: 72, 71
+  offset: 5, 0
+  index: -1
+Body20
+  rotate: 180
+  xy: 189, 118
+  size: 348, 567
+  orig: 348, 567
+  offset: 0, 0
+  index: -1
+Body21
+  rotate: false
+  xy: 205, 881
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Body22
+  rotate: false
+  xy: 792, 519
+  size: 163, 406
+  orig: 166, 406
+  offset: 3, 0
+  index: -1
+Body23
+  rotate: 180
+  xy: 863, 161
+  size: 222, 371
+  orig: 222, 371
+  offset: 0, 0
+  index: -1
+Body24
+  rotate: 180
+  xy: 1091, 607
+  size: 215, 318
+  orig: 215, 318
+  offset: 0, 0
+  index: -1
+Body25
+  rotate: 180
+  xy: 1080, 33
+  size: 221, 430
+  orig: 221, 430
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 340, 687
+  size: 48, 55
+  orig: 48, 56
+  offset: 0, 1
+  index: -1
+Body4
+  rotate: false
+  xy: 1358, 29
+  size: 64, 298
+  orig: 64, 298
+  offset: 0, 0
+  index: -1
+Body5
+  rotate: false
+  xy: 146, 110
+  size: 84, 171
+  orig: 84, 177
+  offset: 0, 6
+  index: -1
+Body6
+  rotate: false
+  xy: 39, 7
+  size: 116, 75
+  orig: 119, 75
+  offset: 1, 0
+  index: -1
+Body7
+  rotate: false
+  xy: 755, 524
+  size: 55, 80
+  orig: 55, 81
+  offset: 0, 1
+  index: -1
+Body8
+  rotate: false
+  xy: 191, 559
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+Body9
+  rotate: 180
+  xy: 1203, 329
+  size: 261, 597
+  orig: 266, 622
+  offset: 0, 0
+  index: -1
+Hair18
+  rotate: false
+  xy: 1389, 9
+  size: 75, 201
+  orig: 77, 202
+  offset: 0, 1
+  index: -1
+Hair20
+  rotate: false
+  xy: 1369, 623
+  size: 65, 209
+  orig: 65, 209
+  offset: 0, 0
+  index: -1
+Hair21
+  rotate: true
+  xy: 1286, 814
+  size: 61, 173
+  orig: 62, 182
+  offset: 0, 9
+  index: -1
+Hair22
+  rotate: true
+  xy: 222, 8
+  size: 47, 223
+  orig: 47, 223
+  offset: 0, 0
+  index: -1
+Hair23
+  rotate: false
+  xy: 1227, 163
+  size: 62, 130
+  orig: 65, 132
+  offset: 0, 1
+  index: -1
+Hair24
+  rotate: false
+  xy: 212, 122
+  size: 49, 161
+  orig: 49, 161
+  offset: 0, 0
+  index: -1
+Hair25
+  rotate: false
+  xy: 759, 685
+  size: 22, 119
+  orig: 22, 119
+  offset: 0, 0
+  index: -1
+Hair26
+  rotate: false
+  xy: 1202, 12
+  size: 157, 385
+  orig: 161, 385
+  offset: 0, 0
+  index: -1
+Hair27
+  rotate: false
+  xy: 1384, 592
+  size: 76, 186
+  orig: 79, 186
+  offset: 0, 0
+  index: -1
+Hair28
+  rotate: 270
+  xy: 1033, 274
+  size: 244, 182
+  orig: 244, 182
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: false
+  xy: 337, 717
+  size: 58, 203
+  orig: 60, 203
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+V45UiMovie_LiFu_QS2_Fn.webp
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+eye1
+  rotate: false
+  xy: 53, 5
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+eye10
+  rotate: false
+  xy: 37, 831
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+eye11
+  rotate: false
+  xy: 23, 46
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+eye12
+  rotate: false
+  xy: 102, 72
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+eye13
+  rotate: 180
+  xy: 104, 49
+  size: 70, 33
+  orig: 70, 34
+  offset: 0, 1
+  index: -1
+eye14
+  rotate: false
+  xy: 2, 773
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+eye15
+  rotate: true
+  xy: 2, 23
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+eye16
+  rotate: true
+  xy: 2, 783
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 41, 824
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 81, 5
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 121, 16
+  size: 40, 32
+  orig: 41, 32
+  offset: 1, 0
+  index: -1
+eye5
+  rotate: false
+  xy: 41, 18
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+eye6
+  rotate: false
+  xy: 2, 763
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+eye7
+  rotate: false
+  xy: 148, 812
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+eye8
+  rotate: 180
+  xy: 82, 27
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+eye9
+  rotate: false
+  xy: 2, 5
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 162, 430
+  size: 14, 105
+  orig: 14, 105
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 180
+  xy: 146, 117
+  size: 31, 160
+  orig: 31, 160
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: 180
+  xy: 103, 104
+  size: 57, 208
+  orig: 57, 208
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: 180
+  xy: 152, 3
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 141, 314
+  size: 34, 114
+  orig: 34, 114
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: 180
+  xy: 50, 268
+  size: 107, 327
+  orig: 107, 327
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: 180
+  xy: 145, 565
+  size: 28, 180
+  orig: 28, 180
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: false
+  xy: 2, 74
+  size: 99, 204
+  orig: 99, 204
+  offset: 0, 0
+  index: -1
+peishi1
+  rotate: false
+  xy: 2, 453
+  size: 160, 389
+  orig: 160, 389
+  offset: 0, 0
+  index: -1

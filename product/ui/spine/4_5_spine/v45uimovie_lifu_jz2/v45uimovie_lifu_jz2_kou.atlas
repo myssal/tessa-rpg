@@ -1,0 +1,62 @@
+
+V45UiMovie_LiFu_JZ2_Kou.webp
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face1
+  rotate: false
+  xy: 2, 2
+  size: 211, 323
+  orig: 211, 323
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 144, 304
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 2, 6
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 2, 300
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+Mouth3_1
+  rotate: false
+  xy: 24, 300
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 2, 259
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 58, 310
+  size: 29, 16
+  orig: 30, 16
+  offset: 1, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 2, 270
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1

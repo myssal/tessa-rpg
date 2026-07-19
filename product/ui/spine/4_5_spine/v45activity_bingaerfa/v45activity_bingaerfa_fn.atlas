@@ -1,0 +1,27 @@
+
+V45Activity_BingAerfa_Fn.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fg_Jiao_1
+  rotate: false
+  xy: 2, 17
+  size: 484, 291
+  orig: 484, 291
+  offset: 0, 0
+  index: -1
+Fg_Jiao_2
+  rotate: 180
+  xy: 345, 2
+  size: 378, 305
+  orig: 410, 305
+  offset: 0, 0
+  index: -1
+Sekuai
+  rotate: false
+  xy: 2, 170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

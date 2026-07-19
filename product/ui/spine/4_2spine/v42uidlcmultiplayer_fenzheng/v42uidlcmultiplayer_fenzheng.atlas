@@ -1,0 +1,20 @@
+
+V42UiDlcMultiPlayer_Fenzheng.webp
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+1
+  rotate: false
+  xy: 2, 79
+  size: 206, 196
+  orig: 206, 196
+  offset: 0, 0
+  index: -1
+2
+  rotate: 180
+  xy: 2, 4
+  size: 232, 98
+  orig: 232, 98
+  offset: 0, 0
+  index: -1

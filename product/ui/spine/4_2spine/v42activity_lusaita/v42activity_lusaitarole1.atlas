@@ -1,0 +1,13 @@
+
+V42Activity_LusaitaRole1.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_10
+  rotate: false
+  xy: 2, 3
+  size: 191, 163
+  orig: 191, 163
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+WeiluonikaTutorialV38Hand.webp
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_zs2
+  rotate: 270
+  xy: 91, 12
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Role_zs3
+  rotate: false
+  xy: 2, 48
+  size: 58, 136
+  orig: 58, 136
+  offset: 0, 0
+  index: -1
+Role_zs4
+  rotate: false
+  xy: 2, 4
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+Role_zs5
+  rotate: true
+  xy: 85, 39
+  size: 109, 32
+  orig: 109, 32
+  offset: 0, 0
+  index: -1
+Role_zs6
+  rotate: true
+  xy: 42, 65
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1

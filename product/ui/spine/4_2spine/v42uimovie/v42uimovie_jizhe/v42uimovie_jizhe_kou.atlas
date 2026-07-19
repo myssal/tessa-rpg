@@ -1,0 +1,55 @@
+
+V42UiMovie_JiZhe_Kou.webp
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face1
+  rotate: false
+  xy: 2, 2
+  size: 251, 316
+  orig: 251, 316
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 2, 241
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 2, 265
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 63, 308
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 2, 4
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 2, 229
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 2, 286
+  size: 66, 32
+  orig: 67, 32
+  offset: 1, 0
+  index: -1

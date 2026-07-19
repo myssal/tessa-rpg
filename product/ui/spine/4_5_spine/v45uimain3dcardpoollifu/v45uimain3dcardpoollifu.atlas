@@ -1,0 +1,118 @@
+
+V45UiMain3dCardPoolLiFu.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Hand2_1
+  rotate: true
+  xy: 213, 1258
+  size: 339, 676
+  orig: 345, 734
+  offset: 0, 0
+  index: -1
+Hand2_10
+  rotate: true
+  xy: 2, 1435
+  size: 612, 871
+  orig: 612, 871
+  offset: 0, 0
+  index: -1
+Hand2_2
+  rotate: false
+  xy: 239, 1228
+  size: 211, 164
+  orig: 211, 164
+  offset: 0, 0
+  index: -1
+Hand2_3
+  rotate: false
+  xy: 2, 1265
+  size: 149, 207
+  orig: 149, 207
+  offset: 0, 0
+  index: -1
+Hand2_4
+  rotate: 270
+  xy: 873, 1215
+  size: 187, 251
+  orig: 187, 251
+  offset: 0, 0
+  index: -1
+Hand2_5
+  rotate: true
+  xy: 2, 1851
+  size: 195, 236
+  orig: 195, 236
+  offset: 0, 0
+  index: -1
+Hand2_6
+  rotate: 180
+  xy: 1891, 1204
+  size: 155, 253
+  orig: 155, 273
+  offset: 0, 0
+  index: -1
+Hand2_7
+  rotate: 180
+  xy: 578, 1392
+  size: 205, 188
+  orig: 205, 188
+  offset: 0, 0
+  index: -1
+Hand2_8
+  rotate: false
+  xy: 1494, 1513
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+Hand2_9
+  rotate: 180
+  xy: 1574, 1168
+  size: 173, 189
+  orig: 173, 189
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: 270
+  xy: 827, 1261
+  size: 342, 745
+  orig: 378, 745
+  offset: 36, 0
+  index: -1
+Hand_2
+  rotate: false
+  xy: 1610, 1381
+  size: 169, 505
+  orig: 169, 505
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: false
+  xy: 1576, 1608
+  size: 379, 438
+  orig: 379, 438
+  offset: 0, 0
+  index: -1
+Hand_4
+  rotate: 180
+  xy: 1746, 1590
+  size: 299, 456
+  orig: 299, 456
+  offset: 0, 0
+  index: -1
+Hand_5
+  rotate: 270
+  xy: 1707, 1291
+  size: 280, 339
+  orig: 280, 339
+  offset: 0, 0
+  index: -1
+Hand_6
+  rotate: 270
+  xy: 864, 1517
+  size: 529, 744
+  orig: 529, 744
+  offset: 0, 0
+  index: -1

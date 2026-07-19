@@ -1,0 +1,48 @@
+
+V42UiMovie_C_BiAnKa_Kou.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face
+  rotate: false
+  xy: 2, 3
+  size: 207, 228
+  orig: 207, 228
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: false
+  xy: 2, 187
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+shangMouth
+  rotate: false
+  xy: 2, 11
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+shangya
+  rotate: false
+  xy: 2, 175
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+xiaMouth
+  rotate: false
+  xy: 2, 209
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+xiaya
+  rotate: false
+  xy: 166, 190
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1

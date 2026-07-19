@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"Xlz2hei62yA","spine":"4.3.70-beta","images":null,"audio":null},"bones":[{"name":"root"}],"slots":[{"name":"qj-lvjing","bone":"root","attachment":"qj-lvjing","blend":"screen"}],"skins":[{"name":"default","attachments":{"qj-lvjing":{"qj-lvjing":{"width":3842,"height":2162}}}}],"animations":{"idle":{}}}

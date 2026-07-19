@@ -1,0 +1,55 @@
+
+Role03.webp
+size: 572,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Body
+  rotate: false
+  xy: 416, 245
+  size: 140, 219
+  orig: 164, 220
+  offset: 2, 1
+  index: -1
+Dianxian
+  rotate: false
+  xy: 2, 423
+  size: 34, 41
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+FootLeft
+  rotate: false
+  xy: 397, 19
+  size: 70, 155
+  orig: 85, 284
+  offset: 14, 0
+  index: -1
+FootRight
+  rotate: false
+  xy: 2, 15
+  size: 93, 183
+  orig: 93, 183
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 42
+  size: 496, 422
+  orig: 496, 422
+  offset: 0, 0
+  index: -1
+LegLeft
+  rotate: true
+  xy: 260, 3
+  size: 64, 150
+  orig: 64, 150
+  offset: 0, 0
+  index: -1
+LegRight
+  rotate: 180
+  xy: 483, 97
+  size: 86, 217
+  orig: 86, 217
+  offset: 0, 0
+  index: -1

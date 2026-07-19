@@ -1,0 +1,160 @@
+
+V45UiMovie_XiBoKeLaDi_Role.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 544, 619
+  size: 459, 715
+  orig: 459, 715
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 210, 539
+  size: 59, 150
+  orig: 59, 150
+  offset: 0, 0
+  index: -1
+Hair10
+  rotate: true
+  xy: 2, 4
+  size: 256, 509
+  orig: 256, 509
+  offset: 0, 0
+  index: -1
+Hair11
+  rotate: 270
+  xy: 2, 291
+  size: 268, 578
+  orig: 268, 578
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: true
+  xy: 455, 8
+  size: 147, 417
+  orig: 162, 424
+  offset: 0, 7
+  index: -1
+Hair8
+  rotate: true
+  xy: 400, 75
+  size: 110, 187
+  orig: 110, 187
+  offset: 0, 0
+  index: -1
+Hair9
+  rotate: false
+  xy: 1150, 429
+  size: 91, 276
+  orig: 91, 276
+  offset: 0, 0
+  index: -1
+gongpai
+  rotate: 270
+  xy: 651, 123
+  size: 230, 453
+  orig: 230, 453
+  offset: 0, 0
+  index: -1
+hlingkou
+  rotate: false
+  xy: 566, 1006
+  size: 206, 87
+  orig: 206, 87
+  offset: 0, 0
+  index: -1
+hpifeng
+  rotate: false
+  xy: 2, 599
+  size: 566, 494
+  orig: 566, 494
+  offset: 0, 0
+  index: -1
+lianzi
+  rotate: false
+  xy: 2, 8
+  size: 184, 56
+  orig: 193, 56
+  offset: 0, 0
+  index: -1
+xiongzhen
+  rotate: false
+  xy: 521, 699
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+yinying3
+  rotate: false
+  xy: 2, 233
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+yinying4
+  rotate: false
+  xy: 2, 522
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+yinying5
+  rotate: false
+  xy: 109, 159
+  size: 50, 145
+  orig: 50, 145
+  offset: 0, 0
+  index: -1
+yinying6
+  rotate: false
+  xy: 2, 763
+  size: 35, 124
+  orig: 35, 124
+  offset: 0, 0
+  index: -1
+ylingkou
+  rotate: false
+  xy: 2, 582
+  size: 92, 145
+  orig: 101, 145
+  offset: 9, 0
+  index: -1
+ypifeng
+  rotate: true
+  xy: 462, 355
+  size: 342, 632
+  orig: 342, 632
+  offset: 0, 0
+  index: -1
+zlingkou
+  rotate: false
+  xy: 161, 182
+  size: 54, 123
+  orig: 54, 123
+  offset: 0, 0
+  index: -1
+zpifeng
+  rotate: 270
+  xy: 174, 139
+  size: 269, 624
+  orig: 269, 624
+  offset: 0, 0
+  index: -1
+zshoubi
+  rotate: false
+  xy: 1096, 216
+  size: 162, 381
+  orig: 182, 381
+  offset: 20, 0
+  index: -1
+zxiaobi
+  rotate: false
+  xy: 1102, 8
+  size: 127, 206
+  orig: 127, 206
+  offset: 0, 0
+  index: -1

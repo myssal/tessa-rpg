@@ -1,0 +1,55 @@
+
+V45UiMovie_LifuQm_Kou.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: false
+  xy: 2, 3
+  size: 212, 219
+  orig: 212, 225
+  offset: 0, 6
+  index: -1
+mouth1
+  rotate: false
+  xy: 35, 207
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+mouth11
+  rotate: false
+  xy: 2, 28
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 15
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 2, 169
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+mouth5
+  rotate: false
+  xy: 2, 149
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+mouth6
+  rotate: false
+  xy: 2, 195
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1

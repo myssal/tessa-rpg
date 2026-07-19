@@ -1,0 +1,76 @@
+
+LilisiTutorialV31_Fn.webp
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: xy
+Effect_starglow_2
+  rotate: false
+  xy: 2, 25
+  size: 315, 268
+  orig: 315, 268
+  offset: 0, 0
+  index: -1
+Fg_puke_6_1
+  rotate: true
+  xy: 673, 2
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_6_2
+  rotate: true
+  xy: 496, 2
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_6_3
+  rotate: true
+  xy: 319, 2
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a1
+  rotate: false
+  xy: 783, 118
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a2
+  rotate: false
+  xy: 667, 118
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a3
+  rotate: false
+  xy: 551, 118
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_b_1
+  rotate: false
+  xy: 899, 125
+  size: 113, 168
+  orig: 113, 168
+  offset: 0, 0
+  index: -1
+Fg_puke_b_2
+  rotate: false
+  xy: 435, 118
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_b_3
+  rotate: false
+  xy: 319, 118
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1

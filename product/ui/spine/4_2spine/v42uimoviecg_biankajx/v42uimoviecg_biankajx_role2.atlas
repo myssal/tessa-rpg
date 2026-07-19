@@ -1,0 +1,76 @@
+
+V42UiMovieCG_BiAnKaJX_Role2.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role2_1
+  rotate: 270
+  xy: 1078, 41
+  size: 474, 69
+  orig: 474, 69
+  offset: 0, 0
+  index: -1
+Role2_2
+  rotate: 180
+  xy: 668, 97
+  size: 284, 410
+  orig: 284, 410
+  offset: 0, 0
+  index: -1
+Role2_3
+  rotate: 180
+  xy: 2, 35
+  size: 681, 233
+  orig: 681, 233
+  offset: 0, 0
+  index: -1
+Role2_4
+  rotate: false
+  xy: 2, 202
+  size: 709, 313
+  orig: 709, 313
+  offset: 0, 0
+  index: -1
+Role2_5
+  rotate: 180
+  xy: 898, 4
+  size: 138, 182
+  orig: 138, 182
+  offset: 0, 0
+  index: -1
+Role_145
+  rotate: true
+  xy: 898, 110
+  size: 404, 183
+  orig: 404, 183
+  offset: 0, 0
+  index: -1
+Role_146
+  rotate: false
+  xy: 2, 396
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+Role_147
+  rotate: false
+  xy: 2, 339
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+Role_148
+  rotate: false
+  xy: 3, 306
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Role_149
+  rotate: false
+  xy: 2, 426
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1

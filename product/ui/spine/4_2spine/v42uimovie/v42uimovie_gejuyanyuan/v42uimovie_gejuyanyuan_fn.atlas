@@ -1,0 +1,153 @@
+
+V42UiMovie_GeJuYanYuan_Fn.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Eye1
+  rotate: false
+  xy: 440, 266
+  size: 49, 25
+  orig: 51, 27
+  offset: 1, 1
+  index: -1
+Eye10
+  rotate: false
+  xy: 190, 271
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 2, 243
+  size: 44, 33
+  orig: 47, 34
+  offset: 2, 0
+  index: -1
+Eye3
+  rotate: false
+  xy: 133, 256
+  size: 55, 45
+  orig: 57, 47
+  offset: 1, 1
+  index: -1
+Eye4
+  rotate: false
+  xy: 48, 247
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 353, 243
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 135, 390
+  size: 62, 24
+  orig: 63, 26
+  offset: 0, 1
+  index: -1
+Eye7
+  rotate: false
+  xy: 2, 278
+  size: 73, 52
+  orig: 75, 54
+  offset: 1, 1
+  index: -1
+Eye8
+  rotate: false
+  xy: 135, 360
+  size: 60, 28
+  orig: 62, 30
+  offset: 1, 2
+  index: -1
+Eye9
+  rotate: false
+  xy: 399, 245
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 387, 278
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+Eyebrow1
+  rotate: true
+  xy: 353, 291
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 395, 371
+  size: 105, 132
+  orig: 106, 132
+  offset: 1, 0
+  index: -1
+Hair3
+  rotate: true
+  xy: 395, 293
+  size: 76, 108
+  orig: 77, 109
+  offset: 1, 1
+  index: -1
+Hair4
+  rotate: true
+  xy: 2, 332
+  size: 82, 131
+  orig: 82, 131
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: false
+  xy: 244, 257
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Hair7
+  rotate: true
+  xy: 204, 353
+  size: 150, 189
+  orig: 152, 190
+  offset: 2, 1
+  index: -1
+Hair8
+  rotate: true
+  xy: 135, 303
+  size: 48, 129
+  orig: 48, 130
+  offset: 0, 1
+  index: -1
+Hair9
+  rotate: true
+  xy: 2, 416
+  size: 87, 200
+  orig: 87, 201
+  offset: 0, 1
+  index: -1
+Shadow1
+  rotate: false
+  xy: 77, 270
+  size: 54, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Shadow2
+  rotate: true
+  xy: 266, 268
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1

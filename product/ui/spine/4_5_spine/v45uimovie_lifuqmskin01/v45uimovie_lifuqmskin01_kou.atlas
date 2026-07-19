@@ -1,0 +1,55 @@
+
+V45UiMovie_LifuQMSkin01_Kou.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face
+  rotate: false
+  xy: 2, 3
+  size: 191, 240
+  orig: 191, 240
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: false
+  xy: 155, 192
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+shangya
+  rotate: false
+  xy: 45, 236
+  size: 29, 8
+  orig: 39, 10
+  offset: 5, 2
+  index: -1
+shangzuipi
+  rotate: false
+  xy: 125, 224
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 2, 191
+  size: 26, 21
+  orig: 27, 21
+  offset: 1, 0
+  index: -1
+xiaya
+  rotate: false
+  xy: 2, 12
+  size: 30, 10
+  orig: 39, 11
+  offset: 4, 0
+  index: -1
+xiazuipi
+  rotate: false
+  xy: 2, 212
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1

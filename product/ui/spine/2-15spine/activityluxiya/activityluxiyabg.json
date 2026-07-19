@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "pTcIJsTcMDU",
+	"spine": "4.3.08",
+	"x": -1921,
+	"y": -1081,
+	"width": 3842,
+	"height": 2162,
+	"images": "./Images/",
+	"audio": null
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "beijing", "bone": "root", "attachment": "beijing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beijing": {
+				"beijing": { "scaleX": 2, "scaleY": 2, "width": 1921, "height": 1081 }
+			}
+		}
+	}
+],
+"animations": {
+	"Enable": {},
+	"idle": {}
+}
+}

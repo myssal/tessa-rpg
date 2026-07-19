@@ -1,0 +1,174 @@
+
+V45UiMovie_LiFu_QS2_Role.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+body1
+  rotate: false
+  xy: 791, 4
+  size: 146, 202
+  orig: 146, 202
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2, 6
+  size: 87, 196
+  orig: 87, 196
+  offset: 0, 0
+  index: -1
+body3
+  rotate: 180
+  xy: 539, 248
+  size: 384, 639
+  orig: 384, 639
+  offset: 0, 0
+  index: -1
+body7
+  rotate: false
+  xy: 200, 7
+  size: 114, 67
+  orig: 114, 67
+  offset: 0, 0
+  index: -1
+hair10
+  rotate: false
+  xy: 414, 134
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+hair11
+  rotate: false
+  xy: 2, 365
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+hair12
+  rotate: false
+  xy: 895, 23
+  size: 225, 318
+  orig: 225, 318
+  offset: 0, 0
+  index: -1
+hair13
+  rotate: false
+  xy: 2, 483
+  size: 89, 398
+  orig: 89, 398
+  offset: 0, 0
+  index: -1
+hair14
+  rotate: false
+  xy: 779, 285
+  size: 342, 843
+  orig: 342, 843
+  offset: 0, 0
+  index: -1
+hair15
+  rotate: false
+  xy: 1025, 654
+  size: 81, 315
+  orig: 81, 315
+  offset: 0, 0
+  index: -1
+hair16
+  rotate: false
+  xy: 883, 13
+  size: 112, 85
+  orig: 112, 85
+  offset: 0, 0
+  index: -1
+hair17
+  rotate: true
+  xy: 2, 94
+  size: 53, 263
+  orig: 53, 263
+  offset: 0, 0
+  index: -1
+hair18
+  rotate: 270
+  xy: 2, 3
+  size: 251, 840
+  orig: 251, 840
+  offset: 0, 0
+  index: -1
+hair19
+  rotate: true
+  xy: 26, 314
+  size: 167, 292
+  orig: 167, 292
+  offset: 0, 0
+  index: -1
+hair20
+  rotate: false
+  xy: 622, 724
+  size: 87, 148
+  orig: 87, 148
+  offset: 0, 0
+  index: -1
+hair21
+  rotate: false
+  xy: 2, 292
+  size: 775, 836
+  orig: 775, 836
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: 270
+  xy: 2, 176
+  size: 219, 478
+  orig: 219, 478
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 81, 472
+  size: 90, 257
+  orig: 90, 257
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: false
+  xy: 923, 885
+  size: 59, 243
+  orig: 59, 243
+  offset: 0, 0
+  index: -1
+peishi2
+  rotate: false
+  xy: 161, 421
+  size: 73, 142
+  orig: 73, 142
+  offset: 0, 0
+  index: -1
+peishi3
+  rotate: false
+  xy: 558, 354
+  size: 44, 141
+  orig: 44, 141
+  offset: 0, 0
+  index: -1
+peishi4
+  rotate: false
+  xy: 165, 515
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+peishi6
+  rotate: false
+  xy: 2, 931
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+peishi7
+  rotate: false
+  xy: 826, 416
+  size: 103, 166
+  orig: 103, 166
+  offset: 0, 0
+  index: -1

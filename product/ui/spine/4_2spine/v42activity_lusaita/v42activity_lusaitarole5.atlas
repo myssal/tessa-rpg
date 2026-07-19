@@ -1,0 +1,34 @@
+
+V42Activity_LusaitaRole5.webp
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_252_2
+  rotate: false
+  xy: 2, 159
+  size: 120, 242
+  orig: 120, 242
+  offset: 0, 0
+  index: -1
+Role_321
+  rotate: false
+  xy: 2, 91
+  size: 121, 66
+  orig: 121, 66
+  offset: 0, 0
+  index: -1
+Role_322
+  rotate: 180
+  xy: 3, 4
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+Role_323
+  rotate: 180
+  xy: 2, 66
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1

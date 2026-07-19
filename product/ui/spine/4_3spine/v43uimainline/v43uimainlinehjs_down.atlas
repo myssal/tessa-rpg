@@ -1,0 +1,300 @@
+
+V43UiMainLineHJS_down.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1cheng_1
+  rotate: true
+  xy: 1860, 353
+  size: 326, 97
+  orig: 326, 97
+  offset: 0, 0
+  index: -1
+1cheng_2
+  rotate: false
+  xy: 1212, 193
+  size: 289, 114
+  orig: 289, 114
+  offset: 0, 0
+  index: -1
+1cheng_3
+  rotate: true
+  xy: 6, 179
+  size: 251, 300
+  orig: 251, 300
+  offset: 0, 0
+  index: -1
+1cheng_4
+  rotate: false
+  xy: 1180, 313
+  size: 321, 131
+  orig: 321, 132
+  offset: 0, 1
+  index: -1
+1cheng_5
+  rotate: false
+  xy: 913, 164
+  size: 292, 104
+  orig: 292, 104
+  offset: 0, 0
+  index: -1
+1cheng_6
+  rotate: false
+  xy: 1507, 265
+  size: 295, 85
+  orig: 295, 85
+  offset: 0, 0
+  index: -1
+2cheng_1
+  rotate: false
+  xy: 1507, 356
+  size: 319, 88
+  orig: 319, 88
+  offset: 0, 0
+  index: -1
+2cheng_2
+  rotate: false
+  xy: 312, 222
+  size: 295, 111
+  orig: 295, 111
+  offset: 0, 0
+  index: -1
+2cheng_3
+  rotate: true
+  xy: 613, 64
+  size: 249, 294
+  orig: 249, 294
+  offset: 0, 0
+  index: -1
+2cheng_4
+  rotate: false
+  xy: 1413, 490
+  size: 441, 130
+  orig: 441, 130
+  offset: 0, 0
+  index: -1
+2cheng_5
+  rotate: false
+  xy: 1507, 161
+  size: 273, 98
+  orig: 273, 98
+  offset: 0, 0
+  index: -1
+2cheng_6
+  rotate: false
+  xy: 1786, 128
+  size: 197, 84
+  orig: 197, 84
+  offset: 0, 0
+  index: -1
+3cheng_1
+  rotate: false
+  xy: 410, 374
+  size: 319, 60
+  orig: 319, 60
+  offset: 0, 0
+  index: -1
+3cheng_2
+  rotate: false
+  xy: 809, 404
+  size: 365, 66
+  orig: 365, 66
+  offset: 0, 0
+  index: -1
+3cheng_3
+  rotate: false
+  xy: 508, 505
+  size: 449, 134
+  orig: 449, 134
+  offset: 0, 0
+  index: -1
+3cheng_4
+  rotate: false
+  xy: 1786, 218
+  size: 242, 41
+  orig: 242, 41
+  offset: 0, 0
+  index: -1
+3cheng_5
+  rotate: false
+  xy: 6, 436
+  size: 398, 69
+  orig: 398, 69
+  offset: 0, 0
+  index: -1
+3chengsui_1
+  rotate: true
+  xy: 1963, 376
+  size: 303, 73
+  orig: 303, 73
+  offset: 0, 0
+  index: -1
+3chengsui_2
+  rotate: true
+  xy: 1591, 35
+  size: 120, 163
+  orig: 120, 163
+  offset: 0, 0
+  index: -1
+3chengsui_3
+  rotate: true
+  xy: 1760, 11
+  size: 111, 160
+  orig: 111, 160
+  offset: 0, 0
+  index: -1
+3chengsui_4
+  rotate: false
+  xy: 1808, 275
+  size: 208, 44
+  orig: 208, 44
+  offset: 0, 0
+  index: -1
+4cheng_1
+  rotate: false
+  xy: 6, 511
+  size: 407, 58
+  orig: 407, 58
+  offset: 0, 0
+  index: -1
+4cheng_2
+  rotate: false
+  xy: 735, 319
+  size: 300, 79
+  orig: 300, 79
+  offset: 0, 0
+  index: -1
+4cheng_3
+  rotate: false
+  xy: 963, 476
+  size: 444, 144
+  orig: 444, 144
+  offset: 0, 0
+  index: -1
+4cheng_4
+  rotate: false
+  xy: 1708, 685
+  size: 330, 55
+  orig: 330, 55
+  offset: 0, 0
+  index: -1
+4cheng_5
+  rotate: false
+  xy: 913, 274
+  size: 293, 33
+  orig: 293, 33
+  offset: 0, 0
+  index: -1
+4chengsui_1
+  rotate: false
+  xy: 312, 181
+  size: 198, 35
+  orig: 198, 35
+  offset: 0, 0
+  index: -1
+4chengsui_2
+  rotate: false
+  xy: 312, 72
+  size: 186, 103
+  orig: 192, 103
+  offset: 0, 0
+  index: -1
+4chengsui_3
+  rotate: false
+  xy: 197, 82
+  size: 99, 91
+  orig: 104, 91
+  offset: 5, 0
+  index: -1
+4chengsui_4
+  rotate: true
+  xy: 1211, 73
+  size: 114, 196
+  orig: 114, 196
+  offset: 0, 0
+  index: -1
+4chengsui_5
+  rotate: true
+  xy: 1413, 71
+  size: 84, 172
+  orig: 84, 172
+  offset: 0, 0
+  index: -1
+4chengsui_6
+  rotate: true
+  xy: 6, 6
+  size: 167, 185
+  orig: 167, 185
+  offset: 0, 0
+  index: -1
+4chengsui_7
+  rotate: false
+  xy: 504, 56
+  size: 97, 119
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+4chengsui_8
+  rotate: false
+  xy: 913, 69
+  size: 176, 89
+  orig: 242, 89
+  offset: 0, 0
+  index: -1
+4chengsui_9
+  rotate: true
+  xy: 1708, 628
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+5cheng_1
+  rotate: false
+  xy: 312, 339
+  size: 296, 29
+  orig: 296, 29
+  offset: 0, 0
+  index: -1
+5cheng_2
+  rotate: false
+  xy: 410, 440
+  size: 393, 59
+  orig: 393, 59
+  offset: 0, 0
+  index: -1
+5cheng_3
+  rotate: false
+  xy: 6, 575
+  size: 496, 64
+  orig: 496, 64
+  offset: 0, 0
+  index: -1
+5cheng_4
+  rotate: false
+  xy: 1413, 450
+  size: 369, 34
+  orig: 369, 34
+  offset: 0, 0
+  index: -1
+5cheng_5
+  rotate: false
+  xy: 1808, 325
+  size: 220, 22
+  orig: 220, 22
+  offset: 0, 0
+  index: -1
+UI_BG_1
+  rotate: false
+  xy: 6, 645
+  size: 960, 95
+  orig: 960, 95
+  offset: 0, 0
+  index: -1
+UI_BG_2
+  rotate: false
+  xy: 972, 626
+  size: 730, 114
+  orig: 730, 178
+  offset: 0, 0
+  index: -1

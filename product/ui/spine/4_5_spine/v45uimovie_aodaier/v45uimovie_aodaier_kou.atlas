@@ -1,0 +1,62 @@
+
+V45UiMovie_AoDaiEr_Kou.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face1
+  rotate: false
+  xy: 2, 31
+  size: 200, 239
+  orig: 200, 239
+  offset: 0, 0
+  index: -1
+Hair20
+  rotate: 270
+  xy: 160, 3
+  size: 268, 193
+  orig: 271, 193
+  offset: 3, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 2, 246
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 2, 23
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 2, 12
+  size: 26, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 138, 256
+  size: 27, 16
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 2, 229
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 52, 8
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1

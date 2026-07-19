@@ -1,0 +1,27 @@
+
+V45UiMovieCG_ShengHongQiuYingBg.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_background
+  rotate: false
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+Bg_star 1
+  rotate: true
+  xy: 964, 340
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+Bg_star 2
+  rotate: true
+  xy: 964, 442
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1

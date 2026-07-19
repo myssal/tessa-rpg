@@ -1,0 +1,153 @@
+
+V45PassportSkin_LifuTEH_Huaban.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_guangdian1
+  rotate: false
+  xy: 1526, 321
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+Bg_guangdian2
+  rotate: false
+  xy: 307, 400
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+Bg_guangdian3
+  rotate: false
+  xy: 700, 11
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+Bg_guangdian4
+  rotate: false
+  xy: 967, 375
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+Bg_ha1
+  rotate: false
+  xy: 22, 458
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Bg_ha2
+  rotate: false
+  xy: 163, 462
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Bg_ha3
+  rotate: false
+  xy: 2, 459
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Bg_ha4
+  rotate: false
+  xy: 191, 461
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Bg_ha5
+  rotate: false
+  xy: 200, 464
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Bg_ha6
+  rotate: false
+  xy: 179, 459
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Bg_ha7
+  rotate: false
+  xy: 39, 466
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Bg_haitangA1
+  rotate: true
+  xy: 1714, 45
+  size: 114, 174
+  orig: 114, 174
+  offset: 0, 0
+  index: -1
+Bg_haitangA2
+  rotate: true
+  xy: 663, 397
+  size: 77, 191
+  orig: 77, 191
+  offset: 0, 0
+  index: -1
+Bg_haitangA3
+  rotate: true
+  xy: 651, 94
+  size: 380, 635
+  orig: 380, 635
+  offset: 0, 0
+  index: -1
+Bg_haitangA4
+  rotate: true
+  xy: 1526, 39
+  size: 435, 438
+  orig: 435, 438
+  offset: 0, 0
+  index: -1
+Bg_haitangB1
+  rotate: false
+  xy: 2, 48
+  size: 360, 425
+  orig: 360, 425
+  offset: 0, 0
+  index: -1
+Bg_haitangB2
+  rotate: false
+  xy: 495, 12
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+Bg_haitangB3
+  rotate: true
+  xy: 363, 99
+  size: 375, 349
+  orig: 375, 349
+  offset: 0, 0
+  index: -1
+Bg_haitangB4
+  rotate: false
+  xy: 920, 4
+  size: 330, 276
+  orig: 330, 276
+  offset: 0, 0
+  index: -1
+Bg_huaban
+  rotate: true
+  xy: 1890, 44
+  size: 429, 147
+  orig: 429, 147
+  offset: 0, 0
+  index: -1
+Fn_xue3
+  rotate: false
+  xy: 1288, 112
+  size: 236, 362
+  orig: 236, 362
+  offset: 0, 0
+  index: -1

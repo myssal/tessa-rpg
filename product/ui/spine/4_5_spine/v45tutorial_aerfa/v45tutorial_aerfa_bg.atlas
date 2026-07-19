@@ -1,0 +1,13 @@
+
+V45Tutorial_Aerfa_Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 2
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UiMovie_S_BuouxiongHJTV41Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_guang1
+  rotate: false
+  xy: 2, 3
+  size: 653, 534
+  orig: 653, 534
+  offset: 0, 0
+  index: -1
+Bg_guang2
+  rotate: 180
+  xy: 1022, 273
+  size: 528, 668
+  orig: 528, 668
+  offset: 0, 0
+  index: -1
+Bg_guang3
+  rotate: true
+  xy: 604, 25
+  size: 390, 675
+  orig: 390, 675
+  offset: 0, 0
+  index: -1
+Bg_guangdian1
+  rotate: false
+  xy: 2, 942
+  size: 1537, 865
+  orig: 1537, 865
+  offset: 0, 0
+  index: -1
+Bg_guangdian2
+  rotate: false
+  xy: 549, 440
+  size: 510, 405
+  orig: 510, 405
+  offset: 0, 0
+  index: -1
+Bg_guangdian3
+  rotate: false
+  xy: 2, 421
+  size: 641, 520
+  orig: 641, 520
+  offset: 0, 0
+  index: -1

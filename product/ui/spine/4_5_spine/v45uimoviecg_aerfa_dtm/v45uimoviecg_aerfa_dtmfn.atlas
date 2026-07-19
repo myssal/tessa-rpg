@@ -1,0 +1,90 @@
+
+V45UiMovieCG_Aerfa_DtmFn.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn1_1
+  rotate: false
+  xy: 2, 536
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_10
+  rotate: false
+  xy: 484, 536
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_11
+  rotate: false
+  xy: 966, 536
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_2
+  rotate: false
+  xy: 1448, 536
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_3
+  rotate: false
+  xy: 2, 270
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_4
+  rotate: false
+  xy: 484, 270
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_5
+  rotate: false
+  xy: 966, 270
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_6
+  rotate: false
+  xy: 1448, 270
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_7
+  rotate: false
+  xy: 2, 3
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_8
+  rotate: false
+  xy: 484, 3
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+Fn1_9
+  rotate: false
+  xy: 966, 3
+  size: 480, 265
+  orig: 480, 265
+  offset: 0, 0
+  index: -1
+kuan
+  rotate: false
+  xy: 1448, 51
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1

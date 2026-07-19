@@ -1,0 +1,76 @@
+{
+"skeleton": {
+	"hash": "lUu9p30tV+E",
+	"spine": "4.3.08",
+	"x": -1890.3542,
+	"y": -900.2904,
+	"width": 3780.544,
+	"height": 1800.3848,
+	"images": "./images/",
+	"audio": null
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root", "color": "ff0000ff", "icon": "warning" },
+	{ "name": "All2", "parent": "All" },
+	{ "name": "Bg", "parent": "All2" }
+],
+"slots": [
+	{ "name": "root2", "bone": "root", "attachment": "root" },
+	{ "name": "BG", "bone": "Bg", "attachment": "BG" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BG": {
+				"BG": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 2167.5, -1251.0, -2167.5, -1251.0, -2167.5, 1251.0, 2167.5, 1251.0 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 4333.0,
+					"height": 2500.0
+				}
+			},
+			"root2": {
+				"root": {
+					"type": "clipping",
+					"end": "root2",
+					"vertexCount": 4,
+					"vertices": [ -1889.97, 899.97, -1890.35, -900.29, 1889.9, -900.27, 1890.19, 900.09 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"bones": {
+			"All2": {
+				"translate": [
+					{
+						"x": 5.714598,
+						"y": -5.879791,
+						"curve": [ 0.6666667, 5.714598, 2, -12.658937, 0.6666667, -5.879791, 2, -3.728699 ]
+					},
+					{
+						"time": 2.666667,
+						"x": -12.658936,
+						"y": -3.728699,
+						"curve": [ 3.333333, -12.658936, 4.666666, 5.714598, 3.333333, -3.728699, 4.666666, -5.879791 ]
+					},
+					{ "time": 5.333333, "x": 5.714598, "y": -5.879791 }
+				],
+				"scale": [
+					{ "x": 1.01, "y": 1.01, "curve": "stepped" },
+					{ "time": 5.333333, "x": 1.01, "y": 1.01 }
+				]
+			}
+		}
+	}
+}
+}

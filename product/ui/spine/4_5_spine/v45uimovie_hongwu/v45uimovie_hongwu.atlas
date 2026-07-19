@@ -1,0 +1,167 @@
+
+V45UiMovie_HongWu.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: 270
+  xy: 1581, 406
+  size: 449, 464
+  orig: 449, 464
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: 180
+  xy: 1029, 751
+  size: 359, 465
+  orig: 359, 465
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: true
+  xy: 882, 459
+  size: 307, 419
+  orig: 307, 419
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 1120, 1152
+  size: 51, 64
+  orig: 53, 68
+  offset: 1, 2
+  index: -1
+Head
+  rotate: false
+  xy: 898, 12
+  size: 127, 232
+  orig: 127, 232
+  offset: 0, 0
+  index: -1
+Htj
+  rotate: false
+  xy: 1637, 860
+  size: 311, 356
+  orig: 311, 356
+  offset: 0, 0
+  index: -1
+Ldabi
+  rotate: true
+  xy: 1301, 493
+  size: 134, 316
+  orig: 134, 316
+  offset: 0, 0
+  index: -1
+Ldbj1
+  rotate: false
+  xy: 1345, 1115
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+Ldbj2
+  rotate: false
+  xy: 954, 853
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+Lp
+  rotate: false
+  xy: 2, 109
+  size: 97, 818
+  orig: 97, 818
+  offset: 0, 0
+  index: -1
+Lpiao
+  rotate: true
+  xy: 79, 9
+  size: 288, 821
+  orig: 288, 821
+  offset: 0, 0
+  index: -1
+Lshou
+  rotate: false
+  xy: 733, 60
+  size: 163, 201
+  orig: 165, 203
+  offset: 1, 1
+  index: -1
+Lxiaobi
+  rotate: true
+  xy: 132, 174
+  size: 229, 388
+  orig: 229, 388
+  offset: 0, 0
+  index: -1
+Myifu
+  rotate: false
+  xy: 2, 403
+  size: 1044, 813
+  orig: 1044, 813
+  offset: 0, 0
+  index: -1
+Rdabi
+  rotate: false
+  xy: 1907, 778
+  size: 139, 318
+  orig: 179, 335
+  offset: 0, 0
+  index: -1
+Rdbj1
+  rotate: false
+  xy: 1303, 670
+  size: 109, 79
+  orig: 111, 81
+  offset: 1, 1
+  index: -1
+Rdbj2
+  rotate: false
+  xy: 1950, 1108
+  size: 96, 97
+  orig: 98, 98
+  offset: 1, 0
+  index: -1
+Rp
+  rotate: true
+  xy: 981, 377
+  size: 102, 840
+  orig: 102, 840
+  offset: 0, 0
+  index: -1
+Rpiao
+  rotate: 270
+  xy: 652, 89
+  size: 390, 834
+  orig: 390, 834
+  offset: 0, 0
+  index: -1
+Rshou
+  rotate: true
+  xy: 528, 68
+  size: 167, 203
+  orig: 167, 203
+  offset: 0, 0
+  index: -1
+Rxiaobi
+  rotate: true
+  xy: 1212, 155
+  size: 230, 384
+  orig: 230, 384
+  offset: 0, 0
+  index: -1
+guang
+  rotate: 270
+  xy: 1383, 646
+  size: 570, 314
+  orig: 570, 328
+  offset: 0, 14
+  index: -1
+toujin
+  rotate: true
+  xy: 1642, 3
+  size: 511, 404
+  orig: 511, 404
+  offset: 0, 0
+  index: -1

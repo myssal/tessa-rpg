@@ -1,0 +1,160 @@
+
+V42Tutorial_LuosaitaBg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_Role_yy1
+  rotate: false
+  xy: 90, 610
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Bg_Role_yy2
+  rotate: false
+  xy: 543, 575
+  size: 137, 48
+  orig: 137, 48
+  offset: 0, 0
+  index: -1
+Bg_Role_yy2a
+  rotate: false
+  xy: 304, 591
+  size: 130, 32
+  orig: 130, 32
+  offset: 0, 0
+  index: -1
+Bg_Role_yy2b
+  rotate: false
+  xy: 2, 581
+  size: 126, 42
+  orig: 126, 42
+  offset: 0, 0
+  index: -1
+Bg_Role_yy2c
+  rotate: false
+  xy: 380, 540
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+Bg_Role_yy2d
+  rotate: false
+  xy: 2, 534
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+Bg_Role_yy3
+  rotate: false
+  xy: 2, 286
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+Bg_Role_yy4
+  rotate: false
+  xy: 2, 562
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Bg_Role_yy5
+  rotate: false
+  xy: 424, 553
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Bg_Role_yy6
+  rotate: false
+  xy: 614, 353
+  size: 312, 139
+  orig: 312, 139
+  offset: 0, 0
+  index: -1
+Bg_dingwei1
+  rotate: false
+  xy: 426, 13
+  size: 3, 260
+  orig: 3, 260
+  offset: 0, 0
+  index: -1
+Bg_dingwei2
+  rotate: false
+  xy: 117, 594
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Bg_dingwei3
+  rotate: false
+  xy: 500, 74
+  size: 4, 308
+  orig: 4, 308
+  offset: 0, 0
+  index: -1
+Bg_dingwei4
+  rotate: false
+  xy: 2, 503
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Bg_dingwei5
+  rotate: false
+  xy: 398, 562
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Bg_qiang4
+  rotate: false
+  xy: 454, 482
+  size: 501, 142
+  orig: 501, 142
+  offset: 0, 0
+  index: -1
+Bg_qiang5
+  rotate: false
+  xy: 2, 250
+  size: 808, 374
+  orig: 808, 374
+  offset: 0, 0
+  index: -1
+Bg_qiang6
+  rotate: 180
+  xy: 966, 3
+  size: 769, 621
+  orig: 769, 621
+  offset: 0, 0
+  index: -1
+Bg_tx
+  rotate: false
+  xy: 2, 201
+  size: 496, 169
+  orig: 496, 169
+  offset: 0, 0
+  index: -1
+Bg_tx2
+  rotate: false
+  xy: 2, 84
+  size: 423, 190
+  orig: 423, 190
+  offset: 0, 0
+  index: -1
+Bg_tx3
+  rotate: false
+  xy: 812, 287
+  size: 628, 232
+  orig: 628, 232
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 625
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1

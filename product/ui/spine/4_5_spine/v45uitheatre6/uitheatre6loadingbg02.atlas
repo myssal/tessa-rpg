@@ -1,0 +1,34 @@
+
+UiTheatre6LoadingBg02.webp
+size: 1942,1419
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Book
+  rotate: false
+  xy: 999, 3
+  size: 838, 507
+  orig: 838, 507
+  offset: 0, 0
+  index: -1
+Paper
+  rotate: false
+  xy: 647, 506
+  size: 650, 912
+  orig: 650, 912
+  offset: 0, 0
+  index: -1
+PaperL
+  rotate: false
+  xy: 2, 509
+  size: 643, 908
+  orig: 657, 916
+  offset: 2, 6
+  index: -1
+PaperL - 副本
+  rotate: 180
+  xy: 1292, 507
+  size: 647, 911
+  orig: 657, 916
+  offset: 1, 5
+  index: -1

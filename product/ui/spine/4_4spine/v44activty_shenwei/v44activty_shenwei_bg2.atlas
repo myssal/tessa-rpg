@@ -1,0 +1,13 @@
+
+V44Activty_ShenWei_Bg2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 2, 3
+  size: 1921, 1210
+  orig: 1921, 1210
+  offset: 0, 0
+  index: -1

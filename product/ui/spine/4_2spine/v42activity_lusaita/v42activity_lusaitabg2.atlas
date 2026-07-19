@@ -1,0 +1,20 @@
+
+V42Activity_LusaitaBg2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_guang1
+  rotate: true
+  xy: 2, 3
+  size: 507, 827
+  orig: 507, 827
+  offset: 0, 0
+  index: -1
+Bg_qiang
+  rotate: false
+  xy: 2, 511
+  size: 1921, 917
+  orig: 1921, 917
+  offset: 0, 0
+  index: -1

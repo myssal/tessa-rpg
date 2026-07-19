@@ -1,0 +1,20 @@
+
+FxUiMovieHudieMainLine.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y
+  rotate: false
+  xy: 64, 4
+  size: 67, 109
+  orig: 130, 130
+  offset: 60, 8
+  index: -1
+Z
+  rotate: false
+  xy: 0, 0
+  size: 64, 113
+  orig: 130, 130
+  offset: 4, 7
+  index: -1

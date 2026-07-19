@@ -1,0 +1,181 @@
+
+V45UiMovie_XiBoKeLaDi_Fn.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye1
+  rotate: true
+  xy: 119, 107
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+Eye10
+  rotate: true
+  xy: 243, 297
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+Eye11
+  rotate: true
+  xy: 2, 4
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Eye12
+  rotate: true
+  xy: 77, 190
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Eye13
+  rotate: 270
+  xy: 302, 431
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Eye14
+  rotate: false
+  xy: 258, 111
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: 270
+  xy: 249, 372
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: false
+  xy: 28, 4
+  size: 65, 14
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: true
+  xy: 165, 359
+  size: 57, 15
+  orig: 57, 15
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 2, 472
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 111, 445
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 260, 64
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: true
+  xy: 139, 149
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+Eye9
+  rotate: true
+  xy: 289, 163
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: 270
+  xy: 175, 3
+  size: 59, 150
+  orig: 59, 150
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 96, 71
+  size: 147, 417
+  orig: 162, 424
+  offset: 0, 7
+  index: -1
+Hair3
+  rotate: false
+  xy: 2, 254
+  size: 168, 233
+  orig: 168, 233
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: false
+  xy: 2, 4
+  size: 122, 250
+  orig: 122, 250
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: true
+  xy: 119, 20
+  size: 99, 208
+  orig: 99, 208
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: 180
+  xy: 198, 152
+  size: 133, 336
+  orig: 133, 336
+  offset: 0, 0
+  index: -1
+Hair7
+  rotate: false
+  xy: 228, 121
+  size: 43, 157
+  orig: 43, 157
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: true
+  xy: 62, 152
+  size: 87, 125
+  orig: 87, 132
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: 180
+  xy: 120, 224
+  size: 59, 133
+  orig: 59, 133
+  offset: 0, 0
+  index: -1
+yinying1
+  rotate: true
+  xy: 232, 4
+  size: 17, 82
+  orig: 17, 82
+  offset: 0, 0
+  index: -1
+yinying2
+  rotate: false
+  xy: 237, 379
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1

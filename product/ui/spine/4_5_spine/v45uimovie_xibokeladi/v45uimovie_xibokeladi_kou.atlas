@@ -1,0 +1,55 @@
+
+V45UiMovie_XiBoKeLaDi_Kou.webp
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Face
+  rotate: false
+  xy: 2, 2
+  size: 222, 293
+  orig: 222, 293
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 165, 260
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 2, 270
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 48, 284
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 2, 22
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 2, 220
+  size: 26, 23
+  orig: 27, 25
+  offset: 1, 2
+  index: -1
+Mouth6
+  rotate: false
+  xy: 2, 244
+  size: 34, 27
+  orig: 34, 29
+  offset: 0, 0
+  index: -1

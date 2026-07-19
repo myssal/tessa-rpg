@@ -1,0 +1,48 @@
+
+UiMovieLiFuJRV40Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 431
+  size: 1537, 865
+  orig: 1537, 865
+  offset: 0, 0
+  index: -1
+Bg_chuang
+  rotate: false
+  xy: 2, 144
+  size: 679, 75
+  orig: 679, 75
+  offset: 0, 0
+  index: -1
+Bg_guizi
+  rotate: true
+  xy: 2, 221
+  size: 208, 865
+  orig: 208, 865
+  offset: 0, 0
+  index: -1
+Bg_sha
+  rotate: false
+  xy: 1541, 360
+  size: 428, 937
+  orig: 428, 937
+  offset: 0, 0
+  index: -1
+Bg_sha2
+  rotate: true
+  xy: 869, 250
+  size: 179, 777
+  orig: 179, 777
+  offset: 0, 0
+  index: -1
+Bg_yizhi
+  rotate: true
+  xy: 1333, 3
+  size: 364, 404
+  orig: 364, 404
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"Wls+/dFXkWo","spine":"4.3.70-beta","images":null,"audio":null},"bones":[{"name":"root"},{"name":"bg","parent":"root"}],"slots":[{"name":"bg","bone":"bg","attachment":"bg"}],"skins":[{"name":"default","attachments":{"bg":{"bg":{"width":3842,"height":2162}}}}],"animations":{"idle":{}}}

@@ -1,0 +1,27 @@
+
+V45UiMovieCG_Aerfa_DtmBG.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+bg1
+  rotate: false
+  xy: 332, 3
+  size: 314, 290
+  orig: 314, 290
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 3
+  size: 328, 290
+  orig: 328, 290
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: true
+  xy: 647, 89
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1

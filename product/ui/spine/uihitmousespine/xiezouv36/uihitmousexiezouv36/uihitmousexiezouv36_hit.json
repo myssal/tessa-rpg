@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"64YFYvBBRx8","spine":"4.3.70-beta","images":null,"audio":null},"bones":[{"name":"root"}],"slots":[{"name":"Role_Hit","bone":"root","attachment":"Role_Hit"}],"skins":[{"name":"default","attachments":{"Role_Hit":{"Role_Hit":{"y":-8.01,"scaleX":0.255,"scaleY":0.255,"width":1026,"height":1413}}}}],"animations":{"animation":{"drawOrder":[{"time":2.666667}]}}}

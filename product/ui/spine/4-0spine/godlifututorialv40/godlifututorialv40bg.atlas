@@ -1,0 +1,293 @@
+
+GodLiFuTutorialV40Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_js19
+  rotate: 270
+  xy: 1298, 90
+  size: 93, 371
+  orig: 93, 425
+  offset: 0, 18
+  index: -1
+Bg_js21
+  rotate: true
+  xy: 2, 303
+  size: 548, 681
+  orig: 548, 724
+  offset: 0, 43
+  index: -1
+Bg_js22
+  rotate: false
+  xy: 358, 277
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Bg_js23
+  rotate: true
+  xy: 1030, 165
+  size: 212, 319
+  orig: 212, 319
+  offset: 0, 0
+  index: -1
+Bg_js24
+  rotate: false
+  xy: 442, 304
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+Bg_js25
+  rotate: false
+  xy: 237, 37
+  size: 14, 157
+  orig: 14, 157
+  offset: 0, 0
+  index: -1
+Bg_js26
+  rotate: false
+  xy: 612, 166
+  size: 54, 123
+  orig: 78, 226
+  offset: 24, 0
+  index: -1
+Bg_js27
+  rotate: true
+  xy: 491, 89
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+Bg_js28
+  rotate: true
+  xy: 207, 160
+  size: 236, 465
+  orig: 236, 465
+  offset: 0, 0
+  index: -1
+Bg_js29
+  rotate: false
+  xy: 17, 106
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+Bg_js30
+  rotate: 180
+  xy: 2, 4
+  size: 201, 236
+  orig: 201, 236
+  offset: 0, 0
+  index: -1
+Bg_js31
+  rotate: true
+  xy: 2, 162
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+Bg_js32
+  rotate: false
+  xy: 235, 277
+  size: 125, 25
+  orig: 125, 25
+  offset: 0, 0
+  index: -1
+Bg_js33
+  rotate: false
+  xy: 675, 794
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Bg_js34
+  rotate: false
+  xy: 991, 835
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Bg_js35
+  rotate: false
+  xy: 76, 35
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+Bg_js36
+  rotate: false
+  xy: 162, 11
+  size: 61, 150
+  orig: 61, 150
+  offset: 0, 0
+  index: -1
+Bg_js37
+  rotate: false
+  xy: 668, 241
+  size: 15, 93
+  orig: 15, 93
+  offset: 0, 0
+  index: -1
+Bg_js38
+  rotate: 270
+  xy: 797, 141
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: -1
+Bg_js39
+  rotate: false
+  xy: 420, 841
+  size: 50, 9
+  orig: 50, 9
+  offset: 0, 0
+  index: -1
+Bg_js40
+  rotate: 270
+  xy: 790, 86
+  size: 179, 238
+  orig: 179, 238
+  offset: 0, 0
+  index: -1
+Bg_js41
+  rotate: false
+  xy: 1030, 836
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Bg_js42
+  rotate: false
+  xy: 212, 257
+  size: 102, 18
+  orig: 102, 35
+  offset: 0, 0
+  index: -1
+Bg_js43
+  rotate: false
+  xy: 471, 841
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+Bg_js44
+  rotate: false
+  xy: 1074, 763
+  size: 91, 43
+  orig: 91, 43
+  offset: 0, 0
+  index: -1
+Bg_js45
+  rotate: false
+  xy: 1068, 797
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+Bg_js46
+  rotate: false
+  xy: 153, 277
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+Bg_js47
+  rotate: false
+  xy: 727, 834
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+Bg_js48
+  rotate: false
+  xy: 1162, 834
+  size: 122, 17
+  orig: 122, 17
+  offset: 0, 0
+  index: -1
+Bg_js49
+  rotate: false
+  xy: 674, 812
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Bg_js50
+  rotate: 270
+  xy: 1272, 312
+  size: 405, 656
+  orig: 447, 676
+  offset: 42, 20
+  index: -1
+Bg_js51
+  rotate: false
+  xy: 2, 47
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+Bg_js52
+  rotate: 270
+  xy: 1313, 171
+  size: 155, 420
+  orig: 155, 420
+  offset: 0, 0
+  index: -1
+Bg_js54
+  rotate: true
+  xy: 1672, 142
+  size: 185, 273
+  orig: 185, 273
+  offset: 0, 0
+  index: -1
+Bg_js55
+  rotate: 270
+  xy: 653, 213
+  size: 258, 447
+  orig: 258, 454
+  offset: 0, 0
+  index: -1
+Bg_js56
+  rotate: true
+  xy: 684, 420
+  size: 431, 729
+  orig: 431, 733
+  offset: 0, 4
+  index: -1
+Bg_js57
+  rotate: false
+  xy: 2, 852
+  size: 1921, 1082
+  orig: 1921, 1082
+  offset: 0, 0
+  index: -1
+Effect_gd25
+  rotate: false
+  xy: 1334, 727
+  size: 31, 124
+  orig: 31, 124
+  offset: 0, 0
+  index: -1
+Effect_gd26
+  rotate: false
+  xy: 595, 361
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Effect_gd27
+  rotate: false
+  xy: 716, 824
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Effect_gd32
+  rotate: false
+  xy: 411, 276
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

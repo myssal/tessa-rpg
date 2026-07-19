@@ -1,0 +1,62 @@
+
+UiLineArithmetic3Role02.webp
+size: 529,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 351, 153
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 224
+  size: 45, 27
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 282, 15
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+footleft
+  rotate: false
+  xy: 462, 5
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+footright
+  rotate: 180
+  xy: 399, 27
+  size: 68, 127
+  orig: 68, 127
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 3
+  size: 303, 246
+  orig: 303, 246
+  offset: 0, 0
+  index: -1
+legleft
+  rotate: false
+  xy: 17, 5
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+legright
+  rotate: 180
+  xy: 428, 133
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1

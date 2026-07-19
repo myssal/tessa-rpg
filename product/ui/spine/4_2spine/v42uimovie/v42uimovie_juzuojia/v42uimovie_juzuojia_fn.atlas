@@ -1,0 +1,286 @@
+
+V42UiMovie_JuZuoJia_Fn.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Eye1
+  rotate: false
+  xy: 349, 4
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+Eye10
+  rotate: true
+  xy: 482, 130
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Eye11
+  rotate: true
+  xy: 263, 7
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Eye12
+  rotate: true
+  xy: 470, 458
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Eye13
+  rotate: true
+  xy: 482, 82
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Eye14
+  rotate: false
+  xy: 162, 139
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Eye15
+  rotate: true
+  xy: 474, 243
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Eye16
+  rotate: false
+  xy: 424, 88
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 474, 268
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: true
+  xy: 437, 234
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 388, 172
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: true
+  xy: 420, 8
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: true
+  xy: 456, 319
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 437, 220
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: true
+  xy: 482, 6
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Eye9
+  rotate: false
+  xy: 424, 143
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 359, 416
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Hair10
+  rotate: true
+  xy: 282, 354
+  size: 43, 100
+  orig: 43, 100
+  offset: 0, 0
+  index: -1
+Hair11
+  rotate: false
+  xy: 2, 323
+  size: 55, 187
+  orig: 55, 187
+  offset: 0, 0
+  index: -1
+Hair12
+  rotate: true
+  xy: 458, 179
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+Hair13
+  rotate: false
+  xy: 63, 147
+  size: 97, 180
+  orig: 97, 180
+  offset: 0, 0
+  index: -1
+Hair14
+  rotate: true
+  xy: 157, 11
+  size: 49, 104
+  orig: 49, 104
+  offset: 0, 0
+  index: -1
+Hair15
+  rotate: false
+  xy: 458, 394
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Hair16
+  rotate: false
+  xy: 356, 40
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+Hair17
+  rotate: true
+  xy: 59, 329
+  size: 181, 145
+  orig: 181, 147
+  offset: 0, 1
+  index: -1
+Hair18
+  rotate: false
+  xy: 206, 350
+  size: 74, 160
+  orig: 74, 160
+  offset: 0, 0
+  index: -1
+Hair19
+  rotate: true
+  xy: 377, 292
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: true
+  xy: 384, 377
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+Hair3
+  rotate: false
+  xy: 377, 218
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Hair36
+  rotate: true
+  xy: 272, 206
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: true
+  xy: 184, 62
+  size: 89, 170
+  orig: 89, 174
+  offset: 0, 4
+  index: -1
+Hair5
+  rotate: true
+  xy: 2, 3
+  size: 65, 153
+  orig: 65, 153
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: false
+  xy: 2, 137
+  size: 59, 184
+  orig: 59, 184
+  offset: 0, 0
+  index: -1
+Hair7
+  rotate: true
+  xy: 272, 156
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+Hair8
+  rotate: true
+  xy: 359, 451
+  size: 59, 109
+  orig: 59, 109
+  offset: 0, 0
+  index: -1
+Hair9
+  rotate: true
+  xy: 2, 70
+  size: 65, 180
+  orig: 76, 180
+  offset: 11, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 482, 34
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+yanbai2
+  rotate: false
+  xy: 424, 115
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 162, 153
+  size: 174, 108
+  orig: 174, 108
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 282, 399
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1

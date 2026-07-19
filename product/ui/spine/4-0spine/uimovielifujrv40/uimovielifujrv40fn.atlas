@@ -1,0 +1,146 @@
+
+UiMovieLiFuJRV40Fn.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn_canzhuo
+  rotate: false
+  xy: 2, 248
+  size: 1258, 466
+  orig: 1258, 466
+  offset: 0, 0
+  index: -1
+Fn_hua1
+  rotate: false
+  xy: 2, 209
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+Fn_hua2
+  rotate: false
+  xy: 1255, 24
+  size: 82, 154
+  orig: 82, 154
+  offset: 0, 0
+  index: -1
+Fn_hua3
+  rotate: false
+  xy: 1163, 7
+  size: 96, 180
+  orig: 96, 180
+  offset: 0, 0
+  index: -1
+Fn_huaping
+  rotate: false
+  xy: 1098, 14
+  size: 92, 170
+  orig: 92, 170
+  offset: 0, 0
+  index: -1
+Fn_huaping2
+  rotate: false
+  xy: 2, 704
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+Fn_lizi_A
+  rotate: false
+  xy: 2, 687
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Fn_lizi_B
+  rotate: false
+  xy: 2, 647
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Fn_lizi_C
+  rotate: false
+  xy: 2, 637
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Fn_lizi_D
+  rotate: false
+  xy: 2, 621
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Fn_lizi_E
+  rotate: false
+  xy: 2, 615
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fn_lizi_F
+  rotate: false
+  xy: 2, 670
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Fn_lizi_G
+  rotate: false
+  xy: 2, 628
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Fn_lizi_H
+  rotate: false
+  xy: 2, 657
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Fn_shoubi
+  rotate: false
+  xy: 715, 3
+  size: 517, 446
+  orig: 517, 446
+  offset: 0, 0
+  index: -1
+Fn_shoubi_guang
+  rotate: false
+  xy: 2, 39
+  size: 439, 209
+  orig: 439, 209
+  offset: 0, 0
+  index: -1
+Fn_shuye1
+  rotate: false
+  xy: 335, 155
+  size: 414, 161
+  orig: 414, 161
+  offset: 0, 0
+  index: -1
+Fn_shuye2
+  rotate: false
+  xy: 443, 73
+  size: 225, 126
+  orig: 225, 126
+  offset: 0, 0
+  index: -1
+Fn_shuye3
+  rotate: false
+  xy: 455, 272
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1
+Fn_shuye4
+  rotate: true
+  xy: 1234, 244
+  size: 470, 451
+  orig: 470, 451
+  offset: 0, 0
+  index: -1

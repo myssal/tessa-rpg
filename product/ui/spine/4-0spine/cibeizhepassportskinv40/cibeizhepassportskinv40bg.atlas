@@ -1,0 +1,118 @@
+
+CiBeiZhePassportSkinV40Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_cbz_10
+  rotate: true
+  xy: 1925, 743
+  size: 179, 57
+  orig: 179, 57
+  offset: 0, 0
+  index: -1
+Bg_cbz_11
+  rotate: false
+  xy: 1984, 670
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+Bg_cbz_12
+  rotate: true
+  xy: 1994, 993
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+Bg_cbz_13
+  rotate: false
+  xy: 1925, 540
+  size: 26, 100
+  orig: 26, 100
+  offset: 0, 0
+  index: -1
+Bg_cbz_17
+  rotate: false
+  xy: 2, 2
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+Bg_cbz_18
+  rotate: false
+  xy: 1953, 438
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+Bg_cbz_19
+  rotate: true
+  xy: 1984, 761
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+Bg_cbz_2
+  rotate: true
+  xy: 1925, 403
+  size: 33, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+Bg_cbz_20
+  rotate: false
+  xy: 1994, 862
+  size: 32, 129
+  orig: 32, 129
+  offset: 0, 0
+  index: -1
+Bg_cbz_21
+  rotate: false
+  xy: 2036, 960
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Bg_cbz_22
+  rotate: false
+  xy: 2028, 977
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Bg_cbz_23
+  rotate: true
+  xy: 2028, 951
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Bg_cbz_3
+  rotate: false
+  xy: 1925, 365
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+Bg_cbz_4
+  rotate: true
+  xy: 1925, 642
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+Bg_cbz_8
+  rotate: true
+  xy: 1959, 542
+  size: 126, 66
+  orig: 126, 69
+  offset: 0, 3
+  index: -1
+Bg_cbz_9
+  rotate: false
+  xy: 1925, 924
+  size: 67, 159
+  orig: 71, 159
+  offset: 4, 0
+  index: -1

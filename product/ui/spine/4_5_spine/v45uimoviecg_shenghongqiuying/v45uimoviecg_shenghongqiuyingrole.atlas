@@ -1,0 +1,258 @@
+
+V45UiMovieCG_ShengHongQiuYingRole.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect _bottomGlow
+  rotate: false
+  xy: 342, 540
+  size: 479, 100
+  orig: 479, 100
+  offset: 0, 0
+  index: -1
+Role_body
+  rotate: false
+  xy: 1101, 887
+  size: 861, 872
+  orig: 900, 872
+  offset: 0, 0
+  index: -1
+Role_body1
+  rotate: false
+  xy: 2, 642
+  size: 1098, 1118
+  orig: 1098, 1118
+  offset: 0, 0
+  index: -1
+Role_brow
+  rotate: false
+  xy: 2, 1728
+  size: 99, 31
+  orig: 102, 31
+  offset: 0, 0
+  index: -1
+Role_cloth
+  rotate: false
+  xy: 1027, 977
+  size: 204, 180
+  orig: 205, 180
+  offset: 1, 0
+  index: -1
+Role_eyeball
+  rotate: false
+  xy: 170, 1575
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Role_eyewhite
+  rotate: false
+  xy: 1925, 1476
+  size: 74, 81
+  orig: 79, 102
+  offset: 0, 5
+  index: -1
+Role_face down
+  rotate: false
+  xy: 1741, 1665
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+Role_face up
+  rotate: true
+  xy: 689, 99
+  size: 250, 318
+  orig: 250, 318
+  offset: 0, 0
+  index: -1
+Role_faceGlow
+  rotate: false
+  xy: 1853, 1559
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1
+Role_faceReflection
+  rotate: false
+  xy: 836, 283
+  size: 888, 664
+  orig: 888, 757
+  offset: 0, 83
+  index: -1
+Role_faceShadow
+  rotate: false
+  xy: 1702, 702
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+Role_hair1
+  rotate: false
+  xy: 1159, 106
+  size: 232, 176
+  orig: 271, 177
+  offset: 0, 1
+  index: -1
+Role_hair10
+  rotate: false
+  xy: 1846, 106
+  size: 200, 259
+  orig: 200, 259
+  offset: 0, 0
+  index: -1
+Role_hair11
+  rotate: true
+  xy: 1235, 138
+  size: 159, 528
+  orig: 179, 528
+  offset: 20, 0
+  index: -1
+Role_hair12
+  rotate: false
+  xy: 1726, 589
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+Role_hair13
+  rotate: false
+  xy: 210, 1607
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+Role_hair14
+  rotate: false
+  xy: 2007, 1453
+  size: 31, 104
+  orig: 31, 104
+  offset: 0, 0
+  index: -1
+Role_hair2
+  rotate: 270
+  xy: 2, 4
+  size: 294, 299
+  orig: 294, 301
+  offset: 0, 2
+  index: -1
+Role_hair3
+  rotate: true
+  xy: 27, 161
+  size: 350, 659
+  orig: 350, 660
+  offset: 0, 1
+  index: -1
+Role_hair4
+  rotate: true
+  xy: 2, 342
+  size: 423, 783
+  orig: 434, 787
+  offset: 0, 4
+  index: -1
+Role_hair5
+  rotate: 180
+  xy: 1678, 211
+  size: 367, 536
+  orig: 367, 536
+  offset: 0, 0
+  index: -1
+Role_hair6
+  rotate: false
+  xy: 2, 1442
+  size: 262, 317
+  orig: 262, 317
+  offset: 0, 0
+  index: -1
+Role_hair7
+  rotate: false
+  xy: 1854, 744
+  size: 192, 370
+  orig: 192, 370
+  offset: 0, 0
+  index: -1
+Role_hair8
+  rotate: 270
+  xy: 94, 77
+  size: 217, 381
+  orig: 254, 385
+  offset: 0, 4
+  index: -1
+Role_hair9
+  rotate: false
+  xy: 1957, 1273
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+Role_lid lower
+  rotate: false
+  xy: 1955, 1374
+  size: 50, 100
+  orig: 52, 101
+  offset: 2, 0
+  index: -1
+Role_lid up
+  rotate: false
+  xy: 1233, 943
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+Role_light
+  rotate: false
+  xy: 103, 1747
+  size: 11, 12
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Role_lower face
+  rotate: false
+  xy: 1101, 1179
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+Role_star1
+  rotate: false
+  xy: 1792, 1602
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Role_star2
+  rotate: false
+  xy: 1962, 1216
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Role_teeth lower
+  rotate: false
+  xy: 2, 1687
+  size: 31, 39
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Role_teeth up
+  rotate: false
+  xy: 1873, 1536
+  size: 43, 21
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Role_tongue
+  rotate: false
+  xy: 331, 1626
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Rolo_01
+  rotate: false
+  xy: 1009, 115
+  size: 132, 168
+  orig: 219, 242
+  offset: 44, 37
+  index: -1

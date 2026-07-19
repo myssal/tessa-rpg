@@ -1,0 +1,27 @@
+
+LuxiyaTutorialBg.webp
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: xy
+LXYG_161
+  rotate: 180
+  xy: 679, 2
+  size: 343, 332
+  orig: 343, 332
+  offset: 0, 0
+  index: -1
+LXYG_162
+  rotate: true
+  xy: 658, 260
+  size: 206, 200
+  orig: 206, 200
+  offset: 0, 0
+  index: -1
+LXYG_163
+  rotate: false
+  xy: 2, 74
+  size: 654, 392
+  orig: 654, 392
+  offset: 0, 0
+  index: -1

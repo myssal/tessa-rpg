@@ -1,0 +1,55 @@
+
+V42UiMovie_JuZuoJia_Kou.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face
+  rotate: false
+  xy: 2, 86
+  size: 237, 298
+  orig: 237, 298
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 66, 57
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 2, 38
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: true
+  xy: 32, 3
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: true
+  xy: 66, 21
+  size: 34, 24
+  orig: 35, 24
+  offset: 1, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 2, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 125, 51
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1

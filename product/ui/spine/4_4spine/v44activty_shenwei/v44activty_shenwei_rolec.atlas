@@ -1,0 +1,97 @@
+
+V44Activty_ShenWei_RoleC.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_RenA1
+  rotate: false
+  xy: 138, 65
+  size: 161, 103
+  orig: 161, 103
+  offset: 0, 0
+  index: -1
+Bg_RenA10
+  rotate: true
+  xy: 2, 106
+  size: 526, 806
+  orig: 526, 806
+  offset: 0, 0
+  index: -1
+Bg_RenA11
+  rotate: true
+  xy: 920, 69
+  size: 217, 327
+  orig: 217, 327
+  offset: 0, 0
+  index: -1
+Bg_RenA2
+  rotate: 180
+  xy: 694, 4
+  size: 224, 189
+  orig: 224, 189
+  offset: 0, 0
+  index: -1
+Bg_RenA3
+  rotate: true
+  xy: 810, 160
+  size: 322, 506
+  orig: 322, 506
+  offset: 0, 0
+  index: -1
+Bg_RenA4
+  rotate: true
+  xy: 1094, 8
+  size: 160, 187
+  orig: 160, 187
+  offset: 0, 0
+  index: -1
+Bg_RenA5
+  rotate: false
+  xy: 299, 71
+  size: 264, 131
+  orig: 264, 131
+  offset: 0, 0
+  index: -1
+Bg_RenA6
+  rotate: false
+  xy: 2, 449
+  size: 189, 147
+  orig: 189, 147
+  offset: 0, 0
+  index: -1
+Bg_RenA7
+  rotate: false
+  xy: 78, 386
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Bg_RenA8
+  rotate: false
+  xy: 2, 9
+  size: 170, 108
+  orig: 170, 108
+  offset: 0, 0
+  index: -1
+Bg_RenA9
+  rotate: false
+  xy: 2, 114
+  size: 229, 219
+  orig: 229, 219
+  offset: 0, 0
+  index: -1
+Bg_huo1
+  rotate: false
+  xy: 1208, 440
+  size: 81, 192
+  orig: 83, 194
+  offset: 1, 1
+  index: -1
+Bg_huo4
+  rotate: false
+  xy: 2, 634
+  size: 1315, 400
+  orig: 1315, 400
+  offset: 0, 0
+  index: -1

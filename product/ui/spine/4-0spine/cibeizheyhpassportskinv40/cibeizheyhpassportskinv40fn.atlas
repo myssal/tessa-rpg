@@ -1,0 +1,265 @@
+
+CiBeiZheYHPassportSkinV40Fn.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_cbz_1
+  rotate: false
+  xy: 823, 1747
+  size: 26, 176
+  orig: 26, 176
+  offset: 0, 0
+  index: -1
+Effect_cbz_10
+  rotate: false
+  xy: 2, 841
+  size: 437, 1082
+  orig: 437, 1082
+  offset: 0, 0
+  index: -1
+Effect_cbz_11
+  rotate: true
+  xy: 1054, 1265
+  size: 330, 164
+  orig: 330, 164
+  offset: 0, 0
+  index: -1
+Effect_cbz_12
+  rotate: true
+  xy: 2, 292
+  size: 548, 338
+  orig: 548, 338
+  offset: 0, 0
+  index: -1
+Effect_cbz_16
+  rotate: false
+  xy: 2, 1280
+  size: 26, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Effect_cbz_17
+  rotate: false
+  xy: 1203, 1734
+  size: 127, 46
+  orig: 128, 50
+  offset: 1, 0
+  index: -1
+Effect_cbz_18
+  rotate: false
+  xy: 544, 30
+  size: 76, 28
+  orig: 76, 30
+  offset: 0, 1
+  index: -1
+Effect_cbz_19
+  rotate: false
+  xy: 755, 1475
+  size: 90, 19
+  orig: 92, 21
+  offset: 1, 1
+  index: -1
+Effect_cbz_2
+  rotate: false
+  xy: 755, 1523
+  size: 66, 401
+  orig: 66, 401
+  offset: 0, 0
+  index: -1
+Effect_cbz_20
+  rotate: false
+  xy: 403, 1425
+  size: 23, 57
+  orig: 24, 57
+  offset: 1, 0
+  index: -1
+Effect_cbz_21
+  rotate: false
+  xy: 412, 1484
+  size: 14, 39
+  orig: 15, 39
+  offset: 1, 0
+  index: -1
+Effect_cbz_22
+  rotate: false
+  xy: 414, 1525
+  size: 9, 11
+  orig: 38, 74
+  offset: 3, 0
+  index: -1
+Effect_cbz_23
+  rotate: false
+  xy: 381, 1183
+  size: 173, 194
+  orig: 173, 194
+  offset: 0, 0
+  index: -1
+Effect_cbz_24
+  rotate: false
+  xy: 904, 1279
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+Effect_cbz_25
+  rotate: false
+  xy: 416, 1539
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Effect_cbz_3
+  rotate: true
+  xy: 604, 530
+  size: 905, 162
+  orig: 905, 162
+  offset: 0, 0
+  index: -1
+Effect_cbz_4
+  rotate: true
+  xy: 1209, 615
+  size: 348, 129
+  orig: 348, 129
+  offset: 0, 0
+  index: -1
+Effect_cbz_5
+  rotate: false
+  xy: 1068, 9
+  size: 216, 94
+  orig: 216, 94
+  offset: 0, 0
+  index: -1
+Effect_cbz_6
+  rotate: false
+  xy: 1086, 104
+  size: 235, 45
+  orig: 235, 45
+  offset: 0, 0
+  index: -1
+Effect_cbz_7
+  rotate: false
+  xy: 755, 1497
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+Effect_cbz_8
+  rotate: false
+  xy: 556, 1197
+  size: 44, 238
+  orig: 44, 238
+  offset: 0, 0
+  index: -1
+Effect_cbz_9
+  rotate: false
+  xy: 904, 842
+  size: 152, 421
+  orig: 152, 421
+  offset: 0, 0
+  index: -1
+Fg_cbz_10
+  rotate: 180
+  xy: 443, 22
+  size: 523, 513
+  orig: 523, 513
+  offset: 0, 0
+  index: -1
+Fg_cbz_11
+  rotate: true
+  xy: 1058, 964
+  size: 299, 203
+  orig: 299, 203
+  offset: 0, 0
+  index: -1
+Fg_cbz_13
+  rotate: false
+  xy: 967, 7
+  size: 147, 463
+  orig: 147, 463
+  offset: 0, 0
+  index: -1
+Fg_cbz_14
+  rotate: false
+  xy: 904, 463
+  size: 303, 378
+  orig: 303, 432
+  offset: 0, 54
+  index: -1
+Fg_cbz_15
+  rotate: true
+  xy: 1219, 1183
+  size: 396, 99
+  orig: 396, 99
+  offset: 0, 0
+  index: -1
+Fg_cbz_17
+  rotate: true
+  xy: 341, 538
+  size: 644, 261
+  orig: 644, 261
+  offset: 0, 0
+  index: -1
+Fg_cbz_18_1
+  rotate: true
+  xy: 2, 3
+  size: 288, 540
+  orig: 288, 540
+  offset: 0, 0
+  index: -1
+Fg_cbz_18_2
+  rotate: false
+  xy: 440, 1437
+  size: 313, 487
+  orig: 313, 487
+  offset: 0, 0
+  index: -1
+Fg_cbz_18_3
+  rotate: true
+  xy: 1116, 167
+  size: 444, 114
+  orig: 444, 114
+  offset: 0, 0
+  index: -1
+Fg_cbz_19
+  rotate: true
+  xy: 768, 530
+  size: 941, 134
+  orig: 941, 134
+  offset: 0, 0
+  index: -1
+Fg_cbz_20
+  rotate: false
+  xy: 2, 865
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+Fg_cbz_6
+  rotate: false
+  xy: 849, 1402
+  size: 239, 521
+  orig: 362, 586
+  offset: 123, 0
+  index: -1
+Fg_cbz_7_1
+  rotate: false
+  xy: 2, 909
+  size: 91, 234
+  orig: 91, 234
+  offset: 0, 0
+  index: -1
+Fg_cbz_7_2
+  rotate: false
+  xy: 1090, 1597
+  size: 245, 164
+  orig: 245, 164
+  offset: 0, 0
+  index: -1
+Fg_cbz_8
+  rotate: false
+  xy: 387, 1380
+  size: 164, 48
+  orig: 164, 48
+  offset: 0, 0
+  index: -1

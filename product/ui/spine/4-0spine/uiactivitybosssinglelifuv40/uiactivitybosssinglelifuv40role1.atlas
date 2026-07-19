@@ -1,0 +1,27 @@
+
+UiActivityBossSingleLifuV40Role1.webp
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Glow
+  rotate: false
+  xy: 2, 479
+  size: 321, 151
+  orig: 1553, 1208
+  offset: 479, 769
+  index: -1
+Glow2
+  rotate: false
+  xy: 930, 480
+  size: 291, 148
+  orig: 1553, 1208
+  offset: 686, 782
+  index: -1
+UiActivityBossSingleLifuBg03
+  rotate: false
+  xy: 2, 388
+  size: 1411, 1027
+  orig: 1411, 1027
+  offset: 0, 0
+  index: -1

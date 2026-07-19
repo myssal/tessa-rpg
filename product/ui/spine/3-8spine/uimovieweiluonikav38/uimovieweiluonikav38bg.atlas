@@ -1,0 +1,118 @@
+
+UiMovieWeiluonikaV38Bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 2
+  size: 1729, 973
+  orig: 1729, 973
+  offset: 0, 0
+  index: -1
+Bg_bu
+  rotate: true
+  xy: 1094, 1227
+  size: 96, 434
+  orig: 96, 434
+  offset: 0, 0
+  index: -1
+Bg_bu2
+  rotate: true
+  xy: 1628, 1282
+  size: 81, 316
+  orig: 81, 316
+  offset: 0, 0
+  index: -1
+Bg_dengguang
+  rotate: true
+  xy: 1530, 1177
+  size: 103, 470
+  orig: 103, 470
+  offset: 0, 0
+  index: -1
+Bg_dengguang2
+  rotate: false
+  xy: 976, 977
+  size: 918, 198
+  orig: 918, 198
+  offset: 0, 0
+  index: -1
+Bg_jiguang1
+  rotate: true
+  xy: 2, 1237
+  size: 43, 755
+  orig: 43, 802
+  offset: 0, 47
+  index: -1
+Bg_jiguang10
+  rotate: false
+  xy: 766, 1351
+  size: 498, 12
+  orig: 498, 12
+  offset: 0, 0
+  index: -1
+Bg_jiguang2
+  rotate: true
+  xy: 2, 1359
+  size: 4, 102
+  orig: 4, 102
+  offset: 0, 0
+  index: -1
+Bg_jiguang3
+  rotate: true
+  xy: 539, 1325
+  size: 20, 867
+  orig: 20, 867
+  offset: 0, 0
+  index: -1
+Bg_jiguang4
+  rotate: true
+  xy: 555, 1353
+  size: 10, 209
+  orig: 10, 209
+  offset: 0, 0
+  index: -1
+Bg_jiguang5
+  rotate: true
+  xy: 106, 1358
+  size: 5, 235
+  orig: 5, 235
+  offset: 0, 0
+  index: -1
+Bg_jiguang6
+  rotate: false
+  xy: 343, 1358
+  size: 210, 5
+  orig: 210, 5
+  offset: 0, 0
+  index: -1
+Bg_jiguang7
+  rotate: false
+  xy: 2, 1282
+  size: 1090, 41
+  orig: 1090, 41
+  offset: 0, 0
+  index: -1
+Bg_jiguang8
+  rotate: false
+  xy: 1266, 1347
+  size: 360, 16
+  orig: 360, 16
+  offset: 0, 0
+  index: -1
+Bg_jiguang9
+  rotate: false
+  xy: 2, 1330
+  size: 535, 26
+  orig: 535, 26
+  offset: 0, 0
+  index: -1
+Bg_wuqi5
+  rotate: false
+  xy: 2, 1135
+  size: 972, 100
+  orig: 972, 100
+  offset: 0, 0
+  index: -1
