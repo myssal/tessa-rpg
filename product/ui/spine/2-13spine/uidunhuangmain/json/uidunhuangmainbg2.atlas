@@ -1,0 +1,13 @@
+
+UiDunhuangMainBg2.webp
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: xy
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 1251, 703
+  orig: 1251, 703
+  offset: 0, 0
+  index: -1
