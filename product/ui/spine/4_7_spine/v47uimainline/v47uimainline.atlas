@@ -1,0 +1,90 @@
+V47UIMainLine.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+20260715-155440
+	bounds: 1142, 926, 1024, 576
+	rotate: 90
+dtd
+	bounds: 1915, 1636, 314, 106
+	rotate: 90
+dtd2
+	bounds: 1915, 1324, 310, 106
+	rotate: 90
+f
+	bounds: 1796, 590, 201, 220
+f2
+	bounds: 1796, 370, 193, 218
+	offsets: 6, 0, 200, 218
+f3
+	bounds: 2, 184, 182, 210
+	offsets: 0, 0, 193, 210
+	rotate: 90
+h2
+	bounds: 1142, 266, 658, 350
+	offsets: 0, 0, 658, 365
+	rotate: 90
+hai
+	bounds: 2, 1196, 1138, 180
+	offsets: 0, 201, 1138, 381
+hai2
+	bounds: 2, 1014, 1138, 180
+	offsets: 0, 201, 1138, 381
+hai3
+	bounds: 2, 550, 1138, 180
+	offsets: 0, 201, 1138, 381
+hai4
+	bounds: 2, 368, 1138, 180
+	offsets: 0, 201, 1138, 381
+huaban
+	bounds: 1494, 2, 506, 300
+huaban-2
+	bounds: 1494, 304, 506, 300
+	rotate: 90
+jy
+	bounds: 1915, 1016, 306, 95
+	offsets: 0, 13, 306, 108
+	rotate: 90
+s1
+	bounds: 1915, 834, 46, 43
+s12
+	bounds: 1979, 945, 48, 69
+	offsets: 3, 0, 54, 70
+s14
+	bounds: 1963, 836, 41, 44
+	rotate: 90
+s17
+	bounds: 1631, 818, 33, 36
+	offsets: 0, 1, 33, 37
+	rotate: 90
+s2
+	bounds: 1915, 942, 62, 72
+s3
+	bounds: 1915, 879, 61, 98
+	offsets: 4, 0, 65, 101
+	rotate: 90
+s4
+	bounds: 1584, 853, 71, 112
+	rotate: 90
+s5
+	bounds: 1494, 850, 74, 88
+	rotate: 90
+s9
+	bounds: 1584, 816, 35, 45
+	offsets: 0, 3, 50, 48
+	rotate: 90
+tian
+	bounds: 2, 1757, 1138, 193
+	offsets: 0, 0, 1138, 260
+tian2
+	bounds: 2, 1378, 1138, 184
+	offsets: 0, 0, 1138, 260
+tian3
+	bounds: 2, 732, 1138, 192
+	offsets: 0, 0, 1138, 260
+tian4
+	bounds: 1720, 812, 1138, 193
+	offsets: 0, 0, 1138, 260
+	rotate: 90
+tian5
+	bounds: 2, 1564, 1138, 191
+	offsets: 0, 0, 1138, 260

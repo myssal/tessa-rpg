@@ -1,0 +1,275 @@
+V47UIMainLine_Kalie.webp
+size:2048,1024
+filter:Linear,Linear
+Arm L-1
+bounds:1285,210,202,242
+rotate:90
+Arm L-10
+bounds:1493,249,144,145
+offsets:0,0,147,146
+Arm L-11
+bounds:647,161,181,233
+Arm L-12
+bounds:1777,558,56,29
+offsets:1,0,58,38
+Arm L-13
+bounds:1229,175,118,62
+offsets:1,9,121,72
+Arm L-2
+bounds:1459,167,134,97
+Arm L-3
+bounds:718,600,60,20
+offsets:1,1,64,22
+Arm L-4
+bounds:1704,958,30,52
+offsets:0,0,30,59
+Arm L-5
+bounds:1419,957,30,53
+offsets:1,0,31,55
+Arm L-6
+bounds:1920,910,23,55
+offsets:0,0,23,59
+Arm L-7
+bounds:994,642,40,36
+offsets:6,1,47,42
+Arm L-8
+bounds:873,563,73,57
+Arm L-9
+bounds:114,162,93,161
+offsets:0,0,93,164
+Arm R-1
+bounds:830,231,121,116
+Arm R-10
+bounds:1245,608,122,100
+Arm R-2
+bounds:1597,695,55,34
+offsets:0,0,55,35
+Arm R-3
+bounds:1183,604,61,27
+offsets:4,0,65,27
+Arm R-4
+bounds:780,597,53,23
+Arm R-5
+bounds:948,591,37,29
+offsets:1,0,38,29
+Arm R-6
+bounds:1661,743,40,15
+Arm R-7
+bounds:1519,969,62,41
+offsets:0,1,62,42
+Arm R-8
+bounds:203,187,155,130
+offsets:0,13,174,143
+Arm R-9
+bounds:1847,921,66,89
+back hair1
+bounds:1700,125,346,288
+offsets:16,0,362,288
+rotate:180
+back hair2
+bounds:1843,499,415,203
+rotate:270
+back hair3
+bounds:1249,133,514,150
+offsets:2,0,516,150
+back hair4
+bounds:718,532,154,88
+offsets:0,13,156,103
+back hair5
+bounds:1636,232,335,196
+offsets:0,12,335,208
+back hair6
+bounds:399,155,104,167
+offsets:17,0,126,169
+back hair7
+bounds:246,2,401,315
+offsets:2,0,403,317
+back hair8
+bounds:49,135,273,109
+ball
+bounds:1735,989,24,21
+offsets:0,0,24,23
+body
+bounds:1419,716,266,294
+bow1_1
+bounds:1944,733,101,100
+bow1_2
+bounds:1407,306,87,135
+rotate:90
+bow1_3
+bounds:928,175,96,94
+clothes
+bounds:497,200,96,121
+offsets:0,0,96,171
+hair1_1
+bounds:1915,435,71,79
+hair1_10
+bounds:4,796,25,65
+offsets:2,0,27,66
+hair1_2
+bounds:1598,933,83,77
+offsets:0,1,83,79
+hair1_3
+bounds:1848,869,20,50
+hair1_4
+bounds:358,393,83,64
+hair1_5
+bounds:1635,634,103,104
+hair1_6
+bounds:1848,578,56,66
+hair1_7
+bounds:2017,813,26,20
+offsets:1,0,28,20
+hair1_8
+bounds:1820,663,42,52
+hair1_9
+bounds:1369,619,41,89
+hair2
+bounds:1419,765,36,49
+offsets:0,9,36,58
+hand1-1
+bounds:994,696,30,69
+hand1-2
+bounds:1419,817,29,78
+offsets:6,0,35,78
+hand1-3
+bounds:1648,892,27,63
+offsets:0,1,27,64
+hand1-4
+bounds:994,865,20,54
+offsets:2,0,22,54
+hand1-5
+bounds:1583,980,35,30
+offsets:1,0,36,32
+hand1-6
+bounds:1975,695,61,40
+offsets:18,0,86,41
+hat1
+bounds:1627,139,119,146
+rotate:270
+hat2
+bounds:2,862,28,148
+offsets:0,6,45,154
+hat3
+bounds:1121,226,192,125
+offsets:0,0,220,125
+head
+bounds:2,213,121,138
+offsets:0,0,130,138
+jixie1
+bounds:1944,835,91,175
+jixie2
+bounds:264,144,175,183
+l brow
+bounds:1736,978,30,15
+offsets:3,0,45,16
+l down lid
+bounds:1745,571,42,26
+offsets:0,4,44,32
+l leg1
+bounds:966,485,142,422
+offsets:0,1,142,423
+rotate:90
+l leg2
+bounds:718,622,388,274
+rotate:90
+l lid
+bounds:1997,678,49,28
+offsets:8,0,64,28
+lingzi1
+bounds:841,534,40,38
+offsets:0,0,40,42
+lingzi2
+bounds:1534,702,39,29
+lingzi3
+bounds:1359,542,62,100
+lingzi4
+bounds:749,167,79,98
+lingzi5
+bounds:1563,948,27,31
+lingzi6
+bounds:8,380,74,89
+lingzi7
+bounds:1721,606,55,45
+mouth
+bounds:1671,757,28,19
+offsets:2,3,30,22
+nose
+bounds:1706,932,21,25
+offsets:0,3,21,28
+r ball
+bounds:994,821,22,21
+r brow
+bounds:994,685,34,18
+offsets:3,2,37,20
+r down lid
+bounds:1569,686,35,26
+offsets:2,3,40,29
+r leg1
+bounds:1405,522,211,340
+offsets:0,3,211,343
+rotate:90
+r leg2
+bounds:916,140,279,253
+offsets:0,11,279,264
+r leg3
+bounds:1244,710,173,300
+r lid
+bounds:1419,734,48,29
+offsets:0,0,56,31
+r spec
+bounds:1023,1003,8,7
+offsets:0,0,8,8
+r white
+bounds:1121,986,34,24
+saihong
+bounds:1588,367,104,38
+offsets:1979,947,3600,2030
+shouzhihua
+bounds:1915,957,20,53
+offsets:0,0,20,62
+skirt1
+bounds:381,376,332,82
+rotate:180
+skirt2
+bounds:94,326,189,130
+rotate:180
+skirt3
+bounds:1002,369,93,119
+skirt4
+bounds:994,622,388,249
+rotate:90
+skirt5
+bounds:708,389,235,145
+offsets:0,0,235,148
+rotate:180
+skirt6
+bounds:1677,588,422,169
+rotate:90
+skirt7
+bounds:1622,422,294,139
+rotate:180
+skirt8
+bounds:1314,395,153,167
+rotate:180
+spec
+bounds:2,1002,9,8
+xiaolian1
+bounds:30,455,686,555
+offsets:1517,612,3600,2030
+rotate:180
+xiaolian2
+bounds:162,276,102,41
+offsets:1858,874,3600,2030
+zhangzui1
+bounds:1567,997,25,13
+offsets:2019,940,3600,2030
+zhangzui2
+bounds:2,787,25,16
+offsets:2019,929,3600,2030
+zhangzui3
+bounds:1005,1003,16,7
+offsets:2025,944,3600,2030
+zhangzui4
+bounds:8,765,21,20
+offsets:2021,931,3600,2030

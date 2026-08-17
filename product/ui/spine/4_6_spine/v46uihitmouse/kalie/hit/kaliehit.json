@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "B/iW+rjG1tU",
+	"spine": "4.3.17",
+	"x": -565,
+	"y": -1,
+	"width": 1124,
+	"height": 865,
+	"images": "D:/熊挨打/打地鼠/kalie/KalieHit/images/",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Body": {
+				"Body": { "x": -3, "y": 431.5, "width": 1124, "height": 865 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

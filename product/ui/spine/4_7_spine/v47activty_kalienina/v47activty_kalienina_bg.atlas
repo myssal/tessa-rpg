@@ -1,0 +1,60 @@
+V47Activty_KaLieNiNa_Bg.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.8
+Bg
+	bounds: 2, 685, 922, 519
+Bg_chuan1
+	bounds: 518, 102, 226, 244
+Bg_chuan10
+	bounds: 594, 7, 511, 536
+	rotate: 90
+Bg_chuan2
+	bounds: 926, 713, 681, 761
+	rotate: 90
+Bg_chuan3
+	bounds: 315, 1230, 378, 225
+Bg_chuan4
+	bounds: 1161, 26, 568, 194
+	offsets: 0, 8, 604, 202
+Bg_chuan5
+	bounds: 2, 1912, 384, 61
+Bg_chuan6
+	bounds: 1663, 77, 653, 382
+	rotate: 90
+Bg_chuan7
+	bounds: 2, 1256, 418, 306
+Bg_chuan8
+	bounds: 2, 1230, 236, 110
+Bg_chuan9
+	bounds: 1272, 58, 389, 239
+Bg_dengguang1
+	bounds: 19, 320, 1600, 454
+Bg_dengguang2
+	bounds: 748, 2, 1298, 894
+Bg_dengta
+	bounds: 1608, 1088, 430, 409
+	rotate: 90
+Bg_dengta_a
+	bounds: 2, 122, 195, 539
+	rotate: 90
+Bg_shan
+	bounds: 2, 1205, 1154, 768
+Bg_shandian1
+	bounds: 2, 1321, 179, 113
+Bg_shandian2
+	bounds: 2, 502, 113, 181
+Bg_shandian3
+	bounds: 88, 1846, 94, 84
+Bg_shandian4
+	bounds: 2, 1864, 70, 58
+Bg_shandian5
+	bounds: 2, 1802, 85, 125
+Bg_shandian6
+	bounds: 411, 1221, 40, 138
+Bg_shandian7
+	bounds: 88, 1861, 74, 49
+Bg_yun
+	bounds: 1157, 1493, 749, 480
+	rotate: 180

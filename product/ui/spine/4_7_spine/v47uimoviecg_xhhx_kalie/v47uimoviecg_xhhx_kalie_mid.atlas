@@ -1,0 +1,49 @@
+V47UiMovieCG_Xhhx_Kalie_Mid.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+bg_fire_12
+	bounds: 267, 608, 383, 752
+	offsets: 0, 0, 527, 918
+	rotate: 90
+bg_fire_13
+	bounds: 1700, 169, 346, 569
+bg_fire_14
+	bounds: 1119, 1480, 272, 209
+	offsets: 0, 52, 272, 261
+bg_fire_15
+	bounds: 512, 2, 407, 634
+	offsets: 275, 586, 682, 1386
+	rotate: 90
+bg_fire_16
+	bounds: 913, 384, 854, 856
+	offsets: 28, 137, 1153, 993
+	rotate: 270
+bg_fire_17
+	bounds: 2, 992, 909, 697
+	offsets: 0, 0, 909, 843
+bg_shadow
+	bounds: 605, 286, 741, 240
+	rotate: 180
+bg_water_11
+	bounds: 715, 1035, 1320, 654
+effect_1
+	bounds: 1106, 815, 233, 242
+	offsets: 0, 0, 243, 314
+roleshadow
+	bounds: 2, 1469, 255, 220
+skateboard
+	bounds: 1350, 693, 696, 487
+	offsets: 0, 0, 696, 495
+water_10
+	bounds: 2, 299, 612, 381
+	rotate: 180
+water_7
+	bounds: 21, 710, 299, 281
+	offsets: 19, 0, 318, 281
+water_8
+	bounds: 1333, 132, 365, 286
+	offsets: 27, 15, 521, 301
+water_9
+	bounds: 984, 106, 359, 248
+	offsets: 0, 0, 429, 277

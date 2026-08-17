@@ -1,0 +1,27 @@
+V47UiMovieCG_Xhhx_Kalie_BG.webp
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.5
+bg
+	bounds: 2, 167, 581, 492
+bg_wave_4
+	bounds: 1579, 195, 464, 307
+	offsets: 0, 0, 541, 403
+	rotate: 90
+bg_wave_5
+	bounds: 395, 2, 339, 290
+	offsets: 0, 7, 345, 297
+bg_wave_6
+	bounds: 1165, 146, 413, 513
+	offsets: 47, 0, 460, 547
+bg_wave_7
+	bounds: 585, 169, 580, 490
+	offsets: 0, 0, 624, 490
+bg_wave_8_1
+	bounds: 1153, 36, 215, 782
+	offsets: 0, 32, 215, 814
+	rotate: 270
+bg_wave_8_2
+	bounds: 735, 69, 101, 388
+	offsets: 147, 239, 248, 814
+	rotate: 90

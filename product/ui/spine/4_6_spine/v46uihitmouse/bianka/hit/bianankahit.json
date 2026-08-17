@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "/imcCN1aKTQ",
+	"spine": "4.3.17",
+	"x": -478,
+	"y": -2,
+	"width": 953,
+	"height": 941,
+	"images": "D:/熊挨打/打地鼠/bianka/Hit/images/",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Body": {
+				"Body": { "x": -1.5, "y": 468.5, "width": 953, "height": 941 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

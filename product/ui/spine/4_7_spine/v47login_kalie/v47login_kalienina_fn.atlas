@@ -1,0 +1,42 @@
+V47Login_KaLieNiNa_Fn.webp
+	size: 512, 1024
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Bg_arms_1
+	bounds: 2, 117, 250, 128
+	offsets: 0, 0, 250, 186
+Bg_arms_2
+	bounds: 2, 72, 659, 497
+	rotate: 90
+Effect_light_F3_2
+	bounds: 132, 409, 42, 39
+Effect_light_F3_6
+	bounds: 176, 410, 56, 23
+Effect_light_F4_1
+	bounds: 132, 247, 128, 128
+Effect_light_F4_4
+	bounds: 2, 332, 128, 128
+Effect_light_F4_5
+	bounds: 2, 603, 128, 128
+Effect_light_F5_1
+	bounds: 400, 2, 80, 80
+Effect_light_F5_10
+	bounds: 84, 250, 40, 80
+	offsets: 0, 0, 80, 80
+Effect_light_F5_2
+	bounds: 318, 45, 80, 80
+Effect_light_F5_3
+	bounds: 236, 45, 80, 80
+Effect_light_F5_4
+	bounds: 84, 46, 80, 80
+Effect_light_F5_5
+	bounds: 2, 122, 80, 80
+Effect_light_F5_6
+	bounds: 316, 127, 80, 80
+Effect_light_F5_7
+	bounds: 234, 127, 80, 80
+Effect_light_F5_8
+	bounds: 262, 209, 80, 80
+Effect_light_F5_9
+	bounds: 2, 250, 80, 80

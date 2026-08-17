@@ -1,0 +1,125 @@
+V47Tutorial_KaLieNiNa_Fn.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Effect_light_F1_1
+	bounds: 315, 653, 489, 279
+Effect_light_F1_2
+	bounds: 2, 386, 283, 236
+Effect_light_F2_1
+	bounds: 2, 1276, 105, 116
+Effect_light_F2_2
+	bounds: 558, 14, 143, 143
+Effect_light_F3_1
+	bounds: 744, 758, 200, 174
+Effect_light_F3_2
+	bounds: 1587, 30, 201, 221
+Effect_rain_1
+	bounds: 2, 961, 111, 158
+	offsets: 0, 0, 205, 158
+	rotate: 90
+Effect_rain_F1
+	bounds: 1597, 479, 381, 449
+	rotate: 270
+Effect_rain_F10
+	bounds: 2, 197, 187, 270
+	rotate: 90
+Effect_rain_F11
+	bounds: 1347, 511, 235, 309
+Effect_rain_F120
+	bounds: 961, 335, 265, 241
+Effect_rain_F13_1
+	bounds: 803, 503, 156, 175
+Effect_rain_F15_1
+	bounds: 1790, 156, 244, 155
+Effect_rain_F15_2
+	bounds: 1915, 920, 106, 200
+Effect_rain_F15_3
+	bounds: 572, 595, 136, 56
+Effect_rain_F16_1
+	bounds: 1390, 1122, 624, 270
+Effect_rain_F17
+	bounds: 961, 578, 384, 370
+Effect_rain_F18
+	bounds: 935, 198, 220, 135
+Effect_rain_F19_1
+	bounds: 1228, 331, 178, 327
+	rotate: 90
+Effect_rain_F21
+	bounds: 1557, 253, 231, 224
+Effect_rain_F22
+	bounds: 2, 624, 311, 317
+Effect_rain_F23
+	bounds: 2, 1232, 41, 43
+Effect_rain_F24
+	bounds: 1390, 822, 298, 523
+	rotate: 90
+Effect_rain_F2_1
+	bounds: 1915, 862, 65, 56
+Effect_rain_F2_2
+	bounds: 1792, 313, 254, 232
+Effect_rain_F3
+	bounds: 274, 166, 191, 214
+	rotate: 90
+Effect_rain_F4
+	bounds: 1982, 554, 64, 109
+Effect_rain_F5
+	bounds: 1162, 81, 158, 248
+Effect_rain_F6
+	bounds: 1584, 717, 86, 103
+Effect_rain_F7
+	bounds: 315, 485, 255, 166
+Effect_rain_F8
+	bounds: 961, 950, 442, 427
+	rotate: 90
+Effect_rain_F9
+	bounds: 299, 69, 257, 95
+Effect_ruins_F1
+	bounds: 392, 359, 398, 567
+	rotate: 90
+Fg_bird_F10
+	bounds: 94, 1332, 32, 17
+Fg_bird_F11
+	bounds: 109, 1370, 33, 22
+Fg_bird_F12_1
+	bounds: 315, 843, 89, 210
+	rotate: 90
+Fg_bird_F12_2
+	bounds: 1789, 45, 210, 109
+Fg_bird_F12_3
+	bounds: 1322, 2, 198, 189
+	rotate: 270
+Fg_bird_F18
+	bounds: 819, 726, 119, 58
+Fg_bird_F2
+	bounds: 2016, 1370, 27, 22
+Fg_bird_F3
+	bounds: 104, 1349, 35, 13
+Fg_bird_F5
+	bounds: 107, 1359, 34, 20
+Fg_bird_F6_1
+	bounds: 2, 16, 179, 296
+	offsets: 0, 9, 179, 305
+	rotate: 270
+Fg_bird_F6_2
+	bounds: 490, 136, 344, 221
+Fg_bird_F6_3
+	bounds: 1322, 22, 307, 265
+	offsets: 0, 6, 317, 271
+	rotate: 90
+Fg_bird_F7
+	bounds: 762, 35, 322, 398
+	rotate: 270
+Fg_bird_F8_1
+	bounds: 1672, 735, 148, 85
+Fg_bird_F8_2
+	bounds: 315, 798, 128, 82
+Fg_bird_F8_3
+	bounds: 287, 392, 89, 99
+	offsets: 1, 0, 90, 99
+Fg_bird_F9
+	bounds: 100, 1328, 31, 20
+Fg_fog_F1
+	bounds: 2, 934, 958, 458
+	offsets: 367, 0, 1325, 458

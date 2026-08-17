@@ -1,0 +1,472 @@
+V47Login_KaLieNiNa_Bg.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Bg_aircraft_1
+	bounds: 916, 463, 1130, 407
+	rotate: 180
+Bg_aircraftt_1
+	bounds: 464, 511, 442, 282
+Bg_bird_1
+	bounds: 1656, 868, 272, 152
+	offsets: 26, 0, 298, 158
+Bg_bird_10
+	bounds: 446, 645, 77, 86
+Bg_bird_14
+	bounds: 2016, 1479, 28, 13
+Bg_bird_15
+	bounds: 2028, 1959, 15, 35
+Bg_bird_16
+	bounds: 2024, 1761, 16, 14
+Bg_bird_17
+	bounds: 166, 1306, 55, 26
+Bg_bird_18
+	bounds: 1886, 1447, 24, 26
+	offsets: 0, 0, 24, 28
+Bg_bird_18_1
+	bounds: 1783, 1372, 32, 49
+Bg_bird_2
+	bounds: 2, 480, 224, 166
+Bg_bird_20
+	bounds: 1820, 1615, 28, 27
+Bg_bird_21
+	bounds: 1816, 1638, 32, 31
+Bg_bird_3
+	bounds: 484, 414, 225, 121
+	rotate: 180
+Bg_bird_32
+	bounds: 1919, 1316, 47, 20
+Bg_bird_33
+	bounds: 2028, 1991, 17, 38
+Bg_bird_34
+	bounds: 1986, 1629, 20, 32
+Bg_bird_35
+	bounds: 1396, 1759, 13, 17
+Bg_bird_35_1
+	bounds: 1850, 1580, 18, 29
+Bg_bird_36
+	bounds: 1986, 1734, 19, 12
+Bg_bird_37
+	bounds: 1398, 1747, 12, 11
+Bg_bird_38
+	bounds: 2028, 1953, 9, 8
+Bg_bird_4
+	bounds: 68, 660, 98, 69
+Bg_bird_5
+	bounds: 1656, 1013, 114, 151
+	rotate: 90
+Bg_bird_6
+	bounds: 1999, 1656, 47, 95
+Bg_bird_7
+	bounds: 853, 599, 66, 86
+Bg_bird_8
+	bounds: 568, 745, 92, 59
+Bg_bird_9
+	bounds: 1656, 817, 94, 92
+Bg_blast_1
+	bounds: 1690, 897, 716, 331
+	rotate: 90
+Bg_blast_2
+	bounds: 2, 500, 832, 466
+	rotate: 90
+Bg_sky_2
+	bounds: 688, 795, 966, 546
+g_00000
+	bounds: 384, 869, 463, 190
+	rotate: 90
+tx/H3_00000
+	bounds: 470, 315, 108, 123
+	offsets: 27, 0, 136, 135
+	rotate: 90
+tx/H3_00001
+	bounds: 137, 327, 107, 125
+	offsets: 27, 0, 136, 135
+	rotate: 90
+tx/H3_00002
+	bounds: 1245, 229, 93, 126
+	offsets: 26, 0, 136, 135
+	rotate: 90
+tx/H3_00003
+	bounds: 910, 250, 95, 127
+	offsets: 23, 0, 136, 135
+	rotate: 90
+tx/H3_00004
+	bounds: 1645, 292, 97, 127
+	offsets: 20, 0, 136, 135
+	rotate: 90
+tx/H3_00005
+	bounds: 781, 315, 99, 127
+	offsets: 17, 0, 136, 135
+	rotate: 90
+tx/H3_00006
+	bounds: 652, 310, 104, 127
+	offsets: 12, 0, 136, 135
+	rotate: 90
+tx/H3_00007
+	bounds: 576, 806, 107, 129
+	offsets: 9, 0, 136, 135
+tx/H3_00008
+	bounds: 916, 347, 114, 130
+	offsets: 5, 0, 136, 135
+	rotate: 90
+tx/H3_00009
+	bounds: 1043, 674, 119, 131
+	offsets: 3, 0, 136, 135
+	rotate: 90
+tx/H3_00010
+	bounds: 2, 354, 124, 133
+	offsets: 2, 0, 136, 135
+	rotate: 90
+tx/H3_00011
+	bounds: 255, 1198, 126, 134
+	offsets: 1, 0, 136, 135
+tx/H3_00012
+	bounds: 334, 370, 128, 134
+	offsets: 1, 0, 136, 135
+	rotate: 90
+tx/H3_00013
+	bounds: 780, 416, 131, 134
+	offsets: 0, 0, 136, 135
+	rotate: 90
+tx/H3_00014
+	bounds: 1913, 1338, 132, 135
+	offsets: 0, 0, 136, 135
+tx/H3_00015
+	bounds: 908, 658, 133, 135
+	offsets: 0, 0, 136, 135
+tx/H3_00016
+	bounds: 1849, 1611, 135, 135
+	offsets: 0, 0, 136, 135
+tx/H3_00017
+	bounds: 431, 733, 135, 134
+	offsets: 1, 0, 136, 135
+tx/H3_00018
+	bounds: 1879, 1475, 135, 134
+	offsets: 1, 0, 136, 135
+tx/H3_00019
+	bounds: 197, 436, 135, 131
+	offsets: 1, 0, 136, 135
+tx/H4_00000
+	bounds: 1783, 1423, 22, 77
+	offsets: 0, 1, 24, 87
+tx/H4_00001
+	bounds: 2016, 1494, 22, 78
+	offsets: 0, 1, 24, 87
+tx/H4_00002
+	bounds: 1783, 1502, 22, 79
+	offsets: 0, 1, 24, 87
+tx/H4_00003
+	bounds: 2016, 1574, 22, 80
+	offsets: 0, 1, 24, 87
+tx/H4_00004
+	bounds: 1807, 1665, 22, 81
+	offsets: 0, 1, 24, 87
+tx/H4_00005
+	bounds: 1979, 1949, 23, 80
+	offsets: 0, 2, 24, 87
+tx/H4_00006
+	bounds: 1783, 1665, 22, 81
+	offsets: 1, 1, 24, 87
+tx/H4_00007
+	bounds: 1783, 1583, 22, 80
+	offsets: 1, 2, 24, 87
+tx/H4_00008
+	bounds: 1954, 1948, 23, 81
+	offsets: 1, 2, 24, 87
+tx/H4_00009
+	bounds: 2004, 1947, 22, 82
+	offsets: 2, 2, 24, 87
+tx/H4_00010
+	bounds: 2024, 1777, 21, 83
+	offsets: 3, 2, 24, 87
+tx/H4_00011
+	bounds: 2024, 1862, 21, 83
+	offsets: 3, 2, 24, 87
+tx/H4_00012
+	bounds: 1932, 1945, 20, 84
+	offsets: 4, 2, 24, 87
+tx/H4_00013
+	bounds: 1889, 1943, 18, 86
+	offsets: 5, 1, 24, 87
+tx/H4_00014
+	bounds: 1869, 1943, 18, 86
+	offsets: 5, 1, 24, 87
+tx/H4_00015
+	bounds: 1848, 1943, 19, 86
+	offsets: 4, 1, 24, 87
+tx/H4_00016
+	bounds: 1828, 1943, 18, 86
+	offsets: 4, 1, 24, 87
+tx/H4_00017
+	bounds: 1806, 1943, 20, 86
+	offsets: 2, 1, 24, 87
+tx/H4_00018
+	bounds: 1909, 1944, 21, 85
+	offsets: 1, 1, 24, 87
+tx/H4_00019
+	bounds: 1783, 1943, 21, 86
+	offsets: 1, 0, 24, 87
+tx/H5_00000
+	bounds: 1246, 324, 65, 196
+	offsets: 1, 2, 74, 207
+	rotate: 90
+tx/H5_00001
+	bounds: 1447, 324, 66, 196
+	offsets: 0, 3, 74, 207
+	rotate: 90
+tx/H5_00002
+	bounds: 1846, 325, 65, 197
+	offsets: 1, 3, 74, 207
+	rotate: 90
+tx/H5_00003
+	bounds: 1048, 324, 65, 196
+	offsets: 1, 4, 74, 207
+	rotate: 90
+tx/H5_00004
+	bounds: 1846, 392, 69, 196
+	offsets: 0, 5, 74, 207
+	rotate: 90
+tx/H5_00005
+	bounds: 1977, 1140, 68, 196
+	offsets: 1, 5, 74, 207
+tx/H5_00006
+	bounds: 1648, 391, 70, 196
+	offsets: 1, 5, 74, 207
+	rotate: 90
+tx/H5_00007
+	bounds: 576, 937, 71, 197
+	offsets: 1, 4, 74, 207
+tx/H5_00008
+	bounds: 576, 1136, 72, 196
+	offsets: 1, 4, 74, 207
+tx/H5_00009
+	bounds: 1248, 391, 70, 197
+	offsets: 2, 4, 74, 207
+	rotate: 90
+tx/H5_00010
+	bounds: 1048, 391, 70, 198
+	offsets: 2, 4, 74, 207
+	rotate: 90
+tx/H5_00011
+	bounds: 1447, 392, 69, 199
+	offsets: 3, 4, 74, 207
+	rotate: 90
+tx/H5_00012
+	bounds: 1176, 725, 68, 200
+	offsets: 3, 4, 74, 207
+	rotate: 90
+tx/H5_00013
+	bounds: 416, 258, 55, 201
+	offsets: 3, 4, 74, 207
+	rotate: 90
+tx/H5_00014
+	bounds: 1373, 264, 58, 202
+	offsets: 1, 3, 74, 207
+	rotate: 90
+tx/H5_00015
+	bounds: 1039, 263, 59, 204
+	offsets: 1, 2, 74, 207
+	rotate: 90
+tx/H5_00016
+	bounds: 1774, 263, 60, 205
+	offsets: 2, 1, 74, 207
+	rotate: 90
+tx/H5_00017
+	bounds: 209, 264, 61, 205
+	offsets: 2, 1, 74, 207
+	rotate: 90
+tx/H5_00018
+	bounds: 2, 264, 61, 205
+	offsets: 3, 1, 74, 207
+	rotate: 90
+tx/H5_00019
+	bounds: 2, 631, 64, 204
+	offsets: 1, 2, 74, 207
+tx/X1_00000
+	bounds: 2, 1945, 704, 84
+	offsets: 3, 2, 708, 95
+tx/X1_00001
+	bounds: 708, 1945, 702, 84
+	offsets: 2, 2, 708, 95
+tx/X1_00002
+	bounds: 704, 1860, 697, 83
+	offsets: 3, 2, 708, 95
+tx/X1_00003
+	bounds: 2, 1775, 696, 82
+	offsets: 4, 2, 708, 95
+tx/X1_00004
+	bounds: 699, 1605, 695, 82
+	offsets: 4, 2, 708, 95
+tx/X1_00005
+	bounds: 704, 1775, 696, 83
+	offsets: 2, 2, 708, 95
+tx/X1_00006
+	bounds: 699, 1689, 695, 84
+	offsets: 2, 2, 708, 95
+tx/X1_00007
+	bounds: 2, 1688, 695, 85
+	offsets: 1, 2, 708, 95
+tx/X1_00008
+	bounds: 2, 1514, 692, 86
+	offsets: 2, 2, 708, 95
+tx/X1_00009
+	bounds: 693, 1343, 689, 90
+	offsets: 4, 2, 708, 95
+tx/X1_00010
+	bounds: 2, 1422, 689, 90
+	offsets: 4, 2, 708, 95
+tx/X1_00011
+	bounds: 1411, 1348, 681, 91
+	offsets: 8, 2, 708, 95
+	rotate: 90
+tx/X1_00012
+	bounds: 1597, 1357, 672, 91
+	offsets: 11, 2, 708, 95
+	rotate: 90
+tx/X1_00013
+	bounds: 1690, 1362, 667, 91
+	offsets: 17, 2, 708, 95
+	rotate: 90
+tx/X1_00014
+	bounds: 1504, 1354, 675, 91
+	offsets: 16, 1, 708, 95
+	rotate: 90
+tx/X1_00015
+	bounds: 2, 1334, 684, 86
+	offsets: 12, 2, 708, 95
+tx/X1_00016
+	bounds: 696, 1435, 691, 83
+	offsets: 10, 2, 708, 95
+tx/X1_00017
+	bounds: 698, 1520, 693, 83
+	offsets: 10, 2, 708, 95
+tx/X1_00018
+	bounds: 2, 1602, 694, 84
+	offsets: 11, 2, 708, 95
+tx/X1_00019
+	bounds: 2, 1859, 700, 84
+	offsets: 7, 2, 708, 95
+tx/h1_00000
+	bounds: 1507, 93, 150, 63
+	offsets: 2, 3, 158, 66
+tx/h1_00001
+	bounds: 1239, 66, 149, 63
+	offsets: 2, 3, 158, 66
+tx/h1_00002
+	bounds: 933, 66, 149, 62
+	offsets: 2, 4, 158, 66
+tx/h1_00003
+	bounds: 1805, 66, 147, 62
+	offsets: 3, 4, 158, 66
+tx/h1_00004
+	bounds: 761, 53, 146, 62
+	offsets: 4, 4, 158, 66
+tx/h1_00005
+	bounds: 909, 2, 145, 62
+	offsets: 4, 4, 158, 66
+tx/h1_00006
+	bounds: 1390, 29, 145, 62
+	offsets: 4, 4, 158, 66
+tx/h1_00007
+	bounds: 1084, 33, 145, 62
+	offsets: 4, 4, 158, 66
+tx/h1_00008
+	bounds: 1231, 2, 144, 62
+	offsets: 4, 4, 158, 66
+tx/h1_00009
+	bounds: 443, 46, 143, 63
+	offsets: 5, 3, 158, 66
+tx/h1_00010
+	bounds: 615, 53, 144, 63
+	offsets: 5, 3, 158, 66
+tx/h1_00011
+	bounds: 297, 60, 144, 63
+	offsets: 5, 3, 158, 66
+tx/h1_00012
+	bounds: 1659, 64, 144, 64
+	offsets: 5, 2, 158, 66
+tx/h1_00013
+	bounds: 150, 65, 145, 64
+	offsets: 5, 2, 158, 66
+tx/h1_00014
+	bounds: 2, 65, 146, 64
+	offsets: 5, 2, 158, 66
+tx/h1_00015
+	bounds: 783, 117, 148, 64
+	offsets: 4, 2, 158, 66
+tx/h1_00016
+	bounds: 310, 125, 151, 64
+	offsets: 3, 2, 158, 66
+tx/h1_00017
+	bounds: 1893, 196, 152, 65
+	offsets: 3, 1, 158, 66
+tx/h1_00018
+	bounds: 1197, 162, 154, 65
+	offsets: 2, 1, 158, 66
+tx/h1_00019
+	bounds: 1735, 196, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00020
+	bounds: 1039, 196, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00021
+	bounds: 314, 1039, 157, 65
+	offsets: 0, 1, 158, 66
+	rotate: 90
+tx/h1_00022
+	bounds: 619, 243, 157, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00023
+	bounds: 160, 197, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00024
+	bounds: 2, 197, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00025
+	bounds: 1373, 197, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00026
+	bounds: 1577, 225, 156, 65
+	offsets: 1, 1, 158, 66
+tx/h1_00027
+	bounds: 474, 176, 154, 65
+	offsets: 2, 1, 158, 66
+tx/h1_00028
+	bounds: 778, 183, 154, 65
+	offsets: 2, 1, 158, 66
+tx/h1_00029
+	bounds: 318, 191, 154, 65
+	offsets: 2, 1, 158, 66
+tx/h1_00030
+	bounds: 1531, 158, 153, 65
+	offsets: 2, 1, 158, 66
+tx/h1_00031
+	bounds: 156, 131, 152, 64
+	offsets: 3, 2, 158, 66
+tx/h1_00032
+	bounds: 2, 131, 152, 64
+	offsets: 3, 2, 158, 66
+tx/h1_00033
+	bounds: 1839, 130, 151, 64
+	offsets: 3, 2, 158, 66
+tx/h1_00034
+	bounds: 1353, 131, 152, 64
+	offsets: 2, 2, 158, 66
+tx/h1_00035
+	bounds: 1686, 130, 151, 64
+	offsets: 2, 2, 158, 66
+tx/h1_00036
+	bounds: 934, 130, 151, 64
+	offsets: 2, 2, 158, 66
+tx/h1_00037
+	bounds: 630, 118, 151, 63
+	offsets: 2, 3, 158, 66
+tx/h1_00038
+	bounds: 1087, 97, 150, 63
+	offsets: 2, 3, 158, 66
+tx/h1_00039
+	bounds: 463, 111, 150, 63
+	offsets: 2, 3, 158, 66
+tx/yan_00000
+	bounds: 1783, 1748, 239, 193

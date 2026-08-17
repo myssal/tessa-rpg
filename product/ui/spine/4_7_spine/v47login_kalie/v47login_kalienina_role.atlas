@@ -1,0 +1,307 @@
+V47Login_KaLieNiNa_Role.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Effect_light_F1_V2
+	bounds: 2, 977, 1317, 765
+Role_arm_L
+	bounds: 822, 163, 164, 424
+Role_arm_R
+	bounds: 2, 758, 173, 217
+Role_arm_R1
+	bounds: 84, 1386, 163, 154
+Role_arms_1
+	bounds: 1002, 232, 272, 117
+Role_arms_2
+	bounds: 1711, 1222, 335, 289
+Role_arms_3
+	bounds: 966, 313, 790, 1080
+	rotate: 90
+Role_arms_4
+	bounds: 1715, 235, 331, 308
+	rotate: 180
+Role_belt_1
+	bounds: 770, 1218, 58, 42
+Role_belt_10
+	bounds: 342, 1696, 46, 207
+	rotate: 270
+Role_belt_15
+	bounds: 125, 1580, 69, 42
+Role_belt_2
+	bounds: 1056, 1329, 88, 87
+Role_belt_3
+	bounds: 1231, 58, 96, 207
+	rotate: 90
+Role_belt_4
+	bounds: 1236, 123, 300, 110
+Role_belt_5
+	bounds: 1146, 1408, 132, 155
+Role_belt_6
+	bounds: 106, 310, 106, 88
+Role_belt_7
+	bounds: 1991, 1667, 39, 38
+Role_belt_8
+	bounds: 932, 881, 112, 111
+Role_belt_9
+	bounds: 1837, 82, 203, 168
+Role_body
+	bounds: 1642, 1332, 240, 410
+Role_bow_1
+	bounds: 255, 871, 118, 144
+Role_bow_2
+	bounds: 1216, 327, 341, 231
+Role_bracelet_L
+	bounds: 726, 1711, 115, 31
+Role_bracelet_L1
+	bounds: 1721, 1194, 85, 87
+Role_bracelet_L2
+	bounds: 1959, 1014, 85, 88
+Role_bracelet_L3
+	bounds: 842, 1710, 114, 32
+	offsets: 0, 2, 114, 34
+Role_bracelet_R
+	bounds: 141, 1709, 111, 33
+Role_bracelet_R2
+	bounds: 920, 211, 134, 92
+Role_bracelet_R3
+	bounds: 106, 187, 127, 84
+Role_bracelet_R4
+	bounds: 1278, 1123, 114, 29
+Role_chain_1
+	bounds: 874, 1690, 31, 36
+Role_chain_12
+	bounds: 254, 1702, 74, 40
+Role_chain_3
+	bounds: 1001, 1717, 50, 25
+Role_cloak_1
+	bounds: 125, 1624, 150, 79
+Role_cloak_2
+	bounds: 1530, 165, 305, 158
+	offsets: 4, 0, 309, 160
+Role_cloak_3
+	bounds: 682, 331, 214, 208
+	offsets: 0, 0, 215, 208
+Role_cloak_4
+	bounds: 1130, 693, 356, 200
+Role_cloak_5
+	bounds: 1462, 552, 64, 108
+Role_cloak_6
+	bounds: 1883, 1419, 64, 78
+Role_cloak_8
+	bounds: 988, 531, 102, 74
+	offsets: 0, 0, 102, 81
+Role_cloak_9
+	bounds: 549, 1036, 102, 72
+Role_collar_!
+	bounds: 1264, 79, 88, 177
+	rotate: 90
+Role_collar_2
+	bounds: 378, 1627, 109, 80
+Role_collar_5
+	bounds: 11, 1691, 34, 38
+Role_collar_6
+	bounds: 1632, 106, 172, 122
+	offsets: 0, 0, 172, 127
+Role_collar_7
+	bounds: 1642, 1617, 63, 125
+Role_eye_L
+	bounds: 545, 1727, 44, 15
+Role_eye_R
+	bounds: 377, 1653, 50, 47
+Role_eyeball_L
+	bounds: 851, 1699, 21, 22
+Role_eyeball_L2
+	bounds: 88, 1553, 35, 26
+Role_eyeball_R
+	bounds: 1877, 1715, 29, 27
+Role_eyeball_R2
+	bounds: 958, 1709, 41, 33
+Role_eyebrow_L
+	bounds: 101, 1734, 38, 8
+Role_eyebrow_R
+	bounds: 264, 1691, 40, 28
+Role_eyelashesL_1
+	bounds: 173, 1729, 30, 13
+Role_eyelashesL_2
+	bounds: 289, 1533, 46, 37
+Role_eyelashesR_1
+	bounds: 1993, 1521, 53, 33
+	offsets: 0, 2, 53, 35
+Role_eyelashesR_2
+	bounds: 1646, 1539, 42, 20
+Role_eyelid_L2
+	bounds: 1647, 1554, 38, 22
+Role_eyelid_L4
+	bounds: 487, 1672, 38, 33
+Role_eyelid_R2
+	bounds: 132, 1562, 48, 37
+Role_eyelid_R4
+	bounds: 1830, 1698, 46, 44
+Role_face
+	bounds: 6, 1585, 142, 145
+Role_hair_1
+	bounds: 932, 599, 81, 71
+Role_hair_10
+	bounds: 1987, 1657, 58, 85
+Role_hair_11_V2
+	bounds: 728, 82, 357, 171
+Role_hair_12_V2
+	bounds: 1749, 25, 257, 169
+Role_hair_13_V2
+	bounds: 1670, 1080, 376, 233
+Role_hair_14_V2
+	bounds: 1446, 2, 210, 222
+	rotate: 270
+Role_hair_15_V2
+	bounds: 1522, 483, 524, 348
+	offsets: 0, 0, 547, 348
+Role_hair_16_V2
+	bounds: 2, 1672, 358, 70
+Role_hair_17_V2
+	bounds: 119, 145, 379, 307
+	rotate: 270
+Role_hair_18_V2
+	bounds: 37, 21, 319, 126
+Role_hair_19_V2
+	bounds: 2, 118, 315, 347
+	offsets: 0, 0, 315, 349
+	rotate: 270
+Role_hair_2
+	bounds: 87, 873, 74, 102
+Role_hair_20_V2
+	bounds: 973, 26, 231, 147
+Role_hair_21
+	bounds: 2, 1197, 69, 126
+	offsets: 0, 0, 70, 126
+Role_hair_22
+	bounds: 1041, 1361, 108, 95
+Role_hair_23
+	bounds: 461, 126, 130, 86
+	offsets: 0, 2, 130, 88
+Role_hair_24
+	bounds: 1573, 521, 114, 80
+Role_hair_25
+	bounds: 2008, 1203, 38, 86
+	offsets: 0, 0, 44, 86
+Role_hair_26
+	bounds: 1642, 1248, 78, 84
+Role_hair_27
+	bounds: 691, 39, 286, 124
+Role_hair_3
+	bounds: 1980, 558, 66, 126
+Role_hair_4
+	bounds: 1799, 485, 71, 99
+Role_hair_5
+	bounds: 1489, 774, 74, 82
+Role_hair_6
+	bounds: 1443, 852, 73, 113
+Role_hair_7
+	bounds: 1434, 250, 227, 146
+Role_hair_8
+	bounds: 2, 1492, 85, 94
+Role_hair_9
+	bounds: 1650, 365, 87, 71
+Role_hand_L
+	bounds: 1204, 604, 107, 92
+Role_hand_R1
+	bounds: 1642, 906, 85, 78
+Role_hand_R2
+	bounds: 1642, 1571, 44, 32
+Role_hand_R3
+	bounds: 2004, 1622, 34, 33
+Role_hand_R4
+	bounds: 2012, 1588, 32, 32
+Role_hand_R5
+	bounds: 1273, 1557, 38, 36
+Role_hat_1
+	bounds: 830, 1252, 214, 107
+Role_hat_2
+	bounds: 610, 1046, 236, 157
+Role_headwear_1
+	bounds: 551, 1701, 41, 173
+	rotate: 90
+Role_headwear_2
+	bounds: 330, 311, 212, 175
+	rotate: 180
+Role_headwear_3
+	bounds: 411, 22, 142, 178
+Role_headwear_l
+	bounds: 290, 609, 83, 149
+Role_headwear_r
+	bounds: 2, 774, 71, 114
+Role_leg_L1
+	bounds: 2, 487, 183, 302
+Role_leg_L3
+	bounds: 240, 758, 114, 112
+Role_leg_L4
+	bounds: 2, 1325, 107, 122
+Role_leg_L5
+	bounds: 837, 1171, 80, 79
+Role_leg_R
+	bounds: 398, 352, 302, 187
+Role_leg_R1
+	bounds: 932, 566, 282, 310
+Role_leg_R3
+	bounds: 1814, 702, 81, 119
+Role_leg_R4
+	bounds: 1087, 125, 175, 84
+Role_leg_R4_1
+	bounds: 1877, 1472, 121, 111
+Role_light_F1
+	bounds: 579, 65, 145, 207
+	rotate: 90
+Role_light_F2
+	bounds: 375, 541, 555, 491
+Role_light_F3
+	bounds: 847, 845, 897, 793
+	offsets: 0, 0, 897, 1000
+	rotate: 90
+Role_light_F4
+	bounds: 1956, 1194, 90, 139
+	offsets: 13, 0, 103, 139
+Role_light_F5
+	bounds: 51, 236, 252, 192
+	rotate: 90
+Role_light_F6
+	bounds: 1053, 1726, 30, 16
+Role_light_F7
+	bounds: 151, 310, 666, 270
+	rotate: 270
+Role_light_F8
+	bounds: 10, 1449, 843, 246
+Role_light_F9
+	bounds: 1896, 739, 139, 161
+Role_light_F9_1
+	bounds: 1516, 37, 90, 154
+Role_mouth_1
+	bounds: 254, 1729, 19, 13
+Role_mouth_2
+	bounds: 785, 1729, 20, 13
+Role_mouth_3
+	bounds: 591, 1731, 18, 11
+Role_neck
+	bounds: 1432, 76, 72, 98
+Role_neck_1
+	bounds: 1985, 1541, 56, 34
+Role_nose
+	bounds: 1703, 1708, 38, 34
+Role_skirt_1
+	bounds: 1858, 184, 188, 211
+Role_skirt_10
+	bounds: 1513, 373, 456, 196
+Role_skirt_2
+	bounds: 1850, 1573, 166, 169
+	offsets: 0, 0, 173, 169
+Role_skirt_4
+	bounds: 1281, 189, 188, 217
+Role_skirt_5
+	bounds: 428, 185, 257, 100
+Role_skirt_6
+	bounds: 543, 209, 277, 183
+Role_skirt_7
+	bounds: 2, 130, 136, 120
+Role_skirt_8
+	bounds: 1657, 976, 172, 126
+Role_skirt_9
+	bounds: 1046, 777, 421, 339

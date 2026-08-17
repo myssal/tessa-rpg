@@ -1,0 +1,1738 @@
+V46_TuningStageAll_KV.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+BG_yueqi_1
+	bounds: 1142, 694, 300, 243
+	offsets: 0, 0, 300, 245
+	rotate: 180
+BG_yueqi_2
+	bounds: 1180, 1018, 154, 327
+	rotate: 90
+Bg_light_10
+	bounds: 2, 1624, 1723, 128
+Bg_light_4
+	bounds: 1728, 1744, 301, 59
+Bg_light_5
+	bounds: 922, 1545, 607, 77
+	rotate: 180
+Bg_light_6
+	bounds: 1727, 1700, 217, 42
+Bg_light_7
+	bounds: 1531, 1587, 128, 35
+Bg_light_8
+	bounds: 2, 1517, 919, 105
+	rotate: 180
+Bg_light_9
+	bounds: 2, 1754, 1724, 129
+Bg_pipe_2_y
+	bounds: 1527, 1488, 519, 98
+Bg_pipe_3_y
+	bounds: 1463, 1518, 582, 88
+Bg_sound_F1_y
+	bounds: 1183, 1173, 475, 380
+	rotate: 180
+Bg_sound_F3
+	bounds: 1720, 1271, 326, 245
+Bg_sound_F4_y
+	bounds: 190, 1161, 417, 378
+	offsets: 0, 0, 1064, 378
+Effect_Colouredribbon_F1
+	bounds: 1864, 135, 52, 54
+	offsets: 0, 0, 191, 160
+Effect_Colouredribbon_F10
+	bounds: 1380, 16, 93, 88
+	offsets: 47, 60, 236, 207
+Effect_Colouredribbon_F11
+	bounds: 389, 662, 29, 31
+	offsets: 40, 0, 270, 269
+Effect_Colouredribbon_F12
+	bounds: 1371, 886, 59, 45
+	offsets: 15, 81, 109, 156
+Effect_Colouredribbon_F13
+	bounds: 1829, 80, 217, 210
+	offsets: 35, 0, 252, 245
+	rotate: 180
+Effect_Colouredribbon_F14
+	bounds: 247, 279, 42, 50
+	offsets: 62, 119, 240, 240
+Effect_Colouredribbon_F15
+	bounds: 400, 77, 53, 201
+	offsets: 0, 17, 85, 218
+	rotate: 90
+Effect_Colouredribbon_F16
+	bounds: 1515, 43, 141, 172
+	offsets: 201, 0, 342, 232
+	rotate: 270
+Effect_Colouredribbon_F17
+	bounds: 1424, 173, 328, 103
+	offsets: 27, 79, 355, 208
+Effect_Colouredribbon_F2
+	bounds: 469, 143, 68, 75
+	offsets: 119, 40, 279, 170
+Effect_Colouredribbon_F3
+	bounds: 779, 106, 52, 51
+	offsets: 0, 105, 121, 247
+Effect_Colouredribbon_F4
+	bounds: 631, 2, 134, 176
+	offsets: 0, 0, 239, 176
+	rotate: 90
+Effect_Colouredribbon_F6
+	bounds: 1373, 772, 59, 53
+	offsets: 0, 0, 124, 160
+Effect_Colouredribbon_F7
+	bounds: 1455, 513, 60, 54
+	offsets: 266, 122, 385, 317
+Effect_Colouredribbon_F8
+	bounds: 1684, 111, 48, 96
+	offsets: 0, 0, 53, 96
+Effect_Colouredribbon_F9
+	bounds: 712, 749, 36, 85
+	offsets: 20, 0, 56, 85
+Effect_jar_F1
+	bounds: 1657, 1214, 43, 108
+Effect_jar_F2
+	bounds: 1576, 223, 120, 50
+Effect_jar_F3
+	bounds: 543, 154, 43, 109
+Effect_jar_F4
+	bounds: 1956, 1519, 90, 39
+Role_Eyemask_1_y
+	bounds: 1946, 1700, 50, 42
+Role_Eyemask_3
+	bounds: 1482, 1505, 43, 27
+Role_Sailinna_0
+	bounds: 799, 920, 28, 41
+Role_Sailinna_10
+	bounds: 2013, 1715, 13, 27
+Role_Sailinna_11
+	bounds: 313, 773, 29, 57
+Role_Sailinna_12
+	bounds: 458, 27, 66, 87
+Role_Sailinna_13
+	bounds: 628, 1615, 14, 7
+Role_Sailinna_14
+	bounds: 2035, 1876, 9, 7
+Role_Sailinna_14_1
+	bounds: 2, 1439, 10, 19
+Role_Sailinna_14_2
+	bounds: 1850, 1055, 22, 29
+Role_Sailinna_14_3
+	bounds: 649, 1549, 15, 10
+Role_Sailinna_15
+	bounds: 1346, 1143, 14, 10
+Role_Sailinna_15_1
+	bounds: 237, 1088, 19, 15
+Role_Sailinna_16
+	bounds: 1803, 1515, 16, 12
+Role_Sailinna_17
+	bounds: 779, 1560, 19, 13
+Role_Sailinna_18
+	bounds: 1191, 1057, 20, 14
+Role_Sailinna_19_y
+	bounds: 1600, 1126, 10, 10
+Role_Sailinna_1_y
+	bounds: 620, 1098, 31, 35
+Role_Sailinna_22
+	bounds: 1660, 1608, 18, 14
+Role_Sailinna_23
+	bounds: 1630, 1160, 16, 12
+Role_Sailinna_24
+	bounds: 1276, 1086, 13, 12
+Role_Sailinna_25_y
+	bounds: 2037, 1854, 9, 9
+Role_Sailinna_28
+	bounds: 1813, 1664, 13, 11
+Role_Sailinna_29
+	bounds: 972, 1476, 59, 69
+Role_Sailinna_3
+	bounds: 1008, 38, 62, 84
+Role_Sailinna_30
+	bounds: 1728, 1819, 5, 21
+Role_Sailinna_31
+	bounds: 894, 1352, 36, 35
+Role_Sailinna_32
+	bounds: 1430, 734, 17, 34
+Role_Sailinna_33
+	bounds: 1997, 1701, 9, 20
+Role_Sailinna_34
+	bounds: 1001, 1234, 20, 20
+Role_Sailinna_35
+	bounds: 1778, 1654, 26, 20
+Role_Sailinna_36
+	bounds: 905, 1288, 25, 16
+Role_Sailinna_37
+	bounds: 757, 1559, 20, 10
+Role_Sailinna_38
+	bounds: 944, 1481, 31, 23
+Role_Sailinna_39
+	bounds: 1552, 1003, 40, 21
+Role_Sailinna_4
+	bounds: 135, 53, 54, 64
+Role_Sailinna_40
+	bounds: 2, 91, 32, 107
+Role_Sailinna_41
+	bounds: 347, 1613, 29, 9
+Role_Sailinna_42_y
+	bounds: 1383, 1538, 33, 21
+Role_Sailinna_43_y
+	bounds: 674, 924, 22, 34
+Role_Sailinna_47
+	bounds: 1727, 1689, 33, 19
+Role_Sailinna_48
+	bounds: 59, 56, 39, 103
+Role_Sailinna_49
+	bounds: 1926, 1614, 10, 63
+Role_Sailinna_5
+	bounds: 1468, 910, 23, 21
+Role_Sailinna_50
+	bounds: 1689, 4, 31, 70
+Role_Sailinna_51
+	bounds: 1527, 15, 29, 53
+Role_Sailinna_52
+	bounds: 1516, 613, 31, 44
+Role_Sailinna_53
+	bounds: 1733, 1810, 88, 26
+Role_Sailinna_54
+	bounds: 828, 65, 43, 69
+Role_Sailinna_55
+	bounds: 361, 472, 43, 61
+Role_Sailinna_56
+	bounds: 1394, 124, 48, 58
+Role_Sailinna_57
+	bounds: 2, 722, 173, 84
+Role_Sailinna_58
+	bounds: 1525, 385, 29, 43
+Role_Sailinna_59
+	bounds: 597, 881, 23, 40
+Role_Sailinna_6
+	bounds: 1950, 1105, 27, 67
+Role_Sailinna_60
+	bounds: 329, 890, 16, 26
+Role_Sailinna_61
+	bounds: 544, 1024, 53, 31
+Role_Sailinna_62
+	bounds: 983, 408, 31, 43
+Role_Sailinna_63
+	bounds: 1735, 228, 102, 95
+Role_Sailinna_64
+	bounds: 1916, 1734, 19, 8
+Role_Sailinna_65
+	bounds: 1897, 967, 71, 91
+Role_Sailinna_66
+	bounds: 1987, 44, 41, 75
+Role_Sailinna_67
+	bounds: 917, 836, 88, 74
+Role_Sailinna_68
+	bounds: 1921, 942, 20, 24
+Role_Sailinna_69
+	bounds: 314, 1615, 18, 7
+Role_Sailinna_70
+	bounds: 1947, 1151, 12, 13
+Role_Sailinna_71
+	bounds: 1092, 798, 255, 386
+	rotate: 90
+Role_Sailinna_72
+	bounds: 1502, 729, 138, 378
+	rotate: 90
+Role_Sailinna_73_y
+	bounds: 1369, 293, 190, 199
+	rotate: 90
+Role_Sailinna_74_y
+	bounds: 2, 200, 160, 175
+	rotate: 270
+Role_Sailinna_76
+	bounds: 587, 120, 110, 132
+	offsets: 1, 0, 111, 132
+Role_Sailinna_77_y
+	bounds: 1549, 561, 210, 190
+	rotate: 180
+Role_Sailinna_79
+	bounds: 1556, 850, 339, 243
+	rotate: 180
+Role_Sailinna_7_y
+	bounds: 984, 178, 29, 71
+Role_Sailinna_80
+	bounds: 1001, 881, 53, 117
+Role_Sailinna_82
+	bounds: 620, 24, 40, 66
+Role_Sailinna_83
+	bounds: 2, 843, 121, 89
+Role_Sailinna_9
+	bounds: 1574, 1574, 16, 11
+Role_Straps_1
+	bounds: 1610, 104, 81, 105
+Role_Straps_2
+	bounds: 575, 1614, 19, 8
+Role_aerfa_Collar_1
+	bounds: 2017, 1053, 29, 29
+Role_aerfa_Collar_10
+	bounds: 679, 474, 57, 53
+Role_aerfa_Collar_11
+	bounds: 1239, 50, 37, 69
+Role_aerfa_Collar_12
+	bounds: 1291, 790, 80, 88
+	offsets: 0, 8, 80, 96
+Role_aerfa_Collar_2
+	bounds: 469, 770, 48, 44
+	offsets: 0, 2, 48, 46
+Role_aerfa_Collar_3
+	bounds: 1180, 98, 124, 98
+Role_aerfa_Collar_4
+	bounds: 740, 1289, 48, 39
+Role_aerfa_Collar_5
+	bounds: 627, 1000, 69, 43
+	offsets: 0, 0, 70, 43
+Role_aerfa_Collar_6
+	bounds: 632, 701, 25, 52
+	offsets: 0, 0, 26, 52
+Role_aerfa_Collar_7
+	bounds: 1053, 37, 51, 88
+	offsets: 0, 0, 52, 88
+Role_aerfa_Collar_8
+	bounds: 120, 793, 25, 37
+Role_aerfa_Collar_9
+	bounds: 805, 49, 48, 60
+Role_aerfa_Earrings_1
+	bounds: 1015, 853, 11, 27
+Role_aerfa_Top_1
+	bounds: 1999, 1864, 47, 11
+Role_aerfa_Top_3
+	bounds: 47, 1593, 25, 29
+Role_aerfa_Top_4
+	bounds: 1727, 1656, 35, 158
+	offsets: 0, 1, 35, 159
+	rotate: 90
+Role_aerfa_Top_5
+	bounds: 2, 1089, 66, 153
+	offsets: 0, 1, 66, 154
+Role_aerfa_Top_6
+	bounds: 837, 220, 101, 81
+Role_aerfa_Top_7
+	bounds: 453, 1047, 96, 52
+Role_aerfa_Top_8
+	bounds: 1636, 1466, 35, 31
+	offsets: 0, 0, 36, 31
+Role_aerfa_arm_L3
+	bounds: 2, 615, 36, 136
+	offsets: 0, 0, 37, 136
+Role_aerfa_arm_L33
+	bounds: 122, 1316, 72, 59
+Role_aerfa_arm_L4
+	bounds: 681, 890, 137, 102
+Role_aerfa_arm_R3
+	bounds: 885, 135, 54, 90
+Role_aerfa_arm_R4
+	bounds: 454, 502, 60, 74
+Role_aerfa_body_2
+	bounds: 1433, 651, 104, 193
+	offsets: 0, 0, 105, 193
+	rotate: 90
+Role_aerfa_bow_6
+	bounds: 1970, 1032, 27, 39
+	offsets: 2, 0, 29, 39
+Role_aerfa_bow_7
+	bounds: 1196, 769, 25, 34
+Role_aerfa_bow_8
+	bounds: 2, 345, 24, 60
+Role_aerfa_bow_9
+	bounds: 1118, 874, 36, 34
+Role_aerfa_brooch_1
+	bounds: 1113, 1409, 11, 15
+Role_aerfa_brooch_2
+	bounds: 2016, 1703, 7, 11
+Role_aerfa_brooch_3
+	bounds: 1876, 1631, 7, 11
+	offsets: 0, 0, 8, 11
+Role_aerfa_brooch_4
+	bounds: 934, 1567, 8, 12
+Role_aerfa_brooch_5
+	bounds: 1710, 1496, 8, 12
+Role_aerfa_buckle_R1
+	bounds: 1987, 1806, 13, 8
+Role_aerfa_chain_1
+	bounds: 1937, 29, 49, 50
+Role_aerfa_chain_2
+	bounds: 519, 768, 41, 18
+	offsets: 0, 2, 41, 20
+Role_aerfa_chain_3_y
+	bounds: 1798, 1617, 13, 59
+	offsets: 0, 0, 17, 59
+Role_aerfa_chain_5
+	bounds: 1760, 1688, 23, 213
+	offsets: 0, 1, 23, 214
+	rotate: 90
+Role_aerfa_ear_L
+	bounds: 2, 910, 18, 22
+Role_aerfa_eye_L1_y
+	bounds: 654, 1224, 19, 20
+	offsets: 0, 1, 19, 21
+Role_aerfa_eye_R1_y
+	bounds: 1892, 1518, 17, 15
+Role_aerfa_eyeball_L1
+	bounds: 760, 1444, 10, 10
+Role_aerfa_eyeball_L3
+	bounds: 1141, 1049, 15, 18
+Role_aerfa_eyeball_R1
+	bounds: 1659, 1428, 8, 10
+Role_aerfa_eyeball_R3
+	bounds: 1731, 1806, 14, 12
+Role_aerfa_eyebrow_L2
+	bounds: 875, 1324, 12, 16
+Role_aerfa_eyebrow_R2
+	bounds: 1986, 1604, 13, 8
+Role_aerfa_eyelash_L1_y
+	bounds: 1702, 1239, 19, 20
+Role_aerfa_eyelash_L2_y
+	bounds: 1302, 1097, 16, 20
+Role_aerfa_eyelash_R1_y
+	bounds: 923, 1005, 20, 17
+Role_aerfa_eyelash_R2_y
+	bounds: 1946, 1513, 16, 13
+Role_aerfa_eyelid_L4
+	bounds: 316, 1012, 18, 18
+Role_aerfa_eyelid_L5
+	bounds: 1333, 911, 16, 20
+Role_aerfa_eyelid_R5
+	bounds: 1255, 1165, 16, 13
+Role_aerfa_face_F2
+	bounds: 1423, 888, 43, 43
+Role_aerfa_face_F4
+	bounds: 1729, 1630, 18, 34
+	offsets: 0, 0, 19, 34
+Role_aerfa_finger_L1
+	bounds: 93, 1357, 25, 23
+Role_aerfa_finger_L2
+	bounds: 766, 641, 16, 33
+Role_aerfa_finger_L3
+	bounds: 1441, 539, 13, 37
+Role_aerfa_finger_L4
+	bounds: 548, 373, 12, 39
+	offsets: 0, 1, 12, 40
+Role_aerfa_finger_L5
+	bounds: 750, 774, 12, 36
+Role_aerfa_finger_R1
+	bounds: 1718, 722, 15, 41
+Role_aerfa_finger_R2
+	bounds: 1821, 1515, 38, 16
+Role_aerfa_finger_R3
+	bounds: 630, 1451, 43, 17
+Role_aerfa_finger_R4
+	bounds: 456, 1607, 40, 15
+Role_aerfa_finger_R5
+	bounds: 443, 861, 31, 22
+Role_aerfa_hair_R12_y
+	bounds: 1473, 44, 66, 98
+Role_aerfa_hair_R14
+	bounds: 2031, 1744, 15, 76
+Role_aerfa_hair_R16
+	bounds: 1839, 188, 129, 169
+	rotate: 90
+Role_aerfa_hair_R17
+	bounds: 1705, 809, 76, 36
+	offsets: 0, 11, 76, 47
+Role_aerfa_hair_R18_y
+	bounds: 20, 451, 113, 54
+Role_aerfa_hair_R2
+	bounds: 1635, 795, 61, 23
+Role_aerfa_hair_R21_y
+	bounds: 741, 997, 287, 350
+	rotate: 90
+Role_aerfa_hair_R23
+	bounds: 1613, 20, 36, 60
+	offsets: 0, 1, 37, 61
+Role_aerfa_hair_R24
+	bounds: 79, 107, 71, 103
+	rotate: 90
+Role_aerfa_hair_R29
+	bounds: 419, 753, 99, 112
+	offsets: 0, 0, 120, 112
+	rotate: 90
+Role_aerfa_hair_R3
+	bounds: 59, 879, 36, 28
+Role_aerfa_hair_R30
+	bounds: 37, 148, 160, 92
+	offsets: 0, 6, 160, 98
+Role_aerfa_hair_R36
+	bounds: 1286, 108, 111, 144
+	offsets: 0, 1, 111, 145
+	rotate: 90
+Role_aerfa_hair_R38
+	bounds: 203, 32, 91, 90
+	offsets: 0, 1, 91, 91
+Role_aerfa_hair_R39
+	bounds: 1260, 84, 95, 116
+Role_aerfa_hair_R40
+	bounds: 215, 330, 97, 159
+	rotate: 90
+Role_aerfa_hair_R41
+	bounds: 1217, 207, 71, 61
+Role_aerfa_hair_R4_y
+	bounds: 840, 707, 50, 54
+Role_aerfa_hair_R6
+	bounds: 296, 521, 36, 52
+Role_aerfa_hair_R6_y
+	bounds: 1055, 951, 41, 53
+Role_aerfa_hair_R8
+	bounds: 1698, 1080, 50, 34
+	offsets: 0, 0, 51, 34
+Role_aerfa_hair_R9_y
+	bounds: 703, 86, 76, 99
+Role_aerfa_horn_L
+	bounds: 1996, 914, 50, 62
+Role_aerfa_horn_R
+	bounds: 460, 1137, 46, 24
+Role_aerfa_leg_L2
+	bounds: 132, 550, 169, 264
+	rotate: 90
+Role_aerfa_leg_L3
+	bounds: 797, 591, 121, 73
+Role_aerfa_leg_L4
+	bounds: 1221, 947, 90, 83
+	offsets: 0, 1, 90, 84
+Role_aerfa_leg_R3
+	bounds: 1297, 568, 240, 94
+Role_aerfa_leg_R4
+	bounds: 1282, 414, 112, 231
+	rotate: 90
+Role_aerfa_mouth_3_y
+	bounds: 1493, 1574, 15, 12
+Role_aerfa_neck_2
+	bounds: 2, 470, 46, 56
+Role_aerfa_nose_2_y
+	bounds: 1736, 716, 72, 70
+Role_aerfa_palm_L
+	bounds: 1488, 451, 40, 42
+Role_aerfa_palm_R
+	bounds: 999, 1016, 24, 38
+Role_aerfa_shoes_L2
+	bounds: 862, 298, 122, 94
+	offsets: 0, 0, 123, 94
+Role_aerfa_shoes_R3
+	bounds: 940, 191, 56, 112
+Role_arm_L8
+	bounds: 1794, 52, 46, 82
+Role_arm_R7
+	bounds: 535, 599, 79, 68
+Role_arm_R8
+	bounds: 1739, 67, 53, 80
+Role_bandage_1_y
+	bounds: 1620, 647, 63, 94
+Role_bandage_2
+	bounds: 595, 52, 35, 74
+Role_bandage_3
+	bounds: 874, 1012, 17, 18
+Role_bandage_4
+	bounds: 2037, 1719, 9, 24
+Role_bandage_5
+	bounds: 4, 974, 101, 33
+Role_bandage_6
+	bounds: 1195, 980, 26, 36
+Role_bandage_8_y
+	bounds: 1823, 370, 126, 131
+Role_body_4
+	bounds: 1508, 1025, 95, 147
+	offsets: 0, 0, 95, 149
+Role_body_7_y
+	bounds: 1699, 220, 36, 79
+Role_body_9
+	bounds: 1799, 1591, 19, 25
+Role_body_F
+	bounds: 785, 192, 95, 59
+Role_chain_10_y
+	bounds: 220, 20, 39, 58
+Role_chain_11_y
+	bounds: 407, 20, 42, 68
+Role_chain_12
+	bounds: 1031, 1456, 21, 11
+Role_chain_13
+	bounds: 397, 552, 21, 30
+	offsets: 0, 0, 23, 30
+Role_eye_L3_y
+	bounds: 570, 1529, 14, 11
+	offsets: 0, 1, 14, 13
+Role_eye_R3_y
+	bounds: 922, 1612, 15, 10
+	offsets: 0, 1, 15, 13
+Role_eyeball_L7
+	bounds: 1937, 1734, 7, 8
+Role_eyeball_L8
+	bounds: 614, 1614, 12, 8
+Role_eyeball_R7
+	bounds: 378, 1615, 8, 7
+Role_eyeball_R8
+	bounds: 1970, 1863, 13, 6
+Role_eyebrow_L4
+	bounds: 2, 1288, 14, 9
+Role_eyebrow_R4
+	bounds: 2025, 1879, 13, 4
+Role_eyelash_L5_y
+	bounds: 1971, 1254, 17, 15
+Role_eyelash_L6_y
+	bounds: 434, 1611, 18, 11
+Role_eyelash_L7_y
+	bounds: 1170, 1373, 15, 12
+Role_eyelash_R6_y
+	bounds: 2014, 1805, 16, 9
+Role_face_3
+	bounds: 1436, 137, 53, 63
+	offsets: 0, 0, 53, 68
+Role_finger_L11
+	bounds: 972, 1248, 26, 28
+Role_finger_R11
+	bounds: 2008, 1856, 23, 7
+Role_finger_R12
+	bounds: 1029, 1148, 21, 12
+	offsets: 0, 0, 22, 12
+Role_finger_R13
+	bounds: 1357, 1544, 27, 14
+Role_finger_R14
+	bounds: 706, 1451, 19, 11
+Role_finger_R15
+	bounds: 717, 1168, 16, 17
+Role_hair_G1
+	bounds: 1276, 847, 13, 36
+Role_hair_G10
+	bounds: 506, 469, 32, 51
+	offsets: 0, 0, 32, 52
+Role_hair_G11
+	bounds: 1522, 568, 25, 45
+Role_hair_G13
+	bounds: 326, 1096, 24, 24
+Role_hair_G14
+	bounds: 612, 1333, 37, 49
+	offsets: 0, 0, 38, 49
+Role_hair_G15_y
+	bounds: 965, 845, 51, 40
+Role_hair_G17
+	bounds: 1372, 659, 32, 34
+Role_hair_G19
+	bounds: 1075, 569, 28, 52
+	offsets: 0, 0, 29, 52
+Role_hair_G2
+	bounds: 829, 720, 22, 38
+Role_hair_G20
+	bounds: 986, 911, 14, 30
+	offsets: 0, 0, 15, 30
+Role_hair_G22
+	bounds: 1349, 902, 21, 29
+Role_hair_G23_y
+	bounds: 165, 717, 22, 40
+Role_hair_G3
+	bounds: 1930, 333, 23, 48
+Role_hair_G4
+	bounds: 781, 635, 25, 45
+Role_hair_G5
+	bounds: 1172, 95, 30, 39
+Role_hair_G6
+	bounds: 1656, 1213, 13, 10
+	offsets: 0, 0, 13, 11
+Role_hair_G7
+	bounds: 232, 1240, 29, 20
+	offsets: 0, 0, 29, 21
+Role_hair_G8
+	bounds: 522, 627, 20, 39
+Role_hair_G8_y
+	bounds: 364, 49, 23, 51
+Role_horn_R2
+	bounds: 1540, 425, 20, 48
+Role_jar_F1
+	bounds: 718, 161, 43, 109
+Role_kalie_Hairpin_2_y
+	bounds: 1098, 1124, 29, 20
+Role_kalie_Hairpin_5_y
+	bounds: 1357, 145, 39, 42
+Role_kalie_Headwear_1
+	bounds: 860, 53, 66, 42
+Role_kalie_Headwear_2
+	bounds: 47, 27, 26, 73
+Role_kalie_Headwear_3
+	bounds: 885, 1468, 23, 19
+Role_kalie_Headwear_5
+	bounds: 1060, 1119, 36, 34
+Role_kalie_Headwear_6
+	bounds: 1513, 55, 97, 52
+Role_kalie_Headwear_7_y
+	bounds: 1820, 1076, 38, 42
+Role_kalie_Highlights_1
+	bounds: 2, 1615, 7, 7
+Role_kalie_Highlights_2
+	bounds: 1933, 1878, 4, 5
+Role_kalie_Highlights_L
+	bounds: 1647, 1614, 8, 8
+Role_kalie_Highlights_R
+	bounds: 1946, 1707, 9, 9
+	offsets: 0, 2, 9, 11
+Role_kalie_Leg_cover_L1_y
+	bounds: 1782, 519, 158, 191
+	rotate: 270
+Role_kalie_Leg_cover_R1
+	bounds: 1321, 663, 60, 49
+Role_kalie_Leg_cover_R2
+	bounds: 1284, 583, 27, 35
+Role_kalie_Leg_cover_R3_y
+	bounds: 601, 558, 134, 282
+	offsets: 0, 0, 134, 494
+	rotate: 90
+Role_kalie_Leg_cover_R5
+	bounds: 1027, 444, 141, 203
+	offsets: 0, 0, 141, 501
+	rotate: 90
+Role_kalie_Leg_cover_R6
+	bounds: 763, 106, 115, 187
+	offsets: 0, 0, 115, 497
+	rotate: 270
+Role_kalie_Tie_1
+	bounds: 1837, 32, 24, 79
+	offsets: 0, 0, 28, 79
+Role_kalie_arm_L
+	bounds: 311, 218, 142, 111
+Role_kalie_arm_L2
+	bounds: 1170, 400, 117, 88
+Role_kalie_arm_R1_y
+	bounds: 58, 400, 161, 301
+	offsets: 0, 0, 161, 302
+	rotate: 90
+Role_kalie_belt_1
+	bounds: 526, 1118, 95, 46
+Role_kalie_body
+	bounds: 331, 679, 144, 210
+Role_kalie_bow_1
+	bounds: 2037, 1682, 9, 9
+Role_kalie_bow_2
+	bounds: 1187, 1499, 10, 16
+Role_kalie_bow_3
+	bounds: 1958, 1644, 13, 10
+	offsets: 0, 0, 13, 11
+Role_kalie_bow_4
+	bounds: 596, 1612, 18, 10
+	offsets: 1, 0, 19, 12
+Role_kalie_bow_5
+	bounds: 607, 1312, 11, 20
+	offsets: 0, 1, 11, 21
+Role_kalie_bubbles_1
+	bounds: 892, 1005, 29, 27
+Role_kalie_bubbles_2
+	bounds: 299, 1075, 15, 18
+	offsets: 4, 3, 23, 30
+Role_kalie_eye_L_y
+	bounds: 1012, 1460, 23, 22
+	offsets: 0, 0, 24, 24
+Role_kalie_eye_R_y
+	bounds: 1896, 933, 23, 35
+Role_kalie_eyeball_L
+	bounds: 1613, 1575, 12, 10
+Role_kalie_eyeball_L2
+	bounds: 1128, 1197, 20, 18
+Role_kalie_eyeball_R
+	bounds: 1316, 1132, 13, 14
+Role_kalie_eyeball_R2
+	bounds: 57, 1111, 19, 25
+Role_kalie_eyebrow_L
+	bounds: 635, 1234, 14, 16
+Role_kalie_eyebrow_R
+	bounds: 28, 1491, 12, 30
+Role_kalie_eyelashesL_1_y
+	bounds: 604, 1468, 19, 20
+Role_kalie_eyelashesL_2_y
+	bounds: 898, 656, 21, 31
+Role_kalie_eyelashesR_1_y
+	bounds: 294, 727, 23, 32
+Role_kalie_eyelashesR_2_y
+	bounds: 439, 1140, 24, 21
+Role_kalie_face
+	bounds: 1054, 398, 102, 94
+Role_kalie_hair_1
+	bounds: 1859, 38, 39, 57
+Role_kalie_hair_11
+	bounds: 1724, 371, 100, 51
+Role_kalie_hair_12
+	bounds: 1514, 525, 101, 50
+Role_kalie_hair_13
+	bounds: 720, 1163, 62, 56
+Role_kalie_hair_14
+	bounds: 1081, 59, 49, 100
+Role_kalie_hair_15_y
+	bounds: 1630, 613, 53, 44
+Role_kalie_hair_17_y
+	bounds: 1602, 79, 67, 100
+Role_kalie_hair_19
+	bounds: 872, 57, 88, 67
+Role_kalie_hair_20
+	bounds: 1887, 1678, 9, 7
+	offsets: 0, 0, 10, 7
+Role_kalie_hair_20_y
+	bounds: 1563, 102, 37, 52
+Role_kalie_hair_24
+	bounds: 95, 461, 84, 41
+Role_kalie_hair_25
+	bounds: 1885, 1520, 70, 29
+Role_kalie_hair_27
+	bounds: 876, 816, 45, 26
+	offsets: 1, 0, 46, 26
+Role_kalie_hair_28
+	bounds: 710, 108, 38, 42
+Role_kalie_hair_29
+	bounds: 1079, 822, 20, 20
+Role_kalie_hair_2_y
+	bounds: 928, 129, 83, 53
+Role_kalie_hair_30
+	bounds: 2004, 1700, 11, 42
+Role_kalie_hair_31_y
+	bounds: 1386, 54, 36, 58
+	offsets: 0, 0, 38, 58
+Role_kalie_hair_33
+	bounds: 1316, 26, 29, 63
+	offsets: 1, 0, 30, 63
+Role_kalie_hair_36
+	bounds: 772, 491, 20, 33
+Role_kalie_hair_37
+	bounds: 2010, 650, 36, 44
+	offsets: 0, 1, 36, 45
+Role_kalie_hair_38_y
+	bounds: 681, 180, 35, 47
+Role_kalie_hair_3_y
+	bounds: 1310, 1143, 60, 33
+Role_kalie_hair_41
+	bounds: 623, 316, 146, 297
+	rotate: 270
+Role_kalie_hair_42
+	bounds: 1015, 360, 132, 305
+	rotate: 270
+Role_kalie_hair_43
+	bounds: 1600, 1054, 216, 359
+	rotate: 90
+Role_kalie_hair_44
+	bounds: 700, 799, 216, 334
+	rotate: 270
+Role_kalie_hair_45
+	bounds: 1050, 181, 235, 131
+	rotate: 180
+Role_kalie_hair_46
+	bounds: 1358, 239, 170, 225
+	rotate: 270
+Role_kalie_hair_47
+	bounds: 605, 1418, 85, 68
+Role_kalie_hair_48
+	bounds: 1922, 43, 84, 124
+	offsets: 0, 0, 84, 126
+	rotate: 90
+Role_kalie_hair_49
+	bounds: 871, 311, 264, 175
+	rotate: 180
+Role_kalie_hair_50
+	bounds: 736, 461, 194, 269
+	rotate: 270
+Role_kalie_hair_51
+	bounds: 368, 879, 117, 56
+Role_kalie_hair_9_y
+	bounds: 1417, 1517, 62, 44
+	offsets: 1, 0, 63, 44
+Role_kalie_hair_F46_y
+	bounds: 105, 536, 39, 108
+Role_kalie_hand_L
+	bounds: 1886, 1598, 43, 55
+Role_kalie_hand_L1
+	bounds: 22, 841, 33, 50
+Role_kalie_hand_L2
+	bounds: 146, 613, 42, 40
+	offsets: 0, 1, 42, 41
+Role_kalie_hand_R1
+	bounds: 1823, 1808, 53, 23
+Role_kalie_leg_L2
+	bounds: 1303, 476, 192, 130
+Role_kalie_leg_R1
+	bounds: 3, 1006, 272, 81
+	offsets: 0, 0, 311, 266
+Role_kalie_metal_1
+	bounds: 1346, 1548, 10, 10
+Role_kalie_metal_2_y
+	bounds: 1501, 11, 28, 92
+	offsets: 0, 0, 32, 96
+Role_kalie_metal_5
+	bounds: 174, 1296, 20, 20
+Role_kalie_metal_L
+	bounds: 894, 469, 25, 40
+	offsets: 0, 0, 26, 40
+Role_kalie_metal_L1
+	bounds: 2013, 1508, 33, 11
+	offsets: 0, 0, 34, 11
+Role_kalie_metal_L2
+	bounds: 196, 857, 27, 40
+Role_kalie_metal_R1
+	bounds: 896, 750, 36, 32
+	offsets: 0, 0, 37, 32
+Role_kalie_metal_R2
+	bounds: 1566, 930, 37, 31
+Role_kalie_mouth_1_y
+	bounds: 692, 1451, 13, 12
+Role_kalie_neck
+	bounds: 1880, 477, 47, 43
+Role_kalie_nose
+	bounds: 1014, 1529, 17, 17
+Role_kalie_projection_3
+	bounds: 953, 1020, 21, 37
+Role_kalie_projection_5
+	bounds: 608, 1182, 111, 55
+Role_kalie_projection_7
+	bounds: 126, 20, 19, 68
+Role_kalie_ribbon_2_y
+	bounds: 1331, 180, 111, 58
+Role_kalie_ribbon_3
+	bounds: 1154, 779, 21, 29
+Role_kalie_ribbon_R1
+	bounds: 680, 392, 31, 65
+Role_kalie_ribbon_R2
+	bounds: 22, 250, 28, 48
+Role_kalie_shoes_R1
+	bounds: 194, 144, 69, 66
+Role_kalie_shoes_R2
+	bounds: 1906, 1237, 29, 33
+Role_kalie_skirt_2
+	bounds: 818, 1010, 133, 82
+	offsets: 0, 12, 133, 94
+Role_kalie_skirt_3
+	bounds: 517, 432, 169, 135
+	offsets: 0, 16, 169, 151
+	rotate: 180
+Role_kalie_skirt_4
+	bounds: 271, 1055, 16, 16
+Role_kalie_skirt_5
+	bounds: 764, 1373, 148, 102
+	offsets: 0, 0, 148, 105
+Role_kaliei_metal_L3
+	bounds: 1705, 888, 37, 14
+Role_kaliei_metal_R
+	bounds: 540, 1610, 34, 12
+	offsets: 0, 0, 35, 12
+Role_kaliei_ribbon_1
+	bounds: 784, 1280, 25, 34
+	offsets: 0, 0, 25, 35
+Role_leg_L8
+	bounds: 653, 217, 70, 142
+Role_leg_L9
+	bounds: 1134, 283, 95, 127
+	rotate: 90
+Role_leg_R7
+	bounds: 1256, 358, 82, 172
+	rotate: 90
+Role_leg_R8
+	bounds: 1693, 449, 73, 184
+	offsets: 0, 0, 82, 184
+	rotate: 90
+Role_li_0
+	bounds: 33, 159, 29, 46
+Role_li_1
+	bounds: 1117, 269, 28, 55
+Role_li_11
+	bounds: 419, 47, 63, 61
+Role_li_12_y
+	bounds: 489, 43, 39, 77
+Role_li_13
+	bounds: 1878, 1806, 18, 6
+Role_li_13_1
+	bounds: 2, 1524, 13, 15
+Role_li_13_3_y
+	bounds: 1656, 1189, 22, 24
+	offsets: 0, 1, 22, 25
+Role_li_13_4
+	bounds: 1681, 982, 13, 18
+Role_li_13_5
+	bounds: 1660, 1439, 9, 25
+Role_li_13_6
+	bounds: 792, 1416, 10, 15
+Role_li_14
+	bounds: 799, 1562, 25, 13
+Role_li_15
+	bounds: 1817, 1805, 23, 11
+Role_li_16
+	bounds: 1964, 1603, 21, 11
+Role_li_17
+	bounds: 1590, 1574, 22, 11
+Role_li_18
+	bounds: 2029, 1875, 3, 3
+Role_li_18_y
+	bounds: 595, 1541, 11, 11
+Role_li_19
+	bounds: 1879, 1827, 4, 4
+Role_li_20
+	bounds: 1818, 1591, 11, 11
+Role_li_21
+	bounds: 413, 1612, 20, 10
+Role_li_22
+	bounds: 1998, 1606, 25, 11
+Role_li_23
+	bounds: 1497, 1611, 25, 11
+	offsets: 0, 0, 25, 12
+Role_li_24
+	bounds: 1125, 1124, 24, 13
+Role_li_25
+	bounds: 1871, 1881, 3, 2
+Role_li_25_y
+	bounds: 323, 1173, 11, 11
+Role_li_26
+	bounds: 1873, 1827, 4, 4
+Role_li_27
+	bounds: 29, 1611, 11, 11
+Role_li_28
+	bounds: 391, 1612, 21, 10
+Role_li_29
+	bounds: 1491, 226, 84, 99
+Role_li_2_y
+	bounds: 709, 1255, 39, 75
+	offsets: 0, 1, 39, 76
+Role_li_30_y
+	bounds: 1108, 110, 74, 86
+Role_li_33
+	bounds: 1754, 605, 27, 75
+Role_li_34
+	bounds: 1419, 546, 20, 39
+Role_li_35
+	bounds: 1771, 519, 13, 40
+Role_li_36
+	bounds: 1658, 1326, 15, 49
+Role_li_37
+	bounds: 1423, 37, 16, 55
+Role_li_38
+	bounds: 109, 283, 15, 45
+Role_li_39
+	bounds: 1308, 429, 24, 32
+Role_li_4
+	bounds: 606, 1344, 27, 72
+Role_li_40
+	bounds: 1651, 878, 45, 54
+Role_li_41
+	bounds: 504, 248, 150, 86
+Role_li_42
+	bounds: 2, 1393, 14, 19
+Role_li_43
+	bounds: 604, 1477, 91, 368
+	offsets: 0, 0, 92, 368
+	rotate: 270
+Role_li_44
+	bounds: 307, 914, 370, 95
+	offsets: 0, 4, 370, 99
+Role_li_45
+	bounds: 610, 678, 122, 247
+Role_li_46
+	bounds: 256, 255, 90, 287
+	rotate: 90
+Role_li_47
+	bounds: 1131, 33, 27, 59
+Role_li_48
+	bounds: 194, 343, 75, 60
+Role_li_49
+	bounds: 1346, 20, 39, 107
+Role_li_49_y
+	bounds: 387, 127, 42, 162
+	rotate: 90
+Role_li_51
+	bounds: 1094, 501, 145, 211
+	rotate: 270
+Role_li_52
+	bounds: 171, 620, 51, 39
+Role_li_52_y
+	bounds: 1191, 11, 51, 65
+Role_li_53
+	bounds: 63, 1138, 51, 63
+Role_li_54
+	bounds: 779, 1148, 18, 20
+	offsets: 0, 0, 18, 21
+Role_li_55
+	bounds: 962, 33, 49, 78
+Role_li_56
+	bounds: 1403, 757, 138, 39
+	offsets: 0, 0, 139, 39
+Role_li_57
+	bounds: 898, 1389, 24, 91
+Role_li_58
+	bounds: 273, 34, 79, 67
+Role_li_59
+	bounds: 587, 623, 32, 38
+Role_li_5_y
+	bounds: 82, 45, 52, 91
+Role_li_60
+	bounds: 809, 1245, 32, 37
+Role_li_61
+	bounds: 674, 1220, 14, 13
+Role_li_62
+	bounds: 748, 1462, 17, 14
+Role_li_63
+	bounds: 1193, 110, 107, 78
+Role_li_64
+	bounds: 1151, 198, 122, 68
+Role_li_65
+	bounds: 609, 1059, 221, 132
+Role_li_66
+	bounds: 486, 806, 123, 107
+Role_li_67
+	bounds: 169, 83, 41, 76
+Role_li_67_y
+	bounds: 1149, 596, 57, 115
+	rotate: 90
+Role_li_68
+	bounds: 1147, 398, 28, 49
+Role_li_69
+	bounds: 1953, 1071, 93, 198
+Role_li_6_y
+	bounds: 2014, 327, 32, 75
+Role_li_70
+	bounds: 1880, 1621, 10, 55
+Role_li_70_1
+	bounds: 691, 1379, 30, 25
+Role_li_70_2
+	bounds: 2, 1555, 5, 18
+Role_li_70_3
+	bounds: 1698, 888, 54, 22
+Role_li_71
+	bounds: 178, 719, 153, 208
+Role_li_72
+	bounds: 1086, 1066, 143, 58
+Role_li_73_y
+	bounds: 48, 639, 156, 301
+	rotate: 90
+Role_li_80
+	bounds: 922, 1216, 265, 273
+Role_li_85_y
+	bounds: 1517, 484, 120, 265
+	rotate: 90
+Role_li_8_y
+	bounds: 841, 171, 52, 52
+Role_li_9
+	bounds: 1935, 596, 60, 74
+Role_lifu_0_y
+	bounds: 2017, 522, 29, 56
+Role_lifu_100
+	bounds: 497, 1130, 27, 32
+Role_lifu_101
+	bounds: 1244, 851, 37, 37
+Role_lifu_102
+	bounds: 323, 1013, 87, 54
+Role_lifu_103
+	bounds: 664, 1367, 39, 33
+Role_lifu_104
+	bounds: 771, 1429, 19, 24
+Role_lifu_105
+	bounds: 1658, 1059, 38, 33
+Role_lifu_106
+	bounds: 1125, 1387, 65, 46
+Role_lifu_107_y
+	bounds: 2, 328, 123, 190
+	rotate: 90
+Role_lifu_10_y
+	bounds: 1184, 49, 53, 108
+Role_lifu_12
+	bounds: 67, 1203, 16, 11
+Role_lifu_14
+	bounds: 1398, 657, 34, 55
+Role_lifu_16
+	bounds: 383, 28, 63, 108
+Role_lifu_17
+	bounds: 1601, 28, 21, 52
+Role_lifu_18
+	bounds: 1889, 106, 61, 65
+Role_lifu_19
+	bounds: 1985, 912, 23, 24
+Role_lifu_1_y
+	bounds: 37, 671, 32, 51
+Role_lifu_20
+	bounds: 1635, 1579, 25, 15
+Role_lifu_21
+	bounds: 1918, 58, 44, 57
+Role_lifu_22
+	bounds: 1888, 560, 46, 41
+Role_lifu_25
+	bounds: 20, 911, 31, 21
+Role_lifu_26
+	bounds: 1746, 1806, 19, 7
+Role_lifu_27
+	bounds: 2002, 1879, 21, 4
+Role_lifu_28
+	bounds: 848, 1359, 24, 18
+Role_lifu_29
+	bounds: 1728, 1254, 25, 16
+Role_lifu_30
+	bounds: 164, 789, 24, 15
+Role_lifu_31
+	bounds: 1549, 1573, 24, 14
+Role_lifu_32
+	bounds: 671, 985, 25, 17
+Role_lifu_33
+	bounds: 1501, 790, 23, 16
+Role_lifu_34_y
+	bounds: 1229, 1106, 12, 12
+Role_lifu_37
+	bounds: 1937, 1644, 20, 12
+Role_lifu_38_y
+	bounds: 651, 1360, 12, 11
+Role_lifu_4
+	bounds: 232, 275, 16, 56
+Role_lifu_41
+	bounds: 518, 1609, 21, 13
+Role_lifu_41_1
+	bounds: 70, 1603, 19, 19
+Role_lifu_42
+	bounds: 1733, 1588, 68, 83
+Role_lifu_43
+	bounds: 519, 22, 44, 103
+Role_lifu_44
+	bounds: 1603, 629, 23, 36
+Role_lifu_45
+	bounds: 2, 1073, 15, 33
+Role_lifu_46
+	bounds: 615, 598, 30, 39
+Role_lifu_47
+	bounds: 1893, 1652, 33, 19
+Role_lifu_48
+	bounds: 1984, 773, 62, 59
+Role_lifu_49
+	bounds: 273, 1067, 47, 121
+Role_lifu_5
+	bounds: 193, 9, 41, 84
+Role_lifu_50
+	bounds: 1937, 380, 39, 107
+Role_lifu_51
+	bounds: 1886, 1011, 19, 37
+Role_lifu_52
+	bounds: 1054, 136, 18, 45
+Role_lifu_53
+	bounds: 1426, 393, 13, 40
+Role_lifu_54
+	bounds: 726, 489, 13, 39
+Role_lifu_55
+	bounds: 1985, 1857, 22, 13
+Role_lifu_56
+	bounds: 1508, 1574, 39, 23
+	offsets: 1, 0, 40, 23
+Role_lifu_57
+	bounds: 608, 1236, 33, 21
+Role_lifu_58_y
+	bounds: 692, 1447, 68, 28
+Role_lifu_61
+	bounds: 800, 440, 61, 26
+Role_lifu_62
+	bounds: 553, 1116, 35, 16
+Role_lifu_63_y
+	bounds: 2, 522, 105, 116
+Role_lifu_67
+	bounds: 1909, 1598, 21, 15
+Role_lifu_68
+	bounds: 1727, 1673, 13, 20
+Role_lifu_6_y
+	bounds: 1717, 72, 42, 101
+Role_lifu_7
+	bounds: 1701, 1247, 28, 69
+Role_lifu_70_y
+	bounds: 1592, 1138, 38, 34
+Role_lifu_73
+	bounds: 1658, 1382, 11, 32
+Role_lifu_74
+	bounds: 1915, 1062, 21, 28
+Role_lifu_77
+	bounds: 1724, 680, 27, 42
+Role_lifu_78
+	bounds: 2, 1460, 30, 73
+Role_lifu_79
+	bounds: 1936, 1656, 27, 110
+	rotate: 90
+Role_lifu_8
+	bounds: 145, 243, 28, 53
+Role_lifu_80
+	bounds: 868, 1566, 15, 14
+Role_lifu_81
+	bounds: 526, 1035, 64, 37
+Role_lifu_82
+	bounds: 1480, 807, 34, 44
+Role_lifu_83
+	bounds: 1694, 894, 76, 36
+Role_lifu_84
+	bounds: 1543, 155, 66, 59
+Role_lifu_85
+	bounds: 531, 319, 136, 87
+Role_lifu_86
+	bounds: 1999, 1052, 16, 20
+Role_lifu_87
+	bounds: 1547, 408, 172, 85
+Role_lifu_88_y
+	bounds: 753, 734, 230, 388
+	rotate: 270
+Role_lifu_89
+	bounds: 2027, 834, 19, 23
+Role_lifu_9
+	bounds: 1751, 1110, 21, 17
+Role_lifu_90
+	bounds: 1658, 820, 230, 388
+	rotate: 270
+Role_lifu_91
+	bounds: 799, 362, 97, 61
+Role_lifu_92
+	bounds: 820, 894, 80, 60
+Role_lifu_93
+	bounds: 1728, 1805, 78, 318
+	rotate: 90
+Role_lifu_94
+	bounds: 351, 724, 18, 40
+Role_lifu_95
+	bounds: 1467, 870, 96, 71
+Role_lifu_96
+	bounds: 1601, 1024, 25, 29
+Role_lifu_97
+	bounds: 1697, 982, 52, 46
+Role_lifu_98
+	bounds: 1848, 492, 164, 198
+	rotate: 270
+Role_lifu_99
+	bounds: 39, 477, 134, 303
+	rotate: 270
+Role_luolan_Collar_13
+	bounds: 1025, 644, 34, 40
+Role_luolan_Collar_14
+	bounds: 2024, 1702, 13, 56
+Role_luolan_Collar_15
+	bounds: 288, 32, 32, 56
+Role_luolan_Collar_16
+	bounds: 1178, 1413, 16, 52
+Role_luolan_Collar_17
+	bounds: 340, 101, 81, 107
+	offsets: 13, 0, 94, 107
+Role_luolan_Collar_18
+	bounds: 1401, 1152, 38, 23
+Role_luolan_Earrings_2
+	bounds: 1508, 1157, 15, 15
+Role_luolan_Hairpin_R_y
+	bounds: 113, 1156, 13, 26
+Role_luolan_Straps_3
+	bounds: 1874, 256, 61, 57
+Role_luolan_Straps_4_y
+	bounds: 1096, 793, 104, 79
+Role_luolan_Top_L1
+	bounds: 1032, 1431, 116, 162
+	rotate: 90
+Role_luolan_arm_L5
+	bounds: 367, 365, 66, 181
+	rotate: 90
+Role_luolan_arm_L6
+	bounds: 1937, 1614, 107, 44
+Role_luolan_arm_R5
+	bounds: 455, 211, 87, 119
+Role_luolan_arm_R6
+	bounds: 1053, 676, 58, 56
+Role_luolan_bandage_F1
+	bounds: 860, 428, 22, 49
+Role_luolan_bandage_F2
+	bounds: 271, 501, 28, 44
+Role_luolan_barcode
+	bounds: 1938, 1806, 11, 10
+Role_luolan_body_3
+	bounds: 911, 451, 118, 128
+Role_luolan_body_5
+	bounds: 1913, 1167, 70, 103
+Role_luolan_buckle_R2
+	bounds: 912, 1387, 12, 19
+Role_luolan_buckle_R3
+	bounds: 1112, 700, 31, 25
+Role_luolan_buckle_R4
+	bounds: 1997, 1728, 7, 14
+Role_luolan_buckle_R5
+	bounds: 1113, 1201, 13, 14
+Role_luolan_buckle_R6
+	bounds: 182, 1413, 8, 14
+Role_luolan_chain_6
+	bounds: 555, 1527, 47, 24
+Role_luolan_chain_7
+	bounds: 181, 1480, 7, 16
+Role_luolan_chain_8
+	bounds: 1141, 22, 41, 47
+	offsets: 0, 0, 42, 47
+Role_luolan_chain_9
+	bounds: 1352, 249, 57, 49
+Role_luolan_chainbracelet_1
+	bounds: 1372, 1147, 27, 28
+Role_luolan_doll_R1
+	bounds: 1305, 1009, 43, 45
+Role_luolan_doll_R2
+	bounds: 1490, 1029, 17, 22
+Role_luolan_eye_L2
+	bounds: 840, 1226, 18, 19
+Role_luolan_eye_L22
+	bounds: 831, 1099, 19, 19
+Role_luolan_eye_R2
+	bounds: 698, 1207, 17, 13
+Role_luolan_eye_R22
+	bounds: 653, 1091, 18, 16
+Role_luolan_eyeball_L41_y
+	bounds: 1841, 1805, 8, 8
+Role_luolan_eyeball_L5
+	bounds: 262, 1225, 12, 15
+Role_luolan_eyeball_R4
+	bounds: 1467, 1614, 8, 8
+Role_luolan_eyeball_R5
+	bounds: 510, 1534, 16, 11
+Role_luolan_eyebrow_L3
+	bounds: 1169, 1422, 13, 15
+Role_luolan_eyebrow_R3
+	bounds: 1736, 1585, 17, 11
+Role_luolan_eyelash_L3
+	bounds: 860, 1214, 17, 19
+Role_luolan_eyelash_L3_y
+	bounds: 752, 1188, 18, 19
+Role_luolan_eyelash_L4
+	bounds: 858, 1340, 15, 18
+Role_luolan_eyelash_L4_y
+	bounds: 622, 1398, 16, 18
+Role_luolan_eyelash_R3
+	bounds: 721, 1246, 16, 11
+Role_luolan_eyelash_R3_y
+	bounds: 588, 1114, 17, 15
+Role_luolan_eyelash_R4
+	bounds: 1477, 1612, 16, 10
+Role_luolan_eyelash_R4_y
+	bounds: 1597, 1475, 17, 12
+Role_luolan_face_5_y
+	bounds: 110, 153, 67, 69
+	offsets: 0, 0, 68, 69
+Role_luolan_face_Q1
+	bounds: 1564, 359, 28, 50
+Role_luolan_face_Q2
+	bounds: 787, 57, 31, 51
+Role_luolan_face_Q3
+	bounds: 1935, 749, 48, 42
+Role_luolan_finger_L6
+	bounds: 1878, 1809, 58, 18
+Role_luolan_finger_L7_y
+	bounds: 870, 1303, 74, 73
+Role_luolan_finger_R6
+	bounds: 164, 1500, 23, 15
+Role_luolan_finger_R7_y
+	bounds: 2, 1566, 43, 56
+Role_luolan_hair_F11
+	bounds: 1284, 31, 46, 84
+Role_luolan_hair_F13
+	bounds: 884, 1569, 49, 16
+Role_luolan_hair_F14
+	bounds: 137, 981, 88, 39
+Role_luolan_hair_F15_y
+	bounds: 1438, 106, 103, 110
+Role_luolan_hair_F16_y
+	bounds: 252, 102, 87, 45
+Role_luolan_hair_F1_y
+	bounds: 278, 960, 36, 58
+Role_luolan_hair_F20
+	bounds: 1873, 152, 69, 148
+	rotate: 90
+Role_luolan_hair_F4
+	bounds: 1230, 1085, 78, 32
+Role_luolan_hair_F5
+	bounds: 274, 1185, 27, 42
+Role_luolan_hair_F6_y
+	bounds: 2017, 166, 29, 76
+Role_luolan_hair_F8
+	bounds: 1606, 543, 29, 40
+Role_luolan_hair_F9_y
+	bounds: 136, 378, 50, 85
+	rotate: 90
+Role_luolan_leg_L5_y
+	bounds: 735, 674, 95, 70
+Role_luolan_leg_L7_y
+	bounds: 1053, 682, 144, 273
+	rotate: 270
+Role_luolan_leg_R5
+	bounds: 1786, 632, 138, 260
+	rotate: 90
+Role_luolan_leg_R6
+	bounds: 1315, 961, 161, 72
+	offsets: 0, 0, 161, 78
+Role_luolan_leg_y
+	bounds: 34, 265, 76, 69
+Role_luolan_neck_2
+	bounds: 917, 626, 49, 60
+Role_luolan_palm_R1
+	bounds: 109, 972, 28, 36
+Role_luolan_pocket_L1
+	bounds: 304, 1086, 30, 47
+	offsets: 0, 0, 30, 48
+Role_luolan_projection_8
+	bounds: 408, 1007, 41, 23
+Role_luolan_projection_9
+	bounds: 93, 17, 40, 54
+	offsets: 0, 1, 40, 55
+Role_luolan_shoes_L3
+	bounds: 245, 173, 74, 72
+Role_luolan_shoes_R4
+	bounds: 725, 245, 110, 71
+Role_luolan_tape_R1
+	bounds: 333, 1150, 40, 114
+	rotate: 90
+Role_luolan_tape_R2
+	bounds: 1650, 27, 81, 185
+	rotate: 90
+Role_luolan_tape_R3
+	bounds: 642, 41, 40, 118
+	rotate: 90
+Role_luolan_tape_R7
+	bounds: 1377, 340, 30, 39
+Role_luolan_zipper_F1
+	bounds: 2038, 1706, 7, 12
+Role_luolan_zipper_F2
+	bounds: 2039, 1651, 7, 10
+Role_luxiya_0
+	bounds: 1045, 909, 31, 42
+Role_luxiya_1
+	bounds: 1030, 500, 30, 39
+Role_luxiya_10
+	bounds: 601, 784, 28, 43
+Role_luxiya_100
+	bounds: 1874, 1644, 10, 26
+Role_luxiya_101
+	bounds: 1149, 1186, 33, 29
+Role_luxiya_102
+	bounds: 319, 956, 215, 678
+	rotate: 90
+Role_luxiya_103_y
+	bounds: 607, 1119, 330, 707
+	rotate: 270
+Role_luxiya_105
+	bounds: 39, 781, 172, 553
+	rotate: 270
+Role_luxiya_106
+	bounds: 1295, 933, 210, 618
+	rotate: 90
+Role_luxiya_107
+	bounds: 2, 933, 176, 624
+	rotate: 90
+Role_luxiya_108_y
+	bounds: 974, 578, 115, 322
+	rotate: 90
+Role_luxiya_11
+	bounds: 1936, 248, 89, 96
+Role_luxiya_111
+	bounds: 1889, 1669, 36, 157
+	rotate: 90
+Role_luxiya_12
+	bounds: 173, 208, 70, 131
+Role_luxiya_13_y
+	bounds: 1413, 365, 76, 54
+Role_luxiya_15
+	bounds: 560, 23, 37, 61
+Role_luxiya_16
+	bounds: 2011, 42, 32, 66
+Role_luxiya_17
+	bounds: 1452, 26, 20, 56
+Role_luxiya_18_y
+	bounds: 791, 501, 75, 59
+Role_luxiya_2
+	bounds: 1090, 1423, 42, 21
+Role_luxiya_22_y
+	bounds: 322, 46, 45, 76
+Role_luxiya_24_y
+	bounds: 1012, 104, 53, 116
+	offsets: 3, 0, 56, 116
+Role_luxiya_26
+	bounds: 754, 59, 30, 50
+Role_luxiya_27
+	bounds: 935, 1271, 36, 34
+	offsets: 0, 0, 36, 35
+Role_luxiya_28
+	bounds: 1023, 1227, 25, 10
+Role_luxiya_29
+	bounds: 257, 1085, 23, 36
+Role_luxiya_3
+	bounds: 826, 1564, 41, 15
+Role_luxiya_31
+	bounds: 1932, 1166, 14, 16
+Role_luxiya_32
+	bounds: 923, 1335, 16, 16
+Role_luxiya_33
+	bounds: 481, 894, 31, 31
+Role_luxiya_34
+	bounds: 445, 1078, 10, 22
+Role_luxiya_35
+	bounds: 1779, 1062, 16, 15
+	offsets: 0, 0, 17, 15
+Role_luxiya_36
+	bounds: 1705, 1314, 15, 12
+	offsets: 0, 0, 16, 12
+Role_luxiya_37
+	bounds: 525, 1532, 28, 15
+Role_luxiya_38
+	bounds: 491, 1608, 27, 14
+	offsets: 0, 0, 28, 14
+Role_luxiya_39
+	bounds: 1855, 1517, 29, 18
+Role_luxiya_4
+	bounds: 1534, 741, 29, 36
+Role_luxiya_40
+	bounds: 1279, 1162, 28, 15
+Role_luxiya_41
+	bounds: 1728, 1878, 4, 5
+Role_luxiya_42
+	bounds: 1090, 1050, 14, 15
+Role_luxiya_43
+	bounds: 1913, 1879, 18, 4
+Role_luxiya_44
+	bounds: 1934, 1600, 28, 14
+Role_luxiya_45
+	bounds: 1956, 1708, 27, 14
+Role_luxiya_46
+	bounds: 2023, 1874, 4, 4
+Role_luxiya_47
+	bounds: 692, 1550, 14, 13
+Role_luxiya_48
+	bounds: 1131, 1534, 22, 16
+Role_luxiya_49
+	bounds: 2025, 1610, 21, 15
+Role_luxiya_5
+	bounds: 1155, 1512, 41, 39
+Role_luxiya_50
+	bounds: 1750, 976, 75, 89
+Role_luxiya_51
+	bounds: 136, 805, 73, 78
+Role_luxiya_52
+	bounds: 1798, 157, 20, 52
+Role_luxiya_53
+	bounds: 465, 751, 15, 37
+Role_luxiya_54
+	bounds: 1200, 619, 48, 36
+Role_luxiya_55
+	bounds: 2, 803, 35, 39
+Role_luxiya_56
+	bounds: 2, 1012, 18, 20
+Role_luxiya_57
+	bounds: 1118, 68, 85, 78
+Role_luxiya_58
+	bounds: 1478, 983, 65, 48
+Role_luxiya_59
+	bounds: 450, 648, 134, 189
+	rotate: 270
+Role_luxiya_60
+	bounds: 193, 94, 263, 205
+	rotate: 180
+Role_luxiya_61
+	bounds: 941, 83, 78, 58
+Role_luxiya_62
+	bounds: 686, 363, 181, 117
+Role_luxiya_63
+	bounds: 1178, 256, 98, 155
+	rotate: 90
+Role_luxiya_64
+	bounds: 1613, 959, 56, 29
+Role_luxiya_65
+	bounds: 116, 714, 47, 25
+Role_luxiya_66
+	bounds: 819, 625, 233, 175
+	rotate: 180
+Role_luxiya_67
+	bounds: 1737, 670, 309, 248
+	rotate: 180
+Role_luxiya_68
+	bounds: 1660, 1584, 76, 39
+Role_luxiya_69
+	bounds: 344, 405, 194, 262
+	rotate: 270
+Role_luxiya_7
+	bounds: 624, 86, 79, 126
+	offsets: 0, 0, 79, 128
+Role_luxiya_70
+	bounds: 1601, 274, 106, 172
+	rotate: 90
+Role_luxiya_71
+	bounds: 340, 568, 87, 244
+	rotate: 90
+Role_luxiya_72
+	bounds: 583, 525, 70, 228
+	rotate: 90
+Role_luxiya_73
+	bounds: 1463, 968, 18, 27
+Role_luxiya_74
+	bounds: 180, 1376, 12, 27
+	offsets: 1, 0, 13, 31
+Role_luxiya_75
+	bounds: 1964, 335, 80, 187
+Role_luxiya_76
+	bounds: 1289, 217, 86, 153
+Role_luxiya_77
+	bounds: 1616, 1472, 18, 18
+Role_luxiya_78
+	bounds: 798, 1046, 19, 17
+Role_luxiya_79
+	bounds: 1813, 1595, 63, 72
+	offsets: 0, 0, 64, 72
+Role_luxiya_8
+	bounds: 1959, 1054, 12, 16
+Role_luxiya_80
+	bounds: 1773, 301, 77, 163
+	offsets: 2, 0, 79, 163
+	rotate: 90
+Role_luxiya_81
+	bounds: 1669, 1323, 51, 180
+Role_luxiya_82
+	bounds: 263, 960, 14, 22
+Role_luxiya_83
+	bounds: 1876, 1599, 17, 20
+Role_luxiya_84
+	bounds: 423, 176, 59, 77
+Role_luxiya_85
+	bounds: 1848, 825, 76, 59
+Role_luxiya_86
+	bounds: 13, 45, 54, 82
+Role_luxiya_87
+	bounds: 982, 204, 77, 135
+Role_luxiya_88
+	bounds: 205, 407, 82, 284
+	rotate: 90
+Role_luxiya_89
+	bounds: 2, 1089, 314, 293
+	rotate: 270
+Role_luxiya_9
+	bounds: 1804, 761, 33, 38
+Role_luxiya_90
+	bounds: 1545, 319, 129, 299
+	rotate: 90
+Role_luxiya_91
+	bounds: 2, 1244, 39, 40
+Role_luxiya_92
+	bounds: 1759, 124, 43, 106
+Role_luxiya_93
+	bounds: 2, 1377, 179, 139
+Role_luxiya_94
+	bounds: 587, 127, 43, 106
+Role_luxiya_95
+	bounds: 1109, 133, 90, 103
+Role_luxiya_96
+	bounds: 303, 1185, 29, 29
+Role_luxiya_97
+	bounds: 1138, 784, 27, 27
+Role_luxiya_98
+	bounds: 967, 654, 14, 35
+Role_luxiya_99
+	bounds: 408, 830, 14, 30
+Role_neck_3
+	bounds: 699, 113, 34, 46
+Role_nose_4_y
+	bounds: 1603, 799, 53, 63
+	offsets: 0, 0, 53, 68
+Role_palm_L3
+	bounds: 1564, 276, 33, 42
+	offsets: 0, 4, 33, 46
+Role_palm_R3
+	bounds: 416, 1082, 31, 29
+Role_pocket_L
+	bounds: 1157, 1025, 34, 44
+Role_projection_5
+	bounds: 1634, 1042, 23, 29
+Role_projection_6
+	bounds: 1587, 816, 14, 32
+Role_projection_7
+	bounds: 40, 1238, 13, 22
+Role_projection_F1
+	bounds: 1092, 1204, 19, 11
+Role_projection_F1F2
+	bounds: 1217, 769, 20, 20
+Role_shoes_L4
+	bounds: 1061, 158, 51, 109
+Role_shoes_R5
+	bounds: 1786, 162, 79, 86
+Role_tape_R8
+	bounds: 334, 194, 65, 60
+Role_tape_R9
+	bounds: 1940, 1869, 61, 14

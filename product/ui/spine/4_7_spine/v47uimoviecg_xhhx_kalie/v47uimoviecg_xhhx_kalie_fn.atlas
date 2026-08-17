@@ -1,0 +1,108 @@
+V47UiMovieCG_Xhhx_Kalie_Fn.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+effect_10
+	bounds: 1836, 1444, 569, 170
+	rotate: 270
+effect_2
+	bounds: 977, 2, 567, 507
+	offsets: 27, 0, 594, 507
+	rotate: 180
+effect_3
+	bounds: 695, 1768, 389, 278
+effect_4
+	bounds: 2, 1533, 691, 513
+effect_5
+	bounds: 1712, 245, 450, 260
+	offsets: 23, 0, 473, 260
+	rotate: 90
+effect_6
+	bounds: 664, 1058, 526, 302
+	offsets: 14, 0, 540, 302
+	rotate: 90
+effect_7
+	bounds: 1351, 2, 505, 345
+	offsets: 7, 0, 512, 346
+	rotate: 90
+effect_8
+	bounds: 2, 228, 521, 749
+	offsets: 0, 62, 521, 811
+	rotate: 180
+effect_9
+	bounds: 1245, 511, 451, 354
+fire_1
+	bounds: 1702, 778, 248, 319
+fire_10
+	bounds: 1397, 1486, 560, 446
+	offsets: 116, 0, 676, 446
+	rotate: 90
+fire_11
+	bounds: 957, 1195, 279, 592
+	offsets: 99, 5, 378, 729
+	rotate: 180
+fire_2
+	bounds: 1536, 436, 342, 365
+fire_3
+	bounds: 1101, 1036, 431, 526
+	rotate: 180
+fire_4
+	bounds: 1123, 661, 473, 500
+fire_5
+	bounds: 1634, 1341, 522, 291
+	rotate: 90
+fire_6
+	bounds: 317, 1364, 247, 167
+fire_7
+	bounds: 1643, 2, 366, 464
+	rotate: 180
+fire_8
+	bounds: 1221, 1462, 584, 291
+	offsets: 119, 0, 703, 474
+	rotate: 90
+fire_9
+	bounds: 695, 1640, 138, 126
+	offsets: 0, 13, 138, 139
+star_1
+	bounds: 2, 1407, 29, 42
+star_2
+	bounds: 108, 1498, 16, 33
+star_3
+	bounds: 298, 1453, 35, 78
+star_4
+	bounds: 272, 1504, 13, 27
+star_5
+	bounds: 126, 1503, 13, 28
+star_6
+	bounds: 74, 1461, 13, 27
+star_7
+	bounds: 59, 1462, 13, 27
+water_2
+	bounds: 811, 2, 356, 486
+	offsets: 0, 0, 739, 486
+water_3
+	bounds: 1472, 976, 341, 363
+	offsets: 0, 400, 1014, 819
+	rotate: 180
+water_4
+	bounds: 2, 15, 393, 222
+	offsets: 0, 0, 469, 401
+water_5
+	bounds: 538, 2, 190, 230
+	offsets: 0, 12, 190, 242
+water_6
+	bounds: 2, 1451, 55, 80
+wave_1
+	bounds: 524, 623, 346, 415
+	offsets: 0, 0, 346, 468
+wave_2
+	bounds: 2, 788, 743, 661
+	offsets: 289, 0, 1032, 861
+	rotate: 90
+wave_2_1
+	bounds: 59, 1489, 49, 42
+	offsets: 1, 3, 50, 45
+wave_3
+	bounds: 427, 173, 971, 695
+	offsets: 0, 0, 1118, 695
+	rotate: 270

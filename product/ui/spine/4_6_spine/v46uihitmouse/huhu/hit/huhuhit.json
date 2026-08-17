@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "G4ae1Urmvj4",
+	"spine": "4.3.17",
+	"x": -416,
+	"y": 1,
+	"width": 823,
+	"height": 774,
+	"images": "D:/熊挨打/打地鼠/huhu/HuhuHit/images/",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Body": {
+				"Body": { "x": -4.5, "y": 388, "width": 823, "height": 774 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

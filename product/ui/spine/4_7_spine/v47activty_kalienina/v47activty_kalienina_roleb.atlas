@@ -1,0 +1,169 @@
+V47Activty_KaLieNiNa_RoleB.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Bg_haicao
+	bounds: 884, 554, 380, 561
+	offsets: 0, 0, 399, 561
+	rotate: 270
+Bg_lang1
+	bounds: 2, 176, 436, 446
+	offsets: 344, 139, 1017, 785
+	rotate: 90
+Bg_lang1c
+	bounds: 2, 1056, 610, 471
+Bg_lang2
+	bounds: 2, 614, 880, 309
+RoleA_guangxiao1
+	bounds: 619, 877, 709, 984
+	rotate: 270
+RoleB_datui
+	bounds: 378, 252, 475, 360
+RoleB_jiemao
+	bounds: 82, 1492, 24, 46
+RoleB_meimao
+	bounds: 2, 1505, 26, 33
+RoleB_piaodai
+	bounds: 551, 1546, 40, 208
+	rotate: 90
+RoleB_piaodai2
+	bounds: 1924, 1112, 50, 163
+RoleB_qunbai
+	bounds: 1533, 960, 626, 407
+	rotate: 270
+RoleB_shangyanpi
+	bounds: 553, 1420, 39, 48
+RoleB_st
+	bounds: 310, 1123, 88, 97
+RoleB_st2
+	bounds: 1906, 1257, 53, 134
+	rotate: 90
+RoleB_st3
+	bounds: 1592, 729, 262, 418
+	rotate: 90
+RoleB_st4
+	bounds: 417, 1470, 75, 227
+	rotate: 90
+RoleB_st5
+	bounds: 144, 64, 414, 187
+	rotate: 180
+RoleB_tf1
+	bounds: 374, 1488, 32, 72
+	rotate: 90
+RoleB_tf10
+	bounds: 486, 1006, 48, 149
+	rotate: 90
+RoleB_tf11
+	bounds: 1820, 1397, 75, 97
+	rotate: 90
+RoleB_tf12
+	bounds: 709, 41, 284, 205
+RoleB_tf13
+	bounds: 1854, 945, 168, 49
+RoleB_tf14
+	bounds: 551, 964, 208, 139
+RoleB_tf14a
+	bounds: 1754, 260, 244, 149
+RoleB_tf15
+	bounds: 808, 109, 573, 295
+	rotate: 180
+RoleB_tf16
+	bounds: 1532, 1311, 64, 98
+RoleB_tf17
+	bounds: 2, 499, 148, 113
+RoleB_tf18
+	bounds: 279, 1529, 273, 57
+	rotate: 180
+RoleB_tf19
+	bounds: 91, 1552, 93, 34
+RoleB_tf2
+	bounds: 2, 1108, 113, 58
+RoleB_tf20
+	bounds: 1460, 554, 185, 107
+RoleB_tf21
+	bounds: 2, 1529, 285, 57
+RoleB_tf23
+	bounds: 1872, 674, 129, 93
+RoleB_tf24
+	bounds: 1941, 1035, 83, 97
+	rotate: 90
+RoleB_tf25
+	bounds: 59, 1568, 22, 18
+RoleB_tf26
+	bounds: 1340, 1445, 54, 67
+RoleB_tf27
+	bounds: 1964, 1199, 73, 62
+	offsets: 0, 3, 73, 65
+RoleB_tf28
+	bounds: 1465, 1531, 66, 44
+RoleB_tf3
+	bounds: 1291, 1496, 108, 90
+RoleB_tf4
+	bounds: 1936, 1499, 45, 76
+	rotate: 90
+RoleB_tf5
+	bounds: 2, 1473, 86, 82
+RoleB_tf6
+	bounds: 1589, 1500, 128, 86
+RoleB_tf7
+	bounds: 169, 1551, 70, 35
+RoleB_tf8
+	bounds: 1942, 1088, 76, 192
+RoleB_tf9
+	bounds: 1447, 646, 270, 164
+RoleB_tou
+	bounds: 123, 956, 207, 309
+	offsets: 0, 0, 207, 317
+	rotate: 90
+RoleB_xiajiemao
+	bounds: 1719, 1543, 11, 43
+RoleB_xiaotui
+	bounds: 1377, 137, 198, 446
+	rotate: 90
+RoleB_xiayanpi
+	bounds: 1261, 1543, 29, 43
+RoleB_yanpi1
+	bounds: 1993, 1504, 25, 40
+RoleB_yanqiu
+	bounds: 1401, 1547, 21, 39
+RoleB_yanzhu
+	bounds: 1732, 1561, 17, 25
+RoleB_yiling1
+	bounds: 1827, 588, 162, 183
+RoleB_yiling2
+	bounds: 2, 947, 149, 136
+RoleB_ys1
+	bounds: 1380, 1341, 157, 245
+RoleB_ys2
+	bounds: 2011, 1518, 28, 68
+	offsets: 0, 0, 28, 70
+RoleB_ys3
+	bounds: 288, 1559, 42, 27
+RoleB_ys4
+	bounds: 633, 1499, 69, 74
+	rotate: 90
+RoleB_ys5
+	bounds: 1114, 311, 361, 712
+	rotate: 270
+RoleB_ys6
+	bounds: 1882, 1546, 40, 131
+	rotate: 90
+RoleB_ys7
+	bounds: 1731, 1311, 275, 303
+	rotate: 90
+RoleB_zs1
+	bounds: 1184, 2, 221, 345
+	rotate: 90
+RoleB_zs2
+	bounds: 575, 54, 377, 343
+	rotate: 270
+RoleB_zs3
+	bounds: 419, 932, 122, 287
+	rotate: 90
+RoleB_zs5
+	bounds: 16, 1452, 46, 50
+RoleB_zs6
+	bounds: 1408, 804, 163, 72
+RoleB_zs7
+	bounds: 1724, 1450, 89, 68

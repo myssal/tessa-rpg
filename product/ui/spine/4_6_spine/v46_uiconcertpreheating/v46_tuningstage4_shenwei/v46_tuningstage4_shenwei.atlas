@@ -1,0 +1,234 @@
+V46_TuningStage4_ShenWei.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.2
+bang1a
+	bounds: 363, 2, 1683, 1166
+bang2
+	bounds: 2, 1034, 117, 646
+	offsets: 15, 55, 147, 756
+beixin
+	bounds: 121, 1051, 629, 600
+	offsets: 94, 2, 727, 612
+	rotate: 90
+bozi
+	bounds: 1233, 1021, 244, 269
+	offsets: 19, 3, 268, 273
+dabi
+	bounds: 131, 807, 512, 417
+	offsets: 5, 0, 518, 419
+erduo
+	bounds: 1662, 750, 62, 105
+	offsets: 6, 5, 74, 116
+gaoguang
+	bounds: 151, 1675, 10, 5
+	offsets: 9, 11, 28, 27
+jiao
+	bounds: 1902, 1493, 125, 187
+	offsets: 6, 6, 137, 199
+meimao
+	bounds: 1415, 1609, 65, 71
+	offsets: 5, 5, 77, 81
+qianshouzhi1
+	bounds: 999, 629, 166, 89
+	offsets: 2, 4, 173, 117
+qianshouzhi2
+	bounds: 1914, 569, 132, 108
+	offsets: 3, 4, 140, 116
+qianshouzhi3
+	bounds: 777, 522, 107, 116
+	offsets: 0, 3, 117, 123
+qianshouzhi4
+	bounds: 726, 556, 326, 169
+	offsets: 2, 5, 339, 178
+qianshouzhi5
+	bounds: 1600, 470, 223, 182
+	offsets: 4, 4, 238, 196
+qianshouzhi6
+	bounds: 1522, 584, 321, 186
+	offsets: 19, 10, 353, 208
+qianshouzhi7
+	bounds: 1726, 634, 320, 388
+	offsets: 5, 18, 339, 411
+qianshouzhi8
+	bounds: 444, 458, 149, 277
+	offsets: 8, 0, 161, 277
+shangyanjian
+	bounds: 1106, 1624, 43, 56
+	offsets: 6, 8, 54, 69
+shenti
+	bounds: 1294, 1052, 628, 607
+	offsets: 95, 2, 727, 612
+	rotate: 90
+shenti0
+	bounds: 721, 1052, 628, 607
+	offsets: 95, 2, 727, 612
+	rotate: 270
+shuangyanoi
+	bounds: 1420, 1638, 47, 42
+	offsets: 5, 11, 59, 58
+tf1
+	bounds: 1222, 1448, 79, 79
+	offsets: 5, 5, 89, 89
+tf10
+	bounds: 1143, 1483, 128, 78
+	offsets: 5, 6, 139, 90
+tf11
+	bounds: 607, 1647, 112, 33
+	offsets: 5, 5, 122, 43
+tf12
+	bounds: 585, 459, 144, 215
+	offsets: 44, 4, 192, 224
+tf13
+	bounds: 143, 1548, 132, 28
+	offsets: 6, 5, 143, 38
+	rotate: 270
+tf14
+	bounds: 1449, 1615, 44, 65
+	offsets: 5, 6, 55, 76
+tf15
+	bounds: 633, 467, 233, 237
+	offsets: 3, 3, 237, 242
+tf16
+	bounds: 1902, 1200, 141, 173
+	offsets: 5, 6, 151, 184
+tf17
+	bounds: 1155, 458, 203, 52
+	offsets: 5, 19, 235, 91
+tf18
+	bounds: 343, 444, 109, 199
+	offsets: 4, 5, 117, 209
+tf19
+	bounds: 1440, 879, 58, 121
+	offsets: 20, 6, 84, 133
+tf2
+	bounds: 752, 1653, 46, 27
+	offsets: 5, 5, 56, 37
+tf20
+	bounds: 121, 1520, 32, 160
+	offsets: 5, 5, 42, 169
+tf21
+	bounds: 1291, 1449, 39, 95
+	offsets: 5, 5, 49, 105
+tf22
+	bounds: 324, 393, 74, 217
+	offsets: 4, 5, 82, 226
+tf23
+	bounds: 2, 368, 71, 230
+	offsets: 22, 4, 96, 238
+tf24
+	bounds: 840, 438, 100, 159
+	offsets: 5, 5, 111, 169
+tf25
+	bounds: 129, 1493, 78, 122
+	offsets: 5, 5, 89, 132
+tf26
+	bounds: 177, 1603, 11, 77
+	offsets: 80, 35, 96, 117
+	rotate: 180
+tf27
+	bounds: 1257, 463, 261, 113
+	offsets: 3, 4, 267, 121
+tf28
+	bounds: 1355, 1640, 52, 40
+	offsets: 5, 5, 62, 50
+tf29
+	bounds: 266, 1620, 93, 60
+	offsets: 7, 5, 105, 73
+tf3
+	bounds: 160, 1650, 30, 7
+	offsets: 5, 5, 40, 18
+	rotate: 90
+tf30
+	bounds: 1085, 1522, 337, 158
+	offsets: 2, 2, 341, 163
+tf31
+	bounds: 1466, 929, 239, 230
+	offsets: 1, 4, 240, 236
+tf32
+	bounds: 650, 972, 249, 124
+	offsets: 4, 3, 257, 130
+tf33
+	bounds: 2, 536, 248, 210
+	offsets: 4, 1, 261, 227
+tf4
+	bounds: 1814, 1647, 79, 33
+	offsets: 5, 5, 90, 43
+tf5
+	bounds: 374, 1669, 36, 11
+	offsets: 5, 5, 47, 21
+tf6
+	bounds: 38, 960, 159, 78
+	offsets: 5, 4, 168, 86
+tf7
+	bounds: 1947, 1249, 85, 124
+	offsets: 4, 4, 94, 133
+tf8
+	bounds: 966, 1624, 128, 56
+	offsets: 5, 6, 139, 67
+tf9
+	bounds: 166, 1601, 17, 79
+	offsets: 5, 9, 27, 94
+tftouying
+	bounds: 1365, 480, 188, 177
+	offsets: 4, 0, 192, 178
+tou
+	bounds: 1024, 720, 268, 350
+	offsets: 6, 7, 280, 364
+xianglian1
+	bounds: 1838, 166, 151, 469
+	offsets: 4, 2, 159, 474
+xianglian2
+	bounds: 1630, 214, 147, 357
+	offsets: 3, 2, 152, 363
+xiaobi1
+	bounds: 571, 674, 451, 315
+	offsets: 3, 3, 459, 322
+xiaobi2
+	bounds: 2, 687, 349, 278
+	offsets: 4, 3, 357, 284
+xiayanjian1
+	bounds: 1494, 1643, 13, 37
+	offsets: 4, 5, 23, 48
+xiayanjian2
+	bounds: 298, 1665, 11, 15
+	offsets: 10, 9, 58, 32
+yanbai
+	bounds: 266, 1637, 30, 43
+	offsets: 5, 5, 40, 53
+yanjing
+	bounds: 284, 533, 230, 283
+	offsets: 3, 4, 236, 296
+yanjing2
+	bounds: 95, 375, 187, 214
+	offsets: 5, 5, 197, 223
+yanoi
+	bounds: 283, 1634, 46, 46
+	offsets: 5, 5, 56, 56
+yantong
+	bounds: 360, 1656, 22, 24
+	offsets: 5, 5, 33, 45
+yanxia
+	bounds: 1409, 1632, 19, 48
+	offsets: 6, 6, 31, 59
+zhuangshi
+	bounds: 1456, 431, 166, 302
+	offsets: 5, 4, 175, 312
+zui1
+	bounds: 1092, 1623, 33, 57
+	offsets: 5, 5, 43, 68
+zui2
+	bounds: 1129, 1632, 37, 48
+	offsets: 5, 5, 48, 58
+zui3
+	bounds: 722, 1637, 31, 43
+	offsets: 5, 5, 42, 53
+zuoshou1
+	bounds: 190, 1617, 74, 63
+	offsets: 6, 6, 86, 75
+zuoshou2
+	bounds: 1903, 1375, 108, 116
+	offsets: 8, 4, 124, 124
+zuoshou3
+	bounds: 1294, 814, 144, 205
+	offsets: 6, 6, 162, 217

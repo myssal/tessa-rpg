@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "TuTTaTCxJ58",
+	"spine": "4.3.17",
+	"x": -401,
+	"y": -1,
+	"width": 805,
+	"height": 771,
+	"images": "D:/熊挨打/打地鼠/buouxiong/Hit/images/",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Body": {
+				"Body": { "x": 1.5, "y": 384.5, "width": 805, "height": 771 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

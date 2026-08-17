@@ -1,0 +1,80 @@
+V47UiMovieCGDtm_KaLieNiNa_Fn.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.7
+EFF/Effect_2
+	bounds: 242, 55, 152, 152
+Effect8
+	bounds: 737, 1411, 36, 32
+Effect_10
+	bounds: 737, 1445, 37, 32
+Effect_11
+	bounds: 1516, 91, 99, 83
+Effect_12
+	bounds: 1516, 91, 99, 83
+Effect_14
+	bounds: 1516, 91, 99, 83
+Effect_15
+	bounds: 1516, 91, 99, 83
+Effect_13
+	bounds: 737, 1479, 62, 51
+Effect_18
+	bounds: 665, 670, 95, 96
+Effect_19
+	bounds: 1965, 78, 81, 84
+Effect_20
+	bounds: 1363, 85, 83, 75
+Effect_21
+	bounds: 737, 1532, 58, 71
+Effect_22
+	bounds: 569, 118, 90, 89
+Effect_231
+	bounds: 2, 44, 163, 239
+	offsets: 0, 1, 163, 240
+	rotate: 90
+Effect_9
+	bounds: 2031, 1677, 13, 12
+Fx_Glow_1
+	bounds: 569, 946, 212, 229
+	offsets: 1, 2, 228, 232
+Fx_Glow_2
+	bounds: 2, 209, 661, 497
+	offsets: 27, 1, 701, 536
+Fx_Glow_3
+	bounds: 665, 110, 558, 498
+	offsets: 1, 2, 561, 502
+Fx_Glow_4
+	bounds: 1225, 292, 589, 316
+	offsets: 8, 0, 599, 316
+Fx_Glow_5
+	bounds: 2, 708, 895, 389
+	offsets: 6, 0, 901, 389
+	rotate: 90
+Fx_Lizi_1
+	bounds: 776, 1455, 20, 22
+	offsets: 2, 3, 24, 29
+Glow_1A
+	bounds: 810, 610, 1219, 1079
+Role_Lshou1
+	bounds: 393, 760, 175, 415
+	offsets: 0, 0, 177, 415
+Role_Lshou3
+	bounds: 1816, 373, 98, 235
+Role_Lshou4
+	bounds: 396, 7, 171, 200
+Role_Lshou5
+	bounds: 560, 768, 201, 176
+Role_Lshou6
+	bounds: 1781, 151, 265, 420
+Role_Lshou7
+	bounds: 1615, 2, 288, 299
+	rotate: 90
+Role_Lshou8
+	bounds: 1225, 140, 150, 394
+	offsets: 11, 3, 161, 398
+	rotate: 90
+Role_Lshou9
+	bounds: 393, 1177, 426, 342
+	rotate: 90
+zhezhao2
+	bounds: 2, 1605, 806, 84

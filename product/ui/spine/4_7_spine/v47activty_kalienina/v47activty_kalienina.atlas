@@ -1,0 +1,10 @@
+V47Activty_KaLieNiNa.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+Glow_102
+	bounds: 2, 2, 512, 512
+Glow_81
+	bounds: 516, 386, 128, 128
+V47Activty_KaLieNiNa
+	bounds: 2, 516, 1920, 1080

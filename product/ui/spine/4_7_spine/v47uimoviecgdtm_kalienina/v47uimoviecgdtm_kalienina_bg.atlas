@@ -1,0 +1,147 @@
+V47UiMovieCGDtm_KaLieNiNa_Bg.webp
+	size: 2048, 512
+	filter: Linear, Linear
+	scale: 0.5
+BG_effect1
+	bounds: 1439, 71, 223, 112
+BG_effect10
+	bounds: 992, 91, 92, 153
+	rotate: 90
+BG_effect11
+	bounds: 1544, 30, 60, 106
+	offsets: 0, 0, 60, 121
+BG_effect12
+	bounds: 1085, 433, 76, 135
+	rotate: 90
+BG_effect13
+	bounds: 1237, 53, 49, 88
+BG_effect14
+	bounds: 974, 276, 49, 88
+BG_effect15
+	bounds: 1085, 343, 35, 88
+BG_effect16
+	bounds: 146, 78, 105, 179
+	rotate: 90
+BG_effect17
+	bounds: 1664, 43, 131, 192
+	rotate: 90
+BG_effect18
+	bounds: 974, 366, 109, 143
+BG_effect19
+	bounds: 843, 69, 114, 147
+	rotate: 90
+BG_effect2
+	bounds: 957, 185, 437, 324
+BG_effect3
+	bounds: 1649, 185, 236, 324
+BG_effect4
+	bounds: 1158, 143, 236, 324
+BG_effect5
+	bounds: 992, 9, 80, 137
+	rotate: 90
+BG_effect6
+	bounds: 1599, 185, 101, 165
+BG_effect7
+	bounds: 726, 66, 115, 146
+BG_effect8
+	bounds: 146, 21, 55, 137
+	rotate: 90
+BG_effect9
+	bounds: 477, 7, 75, 176
+Bg
+	bounds: 2, 185, 576, 324
+Bg_caidai1
+	bounds: 554, 4, 19, 20
+	rotate: 90
+Bg_caidai10
+	bounds: 238, 4, 15, 15
+Bg_caidai11
+	bounds: 201, 4, 18, 15
+Bg_caidai12
+	bounds: 669, 13, 72, 51
+Bg_caidai13
+	bounds: 2, 14, 89, 29
+Bg_caidai14
+	bounds: 221, 4, 15, 15
+Bg_caidai15
+	bounds: 743, 19, 61, 45
+Bg_caidai16
+	bounds: 1533, 221, 150, 73
+	rotate: 90
+Bg_caidai17
+	bounds: 974, 237, 24, 37
+Bg_caidai18
+	bounds: 161, 2, 18, 17
+Bg_caidai19
+	bounds: 554, 152, 22, 31
+Bg_caidai2
+	bounds: 181, 3, 16, 18
+	rotate: 90
+Bg_caidai20
+	bounds: 870, 27, 57, 40
+Bg_caidai21
+	bounds: 806, 20, 62, 44
+Bg_caidai22
+	bounds: 843, 186, 26, 17
+	rotate: 90
+Bg_caidai23
+	bounds: 554, 25, 113, 46
+Bg_caidai24
+	bounds: 427, 17, 30, 46
+Bg_caidai25
+	bounds: 554, 90, 20, 29
+Bg_caidai26
+	bounds: 929, 8, 30, 19
+	rotate: 90
+Bg_caidai27
+	bounds: 1025, 317, 32, 47
+Bg_caidai28
+	bounds: 93, 13, 30, 42
+	rotate: 90
+Bg_caidai29
+	bounds: 862, 189, 23, 16
+	rotate: 90
+Bg_caidai3
+	bounds: 1025, 283, 16, 32
+Bg_caidai30
+	bounds: 1533, 373, 236, 136
+Bg_caidai31
+	bounds: 285, 16, 140, 47
+Bg_caidai32
+	bounds: 2, 2, 12, 10
+Bg_caidai4
+	bounds: 950, 9, 29, 17
+	rotate: 90
+Bg_caidai5
+	bounds: 137, 5, 22, 14
+Bg_caidai6
+	bounds: 554, 121, 29, 20
+	rotate: 90
+Bg_caidai7
+	bounds: 1131, 12, 104, 77
+Bg_caidai8
+	bounds: 1288, 7, 88, 38
+	rotate: 90
+Bg_caidai9
+	bounds: 969, 40, 17, 27
+Bg_guang1
+	bounds: 1396, 216, 282, 135
+	rotate: 90
+Bg_guang2
+	bounds: 327, 65, 148, 118
+Bg_guang3
+	bounds: 580, 214, 392, 295
+Bg_guang4
+	bounds: 1860, 132, 186, 231
+Bg_guang5
+	bounds: 1606, 72, 58, 94
+	offsets: 0, 0, 100, 121
+Bg_guang6
+	bounds: 929, 40, 27, 27
+Bg_guang7
+	bounds: 2, 45, 142, 138
+Bg_guang8
+	bounds: 1320, 97, 117, 117
+Effect_26_1
+	bounds: 580, 72, 144, 140
+	offsets: 0, 0, 288, 140
