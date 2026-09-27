@@ -1,0 +1,12 @@
+V48Activity_ADeLai_Middle.webp
+size:2048,1024
+filter:Linear,Linear
+repeat:xy
+scale:0.8
+Bg_tx1
+bounds:2,350,1741,639
+Bg_tx2
+bounds:2,2,482,346
+Bg_tx4
+bounds:486,17,331,415
+rotate:90

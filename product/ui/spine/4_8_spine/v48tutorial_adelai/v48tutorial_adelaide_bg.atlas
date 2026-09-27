@@ -1,0 +1,46 @@
+V48Tutorial_Adelaide_Bg.webp
+size:2048,1024
+filter:Linear,Linear
+repeat:xy
+scale:0.5
+Bg_Architecture_3
+bounds:2,291,1090,617
+Bg_Architecture_4
+bounds:1093,2,1013,543
+rotate:90
+Bg_bird_1
+bounds:77,977,51,38
+Bg_bird_2
+bounds:43,965,42,50
+Bg_bird_3
+bounds:130,984,26,13
+Bg_bird_4
+bounds:105,998,46,12
+offsets:0,5,46,17
+Bg_bird_5
+bounds:2,984,39,31
+Bg_bird_6
+bounds:36,965,24,13
+Bg_bird_7
+bounds:2,960,32,22
+Bg_bird_8
+bounds:87,966,35,10
+Bg_bird_9
+bounds:2,951,20,7
+Bg_iron chain_1
+bounds:2,51,342,238
+Bg_iron chain_2
+bounds:1638,71,558,306
+offsets:0,0,672,345
+rotate:90
+Bg_iron chain_3
+bounds:1678,25,305,374
+Bg_iron chain_4
+bounds:89,103,360,186
+Bg_iron chain_5
+bounds:2,910,444,105
+Bg_iron chain_6
+bounds:2,48,223,193
+Bg_stone_4
+bounds:1638,631,384,364
+rotate:90
