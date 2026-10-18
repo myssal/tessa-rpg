@@ -1,0 +1,83 @@
+
+slifuloginv40bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Bg_bj1
+  rotate: false
+  xy: 2, 1444
+  size: 621, 331
+  orig: 621, 331
+  offset: 0, 0
+  index: -1
+Bg_bj3
+  rotate: false
+  xy: 2, 1887
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Bg_bj4
+  rotate: true
+  xy: 39, 1882
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Bg_bj5
+  rotate: false
+  xy: 258, 1809
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Bg_bj6
+  rotate: false
+  xy: 625, 1381
+  size: 694, 332
+  orig: 694, 332
+  offset: 0, 0
+  index: -1
+Bg_bj7
+  rotate: false
+  xy: 2, 299
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Bg_bj8
+  rotate: false
+  xy: 895, 1715
+  size: 483, 207
+  orig: 483, 207
+  offset: 0, 0
+  index: -1
+Effect_fw27
+  rotate: false
+  xy: 373, 1777
+  size: 296, 145
+  orig: 296, 145
+  offset: 0, 0
+  index: -1
+Effect_fw58
+  rotate: false
+  xy: 82, 1863
+  size: 174, 59
+  orig: 174, 59
+  offset: 0, 0
+  index: -1
+Effect_zctx16
+  rotate: false
+  xy: 1380, 1664
+  size: 391, 258
+  orig: 430, 260
+  offset: 39, 0
+  index: -1
+Effect_zctx18
+  rotate: false
+  xy: 671, 1773
+  size: 222, 149
+  orig: 259, 176
+  offset: 0, 9
+  index: -1

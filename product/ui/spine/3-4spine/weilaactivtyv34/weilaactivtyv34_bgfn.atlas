@@ -1,0 +1,20 @@
+
+weilaactivtyv34_bgfn.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_Di
+  rotate: 180
+  xy: 245, 4
+  size: 1801, 256
+  orig: 1801, 257
+  offset: 0, 0
+  index: -1
+Bg_Effct_glow_2
+  rotate: false
+  xy: 2, 89
+  size: 760, 669
+  orig: 760, 669
+  offset: 0, 0
+  index: -1

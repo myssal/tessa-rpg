@@ -1,0 +1,27 @@
+
+buouxiongactivityv41fn.webp
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+heimu
+  rotate: false
+  xy: 413, 362
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+suduxian
+  rotate: false
+  xy: 2, 3
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+zhaunc1
+  rotate: false
+  xy: 2, 414
+  size: 819, 819
+  orig: 819, 819
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+weilaactivtyv34_fn.webp
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Aheimu
+  rotate: false
+  xy: 2, 100
+  size: 225, 127
+  orig: 225, 127
+  offset: 0, 0
+  index: -1
+Aheimu_1
+  rotate: true
+  xy: 229, 2
+  size: 225, 127
+  orig: 225, 127
+  offset: 0, 0
+  index: -1
+Aheimu_2
+  rotate: false
+  xy: 2, 229
+  size: 340, 342
+  orig: 340, 342
+  offset: 0, 0
+  index: -1

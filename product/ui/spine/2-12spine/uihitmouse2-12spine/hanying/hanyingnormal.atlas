@@ -1,0 +1,104 @@
+
+hanyingnormal.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: false
+  xy: 586, 364
+  size: 512, 647
+  orig: 512, 647
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 1301, 134
+  size: 246, 315
+  orig: 246, 315
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 3, 216
+  size: 795, 580
+  orig: 795, 580
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 3, 42
+  size: 174, 13
+  orig: 176, 15
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 1016, 0
+  size: 282, 364
+  orig: 282, 364
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1101, 570
+  size: 435, 441
+  orig: 435, 441
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 586, 225
+  size: 427, 139
+  orig: 427, 139
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 3, 0
+  size: 390, 42
+  orig: 390, 42
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 19, 62
+  size: 308, 154
+  orig: 308, 154
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 638, 1
+  size: 102, 263
+  orig: 104, 265
+  offset: 1, 1
+  index: -1
+youtui2
+  rotate: true
+  xy: 638, 103
+  size: 122, 359
+  orig: 122, 359
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 330, 63
+  size: 305, 153
+  orig: 305, 153
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 1463, 469
+  size: 101, 260
+  orig: 103, 262
+  offset: 1, 1
+  index: -1
+zuotui2
+  rotate: true
+  xy: 1101, 449
+  size: 121, 359
+  orig: 121, 359
+  offset: 0, 0
+  index: -1

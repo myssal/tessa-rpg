@@ -1,0 +1,13 @@
+
+hanyinghit.webp
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hit
+  rotate: false
+  xy: 3, 0
+  size: 798, 1039
+  orig: 800, 1041
+  offset: 1, 1
+  index: -1

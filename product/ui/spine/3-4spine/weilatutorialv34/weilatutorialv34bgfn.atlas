@@ -1,0 +1,20 @@
+
+weilatutorialv34bgfn.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_10
+  rotate: false
+  xy: 317, 3
+  size: 313, 973
+  orig: 313, 973
+  offset: 0, 0
+  index: -1
+Bg_11
+  rotate: false
+  xy: 2, 3
+  size: 313, 973
+  orig: 313, 973
+  offset: 0, 0
+  index: -1

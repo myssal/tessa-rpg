@@ -1,0 +1,13 @@
+
+lilisiactivitypai.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+pai1.1
+  rotate: false
+  xy: 2, 3
+  size: 296, 363
+  orig: 296, 363
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+buouxiongactivityv41bg2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_guangxian
+  rotate: false
+  xy: 828, 3
+  size: 377, 261
+  orig: 377, 261
+  offset: 0, 0
+  index: -1
+Bg_jin
+  rotate: 180
+  xy: 235, 126
+  size: 592, 477
+  orig: 683, 497
+  offset: 0, 20
+  index: -1
+Bg_tx1
+  rotate: false
+  xy: 212, 33
+  size: 188, 95
+  orig: 191, 96
+  offset: 3, 1
+  index: -1
+Bg_tx2
+  rotate: true
+  xy: 89, 192
+  size: 283, 145
+  orig: 283, 234
+  offset: 0, 89
+  index: -1
+Bg_tx3
+  rotate: false
+  xy: 2, 712
+  size: 243, 206
+  orig: 243, 206
+  offset: 0, 0
+  index: -1
+Bg_tx4
+  rotate: false
+  xy: 2, 16
+  size: 209, 174
+  orig: 209, 174
+  offset: 0, 0
+  index: -1
+Bg_zhong
+  rotate: false
+  xy: 2, 125
+  size: 1929, 1234
+  orig: 1929, 1234
+  offset: 0, 0
+  index: -1

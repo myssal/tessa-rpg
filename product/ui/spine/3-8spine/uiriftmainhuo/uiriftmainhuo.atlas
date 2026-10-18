@@ -1,0 +1,13 @@
+
+uiriftmainhuo.webp
+size: 50,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Huo
+  rotate: false
+  xy: 0, 0
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1

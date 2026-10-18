@@ -1,0 +1,20 @@
+
+uigachaselenastagekrline3.webp
+size: 392,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine3
+  rotate: false
+  xy: 0, 0
+  size: 196, 100
+  orig: 196, 100
+  offset: 0, 0
+  index: -1
+Bthua
+  rotate: false
+  xy: 196, 0
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1

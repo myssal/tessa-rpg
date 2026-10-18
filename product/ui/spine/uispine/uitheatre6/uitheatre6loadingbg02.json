@@ -1,0 +1,1544 @@
+{
+"skeleton": {
+	"hash": "MJWkR0b1ww1nxwgxFa2XzqytI70",
+	"spine": "3.8.99",
+	"x": -884,
+	"y": -13,
+	"width": 1675,
+	"height": 1013,
+	"images": "./images/",
+	"audio": "D:/熊挨打/UiTheatre6LoadingBg02"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Paper", "parent": "root", "x": 317.62, "y": 572.66 },
+	{ "name": "Paper2", "parent": "Paper", "x": -315.95, "y": -487.29 },
+	{ "name": "Paper3", "parent": "Paper", "x": -319.26, "y": 370.62 },
+	{ "name": "Paper4", "parent": "Paper3", "length": 105.12, "rotation": 20.32, "x": -1.71, "y": 2.81 },
+	{ "name": "Paper4b", "parent": "Paper4", "length": 104.27, "rotation": -15.48, "x": 105.12 },
+	{ "name": "Paper4c", "parent": "Paper4b", "length": 105.12, "rotation": -5.85, "x": 105.12 },
+	{ "name": "Paper4d", "parent": "Paper4c", "length": 105.12, "rotation": -5.03, "x": 105.12 },
+	{ "name": "Paper4e", "parent": "Paper4d", "length": 105.12, "x": 105.12 },
+	{ "name": "Paper4f", "parent": "Paper4e", "length": 114, "rotation": 5.29, "x": 105.12 },
+	{ "name": "Paper5", "parent": "Paper2", "length": 108.7, "rotation": 18.13, "x": -1.49, "y": 0.43 },
+	{ "name": "Paper5b", "parent": "Paper5", "length": 108.7, "rotation": -19.32, "x": 108.7 },
+	{ "name": "Paper5c", "parent": "Paper5b", "length": 108.7, "rotation": -3.34, "x": 108.7 },
+	{ "name": "Paper5d", "parent": "Paper5c", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5e", "parent": "Paper5d", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5f", "parent": "Paper5e", "length": 108.7, "rotation": 3.81, "x": 108.7 },
+	{ "name": "PaperL", "parent": "root", "x": -310.51, "y": 589.6 },
+	{ "name": "PaperL2", "parent": "PaperL", "x": 311.83, "y": -494.33 },
+	{ "name": "PaperL3", "parent": "PaperL", "x": 312.06, "y": 353.01 },
+	{ "name": "PaperL4", "parent": "PaperL2", "length": 107.52, "rotation": 165.66, "x": 0.03, "y": 0.15 },
+	{ "name": "PaperL4b", "parent": "PaperL4", "length": 107.52, "rotation": 10.6, "x": 107.52 },
+	{ "name": "PaperL4c", "parent": "PaperL4b", "length": 107.52, "rotation": 12.44, "x": 107.52 },
+	{ "name": "PaperL4d", "parent": "PaperL4c", "length": 107.52, "rotation": -5.94, "x": 107.52 },
+	{ "name": "PaperL4e", "parent": "PaperL4d", "length": 107.52, "rotation": 1.87, "x": 107.52 },
+	{ "name": "PaperL5", "parent": "PaperL3", "length": 103.69, "rotation": 155.78, "x": -0.03, "y": 0.07 },
+	{ "name": "PaperL5b", "parent": "PaperL5", "length": 103.69, "rotation": 17.74, "x": 103.69 },
+	{ "name": "PaperL5c", "parent": "PaperL5b", "length": 103.69, "rotation": 7.3, "x": 103.69 },
+	{ "name": "PaperL5d", "parent": "PaperL5c", "length": 103.69, "rotation": 4.74, "x": 103.69 },
+	{ "name": "PaperL5e", "parent": "PaperL5d", "length": 103.69, "rotation": 1.82, "x": 103.69 },
+	{ "name": "PaperL5f", "parent": "PaperL5e", "length": 113, "x": 103.69 },
+	{ "name": "PaperL4e2", "parent": "PaperL4e", "length": 112.58, "rotation": 0.26, "x": 107.1, "y": -0.11 },
+	{ "name": "Paper6", "parent": "root", "x": 317.62, "y": 572.66 },
+	{ "name": "Paper7", "parent": "Paper6", "x": -315.95, "y": -487.29 },
+	{ "name": "Paper8", "parent": "Paper7", "length": 108.7, "rotation": 18.13, "x": -1.49, "y": 0.43 },
+	{ "name": "Paper5b2", "parent": "Paper8", "length": 108.7, "rotation": -19.32, "x": 108.7 },
+	{ "name": "Paper5c2", "parent": "Paper5b2", "length": 108.7, "rotation": -3.34, "x": 108.7 },
+	{ "name": "Paper5d2", "parent": "Paper5c2", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5e2", "parent": "Paper5d2", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5f2", "parent": "Paper5e2", "length": 108.7, "rotation": 3.81, "x": 108.7 },
+	{ "name": "Paper9", "parent": "Paper6", "x": -319.26, "y": 370.62 },
+	{ "name": "Paper10", "parent": "Paper9", "length": 105.12, "rotation": 20.32, "x": -1.71, "y": 2.81 },
+	{ "name": "Paper4b2", "parent": "Paper10", "length": 104.27, "rotation": -15.48, "x": 105.12 },
+	{ "name": "Paper4c2", "parent": "Paper4b2", "length": 105.12, "rotation": -5.85, "x": 105.12 },
+	{ "name": "Paper4d2", "parent": "Paper4c2", "length": 105.12, "rotation": -5.03, "x": 105.12 },
+	{ "name": "Paper4e2", "parent": "Paper4d2", "length": 105.12, "x": 105.12 },
+	{ "name": "Paper4f2", "parent": "Paper4e2", "length": 114, "rotation": 5.29, "x": 105.12 },
+	{ "name": "PaperL6", "parent": "root", "x": -310.51, "y": 589.6 },
+	{ "name": "PaperL7", "parent": "PaperL6", "x": 311.83, "y": -494.33 },
+	{ "name": "PaperL8", "parent": "PaperL7", "length": 107.52, "rotation": 165.66, "x": 0.03, "y": 0.15 },
+	{ "name": "PaperL4b2", "parent": "PaperL8", "length": 107.52, "rotation": 10.6, "x": 107.52 },
+	{ "name": "PaperL4c2", "parent": "PaperL4b2", "length": 107.52, "rotation": 12.44, "x": 107.52 },
+	{ "name": "PaperL4d2", "parent": "PaperL4c2", "length": 107.52, "rotation": -5.94, "x": 107.52 },
+	{ "name": "PaperL4e3", "parent": "PaperL4d2", "length": 107.52, "rotation": 1.87, "x": 107.52 },
+	{ "name": "PaperL4e4", "parent": "PaperL4e3", "length": 112.58, "rotation": 0.26, "x": 107.1, "y": -0.11 },
+	{ "name": "PaperL9", "parent": "PaperL6", "x": 312.06, "y": 353.01 },
+	{ "name": "PaperL10", "parent": "PaperL9", "length": 103.69, "rotation": 155.78, "x": -0.03, "y": 0.07 },
+	{ "name": "PaperL5b2", "parent": "PaperL10", "length": 103.69, "rotation": 17.74, "x": 103.69 },
+	{ "name": "PaperL5c2", "parent": "PaperL5b2", "length": 103.69, "rotation": 7.3, "x": 103.69 },
+	{ "name": "PaperL5d2", "parent": "PaperL5c2", "length": 103.69, "rotation": 4.74, "x": 103.69 },
+	{ "name": "PaperL5e2", "parent": "PaperL5d2", "length": 103.69, "rotation": 1.82, "x": 103.69 },
+	{ "name": "PaperL5f2", "parent": "PaperL5e2", "length": 113, "x": 103.69 },
+	{ "name": "Paper11", "parent": "root", "x": 317.62, "y": 572.66 },
+	{ "name": "Paper12", "parent": "Paper11", "x": -315.95, "y": -487.29 },
+	{ "name": "Paper13", "parent": "Paper12", "length": 108.7, "rotation": 18.13, "x": -1.49, "y": 0.43 },
+	{ "name": "Paper5b3", "parent": "Paper13", "length": 108.7, "rotation": -19.32, "x": 108.7 },
+	{ "name": "Paper5c3", "parent": "Paper5b3", "length": 108.7, "rotation": -3.34, "x": 108.7 },
+	{ "name": "Paper5d3", "parent": "Paper5c3", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5e3", "parent": "Paper5d3", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5f3", "parent": "Paper5e3", "length": 108.7, "rotation": 3.81, "x": 108.7 },
+	{ "name": "Paper14", "parent": "Paper11", "x": -319.26, "y": 370.62 },
+	{ "name": "Paper15", "parent": "Paper14", "length": 105.12, "rotation": 20.32, "x": -1.71, "y": 2.81 },
+	{ "name": "Paper4b3", "parent": "Paper15", "length": 104.27, "rotation": -15.48, "x": 105.12 },
+	{ "name": "Paper4c3", "parent": "Paper4b3", "length": 105.12, "rotation": -5.85, "x": 105.12 },
+	{ "name": "Paper4d3", "parent": "Paper4c3", "length": 105.12, "rotation": -5.03, "x": 105.12 },
+	{ "name": "Paper4e3", "parent": "Paper4d3", "length": 105.12, "x": 105.12 },
+	{ "name": "Paper4f3", "parent": "Paper4e3", "length": 114, "rotation": 5.29, "x": 105.12 },
+	{ "name": "PaperL11", "parent": "root", "x": -310.51, "y": 589.6 },
+	{ "name": "PaperL12", "parent": "PaperL11", "x": 311.83, "y": -494.33 },
+	{ "name": "PaperL13", "parent": "PaperL12", "length": 107.52, "rotation": 165.66, "x": 0.03, "y": 0.15 },
+	{ "name": "PaperL4b3", "parent": "PaperL13", "length": 107.52, "rotation": 10.6, "x": 107.52 },
+	{ "name": "PaperL4c3", "parent": "PaperL4b3", "length": 107.52, "rotation": 12.44, "x": 107.52 },
+	{ "name": "PaperL4d3", "parent": "PaperL4c3", "length": 107.52, "rotation": -5.94, "x": 107.52 },
+	{ "name": "PaperL4e5", "parent": "PaperL4d3", "length": 107.52, "rotation": 1.87, "x": 107.52 },
+	{ "name": "PaperL4e6", "parent": "PaperL4e5", "length": 112.58, "rotation": 0.26, "x": 107.1, "y": -0.11 },
+	{ "name": "PaperL14", "parent": "PaperL11", "x": 312.06, "y": 353.01 },
+	{ "name": "PaperL15", "parent": "PaperL14", "length": 103.69, "rotation": 155.78, "x": -0.03, "y": 0.07 },
+	{ "name": "PaperL5b3", "parent": "PaperL15", "length": 103.69, "rotation": 17.74, "x": 103.69 },
+	{ "name": "PaperL5c3", "parent": "PaperL5b3", "length": 103.69, "rotation": 7.3, "x": 103.69 },
+	{ "name": "PaperL5d3", "parent": "PaperL5c3", "length": 103.69, "rotation": 4.74, "x": 103.69 },
+	{ "name": "PaperL5e3", "parent": "PaperL5d3", "length": 103.69, "rotation": 1.82, "x": 103.69 },
+	{ "name": "PaperL5f3", "parent": "PaperL5e3", "length": 113, "x": 103.69 },
+	{ "name": "Paper16", "parent": "root", "x": 317.62, "y": 572.66 },
+	{ "name": "Paper17", "parent": "Paper16", "x": -315.95, "y": -487.29 },
+	{ "name": "Paper18", "parent": "Paper17", "length": 108.7, "rotation": 18.13, "x": -1.49, "y": 0.43 },
+	{ "name": "Paper5b4", "parent": "Paper18", "length": 108.7, "rotation": -19.32, "x": 108.7 },
+	{ "name": "Paper5c4", "parent": "Paper5b4", "length": 108.7, "rotation": -3.34, "x": 108.7 },
+	{ "name": "Paper5d4", "parent": "Paper5c4", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5e4", "parent": "Paper5d4", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5f4", "parent": "Paper5e4", "length": 108.7, "rotation": 3.81, "x": 108.7 },
+	{ "name": "Paper19", "parent": "Paper16", "x": -319.26, "y": 370.62 },
+	{ "name": "Paper20", "parent": "Paper19", "length": 105.12, "rotation": 20.32, "x": -1.71, "y": 2.81 },
+	{ "name": "Paper4b4", "parent": "Paper20", "length": 104.27, "rotation": -15.48, "x": 105.12 },
+	{ "name": "Paper4c4", "parent": "Paper4b4", "length": 105.12, "rotation": -5.85, "x": 105.12 },
+	{ "name": "Paper4d4", "parent": "Paper4c4", "length": 105.12, "rotation": -5.03, "x": 105.12 },
+	{ "name": "Paper4e4", "parent": "Paper4d4", "length": 105.12, "x": 105.12 },
+	{ "name": "Paper4f4", "parent": "Paper4e4", "length": 114, "rotation": 5.29, "x": 105.12 },
+	{ "name": "PaperL16", "parent": "root", "x": -310.51, "y": 589.6 },
+	{ "name": "PaperL17", "parent": "PaperL16", "x": 311.83, "y": -494.33 },
+	{ "name": "PaperL18", "parent": "PaperL17", "length": 107.52, "rotation": 165.66, "x": 0.03, "y": 0.15 },
+	{ "name": "PaperL4b4", "parent": "PaperL18", "length": 107.52, "rotation": 10.6, "x": 107.52 },
+	{ "name": "PaperL4c4", "parent": "PaperL4b4", "length": 107.52, "rotation": 12.44, "x": 107.52 },
+	{ "name": "PaperL4d4", "parent": "PaperL4c4", "length": 107.52, "rotation": -5.94, "x": 107.52 },
+	{ "name": "PaperL4e7", "parent": "PaperL4d4", "length": 107.52, "rotation": 1.87, "x": 107.52 },
+	{ "name": "PaperL4e8", "parent": "PaperL4e7", "length": 112.58, "rotation": 0.26, "x": 107.1, "y": -0.11 },
+	{ "name": "PaperL19", "parent": "PaperL16", "x": 312.06, "y": 353.01 },
+	{ "name": "PaperL20", "parent": "PaperL19", "length": 103.69, "rotation": 155.78, "x": -0.03, "y": 0.07 },
+	{ "name": "PaperL5b4", "parent": "PaperL20", "length": 103.69, "rotation": 17.74, "x": 103.69 },
+	{ "name": "PaperL5c4", "parent": "PaperL5b4", "length": 103.69, "rotation": 7.3, "x": 103.69 },
+	{ "name": "PaperL5d4", "parent": "PaperL5c4", "length": 103.69, "rotation": 4.74, "x": 103.69 },
+	{ "name": "PaperL5e4", "parent": "PaperL5d4", "length": 103.69, "rotation": 1.82, "x": 103.69 },
+	{ "name": "PaperL5f4", "parent": "PaperL5e4", "length": 113, "x": 103.69 },
+	{ "name": "PaperL21", "parent": "root", "x": -310.51, "y": 589.6 },
+	{ "name": "PaperL22", "parent": "PaperL21", "x": 311.83, "y": -494.33 },
+	{ "name": "PaperL23", "parent": "PaperL22", "length": 107.52, "rotation": 165.66, "x": 0.03, "y": 0.15 },
+	{ "name": "PaperL4b5", "parent": "PaperL23", "length": 107.52, "rotation": 10.6, "x": 107.52 },
+	{ "name": "PaperL4c5", "parent": "PaperL4b5", "length": 107.52, "rotation": 12.44, "x": 107.52 },
+	{ "name": "PaperL4d5", "parent": "PaperL4c5", "length": 107.52, "rotation": -5.94, "x": 107.52 },
+	{ "name": "PaperL4e9", "parent": "PaperL4d5", "length": 107.52, "rotation": 1.87, "x": 107.52 },
+	{ "name": "PaperL4e10", "parent": "PaperL4e9", "length": 112.58, "rotation": 0.26, "x": 107.1, "y": -0.11 },
+	{ "name": "PaperL24", "parent": "PaperL21", "x": 312.06, "y": 353.01 },
+	{ "name": "PaperL25", "parent": "PaperL24", "length": 103.69, "rotation": 155.78, "x": -0.03, "y": 0.07 },
+	{ "name": "PaperL5b5", "parent": "PaperL25", "length": 103.69, "rotation": 17.74, "x": 103.69 },
+	{ "name": "PaperL5c5", "parent": "PaperL5b5", "length": 103.69, "rotation": 7.3, "x": 103.69 },
+	{ "name": "PaperL5d5", "parent": "PaperL5c5", "length": 103.69, "rotation": 4.74, "x": 103.69 },
+	{ "name": "PaperL5e5", "parent": "PaperL5d5", "length": 103.69, "rotation": 1.82, "x": 103.69 },
+	{ "name": "PaperL5f5", "parent": "PaperL5e5", "length": 113, "x": 103.69 },
+	{ "name": "Paper21", "parent": "root", "x": 317.62, "y": 572.66 },
+	{ "name": "Paper22", "parent": "Paper21", "x": -315.95, "y": -487.29 },
+	{ "name": "Paper23", "parent": "Paper22", "length": 108.7, "rotation": 18.13, "x": -1.49, "y": 0.43 },
+	{ "name": "Paper5b5", "parent": "Paper23", "length": 108.7, "rotation": -19.32, "x": 108.7 },
+	{ "name": "Paper5c5", "parent": "Paper5b5", "length": 108.7, "rotation": -3.34, "x": 108.7 },
+	{ "name": "Paper5d5", "parent": "Paper5c5", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5e5", "parent": "Paper5d5", "length": 108.7, "rotation": 0.14, "x": 108.7 },
+	{ "name": "Paper5f5", "parent": "Paper5e5", "length": 108.7, "rotation": 3.81, "x": 108.7 },
+	{ "name": "Paper24", "parent": "Paper21", "x": -319.26, "y": 370.62 },
+	{ "name": "Paper25", "parent": "Paper24", "length": 105.12, "rotation": 20.32, "x": -1.71, "y": 2.81 },
+	{ "name": "Paper4b5", "parent": "Paper25", "length": 104.27, "rotation": -15.48, "x": 105.12 },
+	{ "name": "Paper4c5", "parent": "Paper4b5", "length": 105.12, "rotation": -5.85, "x": 105.12 },
+	{ "name": "Paper4d5", "parent": "Paper4c5", "length": 105.12, "rotation": -5.03, "x": 105.12 },
+	{ "name": "Paper4e5", "parent": "Paper4d5", "length": 105.12, "x": 105.12 },
+	{ "name": "Paper4f5", "parent": "Paper4e5", "length": 114, "rotation": 5.29, "x": 105.12 }
+],
+"slots": [
+	{ "name": "Book", "bone": "root", "attachment": "Book" },
+	{ "name": "PaperL4", "bone": "root", "attachment": "PaperL" },
+	{ "name": "Paper5", "bone": "Paper21", "attachment": "Paper" },
+	{ "name": "Paper4", "bone": "Paper16", "attachment": "Paper" },
+	{ "name": "Paper3", "bone": "Paper11", "attachment": "Paper" },
+	{ "name": "Paper2", "bone": "Paper6", "attachment": "Paper" },
+	{ "name": "Paper", "bone": "Paper", "attachment": "Paper" },
+	{ "name": "PaperL", "bone": "PaperL", "attachment": "PaperL" },
+	{ "name": "PaperL2", "bone": "PaperL6", "attachment": "PaperL" },
+	{ "name": "PaperL3", "bone": "PaperL11", "attachment": "PaperL" },
+	{ "name": "PaperL5", "bone": "PaperL16", "attachment": "PaperL" },
+	{ "name": "PaperL6", "bone": "PaperL21", "attachment": "PaperL - 副本" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Book": {
+				"Book": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 791, -13, -884, -13, -884, 1000, 791, 1000 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 838,
+					"height": 507
+				}
+			},
+			"Paper": {
+				"Paper": {
+					"type": "mesh",
+					"uvs": [ 0.99999, 0.99338, 0.82781, 0.99255, 0.66084, 0.98174, 0.49573, 0.9738, 0.32818, 0.96507, 0.15841, 0.96031, 0.04572, 0.97195, 0.00168, 0.9996, 0.00102, 0.05639, 0.07307, 0.02645, 0.14418, 0.01296, 0.30848, 0, 0.46947, 0, 0.63046, 0.0153, 0.79289, 0.02754, 0.9713, 0.02864 ],
+					"triangles": [ 6, 7, 8, 5, 6, 8, 8, 9, 10, 8, 4, 5, 11, 8, 10, 4, 8, 11, 4, 11, 12, 4, 12, 13, 3, 4, 13, 2, 3, 13, 14, 2, 13, 2, 14, 1, 1, 14, 15, 0, 1, 15 ],
+					"vertices": [ 1, 15, 112.71, -3.5, 1, 1, 14, 109.73, -3.55, 1, 1, 13, 109.47, -1.75, 1, 1, 12, 110.62, -2.74, 1, 1, 11, 109.93, -3.49, 1, 1, 10, 107.76, -1.19, 1, 2, 10, 34.85, 11.52, 0.36129, 2, 28.05, 22.22, 0.63871, 1, 2, -0.58, -3, 1, 1, 3, 2.3, -0.7, 1, 2, 4, 55.94, 4.65, 0.52024, 3, 49.14, 26.6, 0.47976, 1, 4, 103.56, 0.14, 1, 1, 5, 105.86, 2.5, 1, 1, 6, 105.11, 4.42, 1, 1, 7, 105.14, 1.56, 1, 1, 8, 106.19, 1.59, 1, 1, 9, 117.18, 2.01, 1 ],
+					"hull": 16,
+					"edges": [ 14, 16, 0, 30, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 8, 10, 6, 8, 4, 6, 0, 2, 2, 4, 16, 18, 18, 20, 10, 12, 12, 14 ],
+					"width": 650,
+					"height": 912
+				}
+			},
+			"Paper2": {
+				"Paper": {
+					"type": "mesh",
+					"uvs": [ 0.99999, 0.99338, 0.82781, 0.99255, 0.66084, 0.98174, 0.49573, 0.9738, 0.32818, 0.96507, 0.15841, 0.96031, 0.04572, 0.97195, 0.00168, 0.9996, 0.00102, 0.05639, 0.07307, 0.02645, 0.14418, 0.01296, 0.30848, 0, 0.46947, 0, 0.63046, 0.0153, 0.79289, 0.02754, 0.9713, 0.02864 ],
+					"triangles": [ 6, 7, 8, 5, 6, 8, 8, 9, 10, 8, 4, 5, 11, 8, 10, 4, 8, 11, 4, 11, 12, 4, 12, 13, 3, 4, 13, 2, 3, 13, 14, 2, 13, 2, 14, 1, 1, 14, 15, 0, 1, 15 ],
+					"vertices": [ 1, 38, 112.71, -3.5, 1, 1, 37, 109.73, -3.55, 1, 1, 36, 109.47, -1.75, 1, 1, 35, 110.62, -2.74, 1, 1, 34, 109.93, -3.49, 1, 1, 33, 107.76, -1.19, 1, 2, 33, 34.85, 11.52, 0.36129, 32, 28.05, 22.22, 0.63871, 1, 32, -0.58, -3, 1, 1, 39, 2.3, -0.7, 1, 2, 40, 55.94, 4.65, 0.52024, 39, 49.14, 26.6, 0.47976, 1, 40, 103.56, 0.14, 1, 1, 41, 105.86, 2.5, 1, 1, 42, 105.11, 4.42, 1, 1, 43, 105.14, 1.56, 1, 1, 44, 106.19, 1.59, 1, 1, 45, 117.18, 2.01, 1 ],
+					"hull": 16,
+					"edges": [ 14, 16, 0, 30, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 8, 10, 6, 8, 4, 6, 0, 2, 2, 4, 16, 18, 18, 20, 10, 12, 12, 14 ],
+					"width": 650,
+					"height": 912
+				}
+			},
+			"Paper3": {
+				"Paper": {
+					"type": "mesh",
+					"uvs": [ 0.99999, 0.99338, 0.82781, 0.99255, 0.66084, 0.98174, 0.49573, 0.9738, 0.32818, 0.96507, 0.15841, 0.96031, 0.04572, 0.97195, 0.00168, 0.9996, 0.00102, 0.05639, 0.07307, 0.02645, 0.14418, 0.01296, 0.30848, 0, 0.46947, 0, 0.63046, 0.0153, 0.79289, 0.02754, 0.9713, 0.02864 ],
+					"triangles": [ 6, 7, 8, 5, 6, 8, 8, 9, 10, 8, 4, 5, 11, 8, 10, 4, 8, 11, 4, 11, 12, 4, 12, 13, 3, 4, 13, 2, 3, 13, 14, 2, 13, 2, 14, 1, 1, 14, 15, 0, 1, 15 ],
+					"vertices": [ 1, 68, 112.71, -3.5, 1, 1, 67, 109.73, -3.55, 1, 1, 66, 109.47, -1.75, 1, 1, 65, 110.62, -2.74, 1, 1, 64, 109.93, -3.49, 1, 1, 63, 107.76, -1.19, 1, 2, 63, 34.85, 11.52, 0.36129, 62, 28.05, 22.22, 0.63871, 1, 62, -0.58, -3, 1, 1, 69, 2.3, -0.7, 1, 2, 70, 55.94, 4.65, 0.52024, 69, 49.14, 26.6, 0.47976, 1, 70, 103.56, 0.14, 1, 1, 71, 105.86, 2.5, 1, 1, 72, 105.11, 4.42, 1, 1, 73, 105.14, 1.56, 1, 1, 74, 106.19, 1.59, 1, 1, 75, 117.18, 2.01, 1 ],
+					"hull": 16,
+					"edges": [ 14, 16, 0, 30, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 8, 10, 6, 8, 4, 6, 0, 2, 2, 4, 16, 18, 18, 20, 10, 12, 12, 14 ],
+					"width": 650,
+					"height": 912
+				}
+			},
+			"Paper4": {
+				"Paper": {
+					"type": "mesh",
+					"uvs": [ 0.99999, 0.99338, 0.82781, 0.99255, 0.66084, 0.98174, 0.49573, 0.9738, 0.32818, 0.96507, 0.15841, 0.96031, 0.04572, 0.97195, 0.00168, 0.9996, 0.00102, 0.05639, 0.07307, 0.02645, 0.14418, 0.01296, 0.30848, 0, 0.46947, 0, 0.63046, 0.0153, 0.79289, 0.02754, 0.9713, 0.02864 ],
+					"triangles": [ 6, 7, 8, 5, 6, 8, 8, 9, 10, 8, 4, 5, 11, 8, 10, 4, 8, 11, 4, 11, 12, 4, 12, 13, 3, 4, 13, 2, 3, 13, 14, 2, 13, 2, 14, 1, 1, 14, 15, 0, 1, 15 ],
+					"vertices": [ 1, 98, 112.71, -3.5, 1, 1, 97, 109.73, -3.55, 1, 1, 96, 109.47, -1.75, 1, 1, 95, 110.62, -2.74, 1, 1, 94, 109.93, -3.49, 1, 1, 93, 107.76, -1.19, 1, 2, 93, 34.85, 11.52, 0.36129, 92, 28.05, 22.22, 0.63871, 1, 92, -0.58, -3, 1, 1, 99, 2.3, -0.7, 1, 2, 100, 55.94, 4.65, 0.52024, 99, 49.14, 26.6, 0.47976, 1, 100, 103.56, 0.14, 1, 1, 101, 105.86, 2.5, 1, 1, 102, 105.11, 4.42, 1, 1, 103, 105.14, 1.56, 1, 1, 104, 106.19, 1.59, 1, 1, 105, 117.18, 2.01, 1 ],
+					"hull": 16,
+					"edges": [ 14, 16, 0, 30, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 8, 10, 6, 8, 4, 6, 0, 2, 2, 4, 16, 18, 18, 20, 10, 12, 12, 14 ],
+					"width": 650,
+					"height": 912
+				}
+			},
+			"Paper5": {
+				"Paper": {
+					"type": "mesh",
+					"uvs": [ 0.99999, 0.99338, 0.82781, 0.99255, 0.66084, 0.98174, 0.49573, 0.9738, 0.32818, 0.96507, 0.15841, 0.96031, 0.04572, 0.97195, 0.00168, 0.9996, 0.00102, 0.05639, 0.07307, 0.02645, 0.14418, 0.01296, 0.30848, 0, 0.46947, 0, 0.63046, 0.0153, 0.79289, 0.02754, 0.9713, 0.02864 ],
+					"triangles": [ 6, 7, 8, 5, 6, 8, 8, 9, 10, 8, 4, 5, 11, 8, 10, 4, 8, 11, 4, 11, 12, 4, 12, 13, 3, 4, 13, 2, 3, 13, 14, 2, 13, 2, 14, 1, 1, 14, 15, 0, 1, 15 ],
+					"vertices": [ 1, 143, 112.71, -3.5, 1, 1, 142, 109.73, -3.55, 1, 1, 141, 109.47, -1.75, 1, 1, 140, 110.62, -2.74, 1, 1, 139, 109.93, -3.49, 1, 1, 138, 107.76, -1.19, 1, 2, 138, 34.85, 11.52, 0.36129, 137, 28.05, 22.22, 0.63871, 1, 137, -0.58, -3, 1, 1, 144, 2.3, -0.7, 1, 2, 145, 55.94, 4.65, 0.52024, 144, 49.14, 26.6, 0.47976, 1, 145, 103.56, 0.14, 1, 1, 146, 105.86, 2.5, 1, 1, 147, 105.11, 4.42, 1, 1, 148, 105.14, 1.56, 1, 1, 149, 106.19, 1.59, 1, 1, 150, 117.18, 2.01, 1 ],
+					"hull": 16,
+					"edges": [ 14, 16, 0, 30, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 8, 10, 6, 8, 4, 6, 0, 2, 2, 4, 16, 18, 18, 20, 10, 12, 12, 14 ],
+					"width": 650,
+					"height": 912
+				}
+			},
+			"PaperL": {
+				"PaperL": {
+					"type": "mesh",
+					"uvs": [ 0.98562, 0.98824, 0.82358, 0.961, 0.66197, 0.95159, 0.49905, 0.96899, 0.33612, 0.97461, 0.17151, 0.98364, 0.00199, 0.99426, 0.03503, 0.04472, 0.2074, 0.02915, 0.36416, 0.01627, 0.52362, 0.00407, 0.68035, 0, 0.83641, 0.01266, 0.97859, 0.05559 ],
+					"triangles": [ 13, 0, 1, 1, 2, 13, 13, 2, 11, 13, 11, 12, 2, 10, 11, 3, 4, 9, 9, 10, 2, 3, 9, 2, 4, 8, 9, 7, 8, 4, 4, 5, 7, 5, 6, 7 ],
+					"vertices": [ 1, 17, 2.23, -1.07, 1, 1, 19, 106.89, 2.74, 1, 1, 20, 106.39, 1.04, 1, 1, 21, 107.34, 0.73, 1, 1, 22, 106.9, 0.59, 1, 1, 23, 107.87, 0.03, 1, 1, 30, 112.56, 0.26, 1, 1, 29, 115.16, -1.72, 1, 1, 28, 104.72, -1.22, 1, 1, 27, 104.74, 0.43, 1, 1, 26, 103.12, -0.5, 1, 1, 25, 104.13, -2.63, 1, 1, 24, 105.38, -2.19, 1, 1, 18, -1.86, 5.89, 1 ],
+					"hull": 14,
+					"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 24, 26, 22, 24, 20, 22, 18, 20, 14, 16, 16, 18 ],
+					"width": 657,
+					"height": 916
+				}
+			},
+			"PaperL2": {
+				"PaperL": {
+					"type": "mesh",
+					"uvs": [ 0.98562, 0.98824, 0.82358, 0.961, 0.66197, 0.95159, 0.49905, 0.96899, 0.33612, 0.97461, 0.17151, 0.98364, 0.00199, 0.99426, 0.03503, 0.04472, 0.2074, 0.02915, 0.36416, 0.01627, 0.52362, 0.00407, 0.68035, 0, 0.83641, 0.01266, 0.97859, 0.05559 ],
+					"triangles": [ 13, 0, 1, 1, 2, 13, 13, 2, 11, 13, 11, 12, 2, 10, 11, 3, 4, 9, 9, 10, 2, 3, 9, 2, 4, 8, 9, 7, 8, 4, 4, 5, 7, 5, 6, 7 ],
+					"vertices": [ 1, 47, 2.23, -1.07, 1, 1, 48, 106.89, 2.74, 1, 1, 49, 106.39, 1.04, 1, 1, 50, 107.34, 0.73, 1, 1, 51, 106.9, 0.59, 1, 1, 52, 107.87, 0.03, 1, 1, 53, 112.56, 0.26, 1, 1, 60, 115.16, -1.72, 1, 1, 59, 104.72, -1.22, 1, 1, 58, 104.74, 0.43, 1, 1, 57, 103.12, -0.5, 1, 1, 56, 104.13, -2.63, 1, 1, 55, 105.38, -2.19, 1, 1, 54, -1.86, 5.89, 1 ],
+					"hull": 14,
+					"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 24, 26, 22, 24, 20, 22, 18, 20, 14, 16, 16, 18 ],
+					"width": 657,
+					"height": 916
+				}
+			},
+			"PaperL3": {
+				"PaperL": {
+					"type": "mesh",
+					"uvs": [ 0.98562, 0.98824, 0.82358, 0.961, 0.66197, 0.95159, 0.49905, 0.96899, 0.33612, 0.97461, 0.17151, 0.98364, 0.00199, 0.99426, 0.03503, 0.04472, 0.2074, 0.02915, 0.36416, 0.01627, 0.52362, 0.00407, 0.68035, 0, 0.83641, 0.01266, 0.97859, 0.05559 ],
+					"triangles": [ 13, 0, 1, 1, 2, 13, 13, 2, 11, 13, 11, 12, 2, 10, 11, 3, 4, 9, 9, 10, 2, 3, 9, 2, 4, 8, 9, 7, 8, 4, 4, 5, 7, 5, 6, 7 ],
+					"vertices": [ 1, 77, 2.23, -1.07, 1, 1, 78, 106.89, 2.74, 1, 1, 79, 106.39, 1.04, 1, 1, 80, 107.34, 0.73, 1, 1, 81, 106.9, 0.59, 1, 1, 82, 107.87, 0.03, 1, 1, 83, 112.56, 0.26, 1, 1, 90, 115.16, -1.72, 1, 1, 89, 104.72, -1.22, 1, 1, 88, 104.74, 0.43, 1, 1, 87, 103.12, -0.5, 1, 1, 86, 104.13, -2.63, 1, 1, 85, 105.38, -2.19, 1, 1, 84, -1.86, 5.89, 1 ],
+					"hull": 14,
+					"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 24, 26, 22, 24, 20, 22, 18, 20, 14, 16, 16, 18 ],
+					"width": 657,
+					"height": 916
+				}
+			},
+			"PaperL4": {
+				"PaperL": { "x": -314.94, "y": 541.14, "width": 657, "height": 916 }
+			},
+			"PaperL5": {
+				"PaperL": {
+					"type": "mesh",
+					"uvs": [ 0.98562, 0.98824, 0.82358, 0.961, 0.66197, 0.95159, 0.49905, 0.96899, 0.33612, 0.97461, 0.17151, 0.98364, 0.00199, 0.99426, 0.03503, 0.04472, 0.2074, 0.02915, 0.36416, 0.01627, 0.52362, 0.00407, 0.68035, 0, 0.83641, 0.01266, 0.97859, 0.05559 ],
+					"triangles": [ 13, 0, 1, 1, 2, 13, 13, 2, 11, 13, 11, 12, 2, 10, 11, 3, 4, 9, 9, 10, 2, 3, 9, 2, 4, 8, 9, 7, 8, 4, 4, 5, 7, 5, 6, 7 ],
+					"vertices": [ 1, 107, 2.23, -1.07, 1, 1, 108, 106.89, 2.74, 1, 1, 109, 106.39, 1.04, 1, 1, 110, 107.34, 0.73, 1, 1, 111, 106.9, 0.59, 1, 1, 112, 107.87, 0.03, 1, 1, 113, 112.56, 0.26, 1, 1, 120, 115.16, -1.72, 1, 1, 119, 104.72, -1.22, 1, 1, 118, 104.74, 0.43, 1, 1, 117, 103.12, -0.5, 1, 1, 116, 104.13, -2.63, 1, 1, 115, 105.38, -2.19, 1, 1, 114, -1.86, 5.89, 1 ],
+					"hull": 14,
+					"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 24, 26, 22, 24, 20, 22, 18, 20, 14, 16, 16, 18 ],
+					"width": 657,
+					"height": 916
+				}
+			},
+			"PaperL6": {
+				"PaperL - 副本": {
+					"type": "mesh",
+					"uvs": [ 0.98562, 0.98824, 0.82358, 0.961, 0.66197, 0.95159, 0.49905, 0.96899, 0.33612, 0.97461, 0.17151, 0.98364, 0.00199, 0.99426, 0.03503, 0.04472, 0.2074, 0.02915, 0.36416, 0.01627, 0.52362, 0.00407, 0.68035, 0, 0.83641, 0.01266, 0.97859, 0.05559 ],
+					"triangles": [ 0, 1, 13, 1, 2, 13, 13, 11, 12, 13, 2, 11, 2, 10, 11, 3, 4, 9, 3, 9, 2, 9, 10, 2, 4, 8, 9, 5, 6, 7, 5, 7, 4, 7, 8, 4 ],
+					"vertices": [ 1, 122, 2.23, -1.07, 1, 1, 123, 106.89, 2.74, 1, 1, 124, 106.39, 1.04, 1, 1, 125, 107.34, 0.73, 1, 1, 126, 106.9, 0.59, 1, 1, 127, 107.87, 0.03, 1, 1, 128, 112.56, 0.26, 1, 1, 135, 115.16, -1.72, 1, 1, 134, 104.72, -1.22, 1, 1, 133, 104.74, 0.43, 1, 1, 132, 103.12, -0.5, 1, 1, 131, 104.13, -2.63, 1, 1, 130, 105.38, -2.19, 1, 1, 129, -1.86, 5.89, 1 ],
+					"hull": 14,
+					"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 24, 26, 22, 24, 20, 22, 18, 20, 14, 16, 16, 18 ],
+					"width": 657,
+					"height": 916
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Enable": {
+		"slots": {
+			"Paper": {
+				"attachment": [
+					{ "name": "Paper" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"Paper2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "Paper" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"Paper3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3, "name": "Paper" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"Paper4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4333, "name": "Paper" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"Paper5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5667, "name": "Paper" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"PaperL": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4333, "name": "PaperL" }
+				]
+			},
+			"PaperL2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6, "name": "PaperL" }
+				]
+			},
+			"PaperL3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.7333, "name": "PaperL" }
+				]
+			},
+			"PaperL5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8667, "name": "PaperL" }
+				]
+			},
+			"PaperL6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1.0333, "name": "PaperL - 副本" }
+				]
+			}
+		},
+		"bones": {
+			"Paper2": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667, "angle": -171.08 }
+				]
+			},
+			"Paper5f": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 19.16 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper5e": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 19.16 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper5d": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -18.85 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper5c": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -18.85 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper5b": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper5": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4f": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4e": {
+				"rotate": [
+					{},
+					{ "time": 0.3, "angle": -35.1 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4d": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -18.85 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4c": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -18.85 },
+					{ "time": 0.3, "angle": -17.61 },
+					{ "time": 0.3333, "angle": -4.57 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4b": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper4": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667 }
+				]
+			},
+			"Paper3": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 25.96 },
+					{ "time": 0.6667, "angle": -171.08 }
+				]
+			},
+			"PaperL4": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL4b": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL4c": {
+				"rotate": [
+					{ "time": 0.2667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333, "angle": -14.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL4d": {
+				"rotate": [
+					{ "time": 0.2667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": 6.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL4e": {
+				"rotate": [
+					{ "time": 0.2667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL4e2": {
+				"rotate": [
+					{ "time": 0.2667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "angle": -4.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -2.27, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL3": {
+				"rotate": [
+					{ "time": 0.3, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": -1.85, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5b": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333, "angle": -13.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5c": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5d": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5e": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL5f": {
+				"rotate": [
+					{ "time": 0.3, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 9.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"PaperL2": {
+				"rotate": [
+					{ "time": 0.3, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333 }
+				]
+			},
+			"Paper5f2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": 19.16 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper5e2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": 19.16 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper5d2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": -18.85 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper5c2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": -18.85 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper5b2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper8": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper7": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333, "angle": -171.08 }
+				]
+			},
+			"Paper4f2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper4e2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.4667, "angle": -35.1 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper4d2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": -18.85 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper4c2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": -18.85 },
+					{ "time": 0.4667, "angle": -17.61 },
+					{ "time": 0.5, "angle": -4.57 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper4b2": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper10": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333 }
+				]
+			},
+			"Paper9": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 25.96 },
+					{ "time": 0.8333, "angle": -171.08 }
+				]
+			},
+			"PaperL4e4": {
+				"rotate": [
+					{ "time": 0.4333, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "angle": -4.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -2.27, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL4e3": {
+				"rotate": [
+					{ "time": 0.4333, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL4d2": {
+				"rotate": [
+					{ "time": 0.4333, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "angle": 6.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL4c2": {
+				"rotate": [
+					{ "time": 0.4333, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -14.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL4b2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL8": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL7": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL5f2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 9.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL5e2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL5d2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL5c2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL5b2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -13.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL10": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": -1.85, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"PaperL9": {
+				"rotate": [
+					{ "time": 0.4667, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"Paper5f3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": 19.16 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper5e3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": 19.16 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper5d3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": -18.85 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper5c3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": -18.85 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper5b3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper13": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper12": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667, "angle": -171.08 }
+				]
+			},
+			"Paper4f3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper4e3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6, "angle": -35.1 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper4d3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": -18.85 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper4c3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "angle": -18.85 },
+					{ "time": 0.6, "angle": -17.61 },
+					{ "time": 0.6333, "angle": -4.57 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper4b3": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper15": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667 }
+				]
+			},
+			"Paper14": {
+				"rotate": [
+					{ "time": 0.3 },
+					{ "time": 0.6333, "angle": 25.96 },
+					{ "time": 0.9667, "angle": -171.08 }
+				]
+			},
+			"PaperL4e6": {
+				"rotate": [
+					{ "time": 0.5667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -4.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -2.27, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL4e5": {
+				"rotate": [
+					{ "time": 0.5667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL4d3": {
+				"rotate": [
+					{ "time": 0.5667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667, "angle": 6.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL4c3": {
+				"rotate": [
+					{ "time": 0.5667, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -14.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL4b3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL13": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL12": {
+				"rotate": [
+					{ "time": 0.6, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL5f3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 9.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL5e3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL5d3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL5c3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL5b3": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -13.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL15": {
+				"rotate": [
+					{ "time": 0.6, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "angle": -1.85, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"PaperL14": {
+				"rotate": [
+					{ "time": 0.6, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"Paper5f4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": 19.16 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper5e4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": 19.16 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper5d4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": -18.85 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper5c4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": -18.85 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper5b4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper18": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper17": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1, "angle": -171.08 }
+				]
+			},
+			"Paper4f4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper4e4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7333, "angle": -35.1 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper4d4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": -18.85 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper4c4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.6, "angle": -18.85 },
+					{ "time": 0.7333, "angle": -17.61 },
+					{ "time": 0.7667, "angle": -4.57 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper4b4": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper20": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1 }
+				]
+			},
+			"Paper19": {
+				"rotate": [
+					{ "time": 0.4333 },
+					{ "time": 0.7667, "angle": 25.96 },
+					{ "time": 1.1, "angle": -171.08 }
+				]
+			},
+			"PaperL4e8": {
+				"rotate": [
+					{ "time": 0.7, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": -4.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -2.27, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL4e7": {
+				"rotate": [
+					{ "time": 0.7, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL4d4": {
+				"rotate": [
+					{ "time": 0.7, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": -9.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "angle": 6.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL4c4": {
+				"rotate": [
+					{ "time": 0.7, "angle": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "angle": -14.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 2.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL4b4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL18": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL17": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL5f4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 9.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL5e4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL5d4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "angle": 4.59, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL5c4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -15.45, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL5b4": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "angle": -13.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL20": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -9.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667, "angle": -1.85, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL19": {
+				"rotate": [
+					{ "time": 0.7333, "angle": -72.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667 }
+				]
+			},
+			"PaperL4e10": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.0333, "angle": -13.94, "curve": 0.268, "c2": 0.08, "c3": 0.632, "c4": 0.53 },
+					{ "time": 1.2, "angle": 5.86, "curve": 0.373, "c2": 0.49, "c3": 0.751 },
+					{ "time": 1.4667 }
+				]
+			},
+			"PaperL4e9": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.0333, "angle": -13.94, "curve": 0.268, "c2": 0.08, "c3": 0.632, "c4": 0.53 },
+					{ "time": 1.2, "angle": 5.86, "curve": 0.373, "c2": 0.49, "c3": 0.751 },
+					{ "time": 1.4667 }
+				]
+			},
+			"PaperL4d5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.0333, "angle": -13.94, "curve": 0.268, "c2": 0.08, "c3": 0.632, "c4": 0.53 },
+					{ "time": 1.2, "angle": 5.86, "curve": 0.373, "c2": 0.49, "c3": 0.751 },
+					{ "time": 1.4667 }
+				]
+			},
+			"PaperL4c5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL4b5": {
+				"rotate": [
+					{ "time": 1, "angle": -11.43, "curve": 0, "c2": 0.09, "c3": 0 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL23": {
+				"rotate": [
+					{ "time": 1, "angle": -11.43, "curve": 0, "c2": 0.09, "c3": 0 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL22": {
+				"rotate": [
+					{ "time": 1, "angle": -57.85, "curve": 0.323, "c2": 0.27, "c3": 0.657, "c4": 0.61 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL5f5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.55, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.1, "angle": -13.71, "curve": 0.27, "c2": 0.09, "c3": 0.753 },
+					{ "time": 1.6333 }
+				]
+			},
+			"PaperL5e5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.1, "angle": -13.94, "curve": 0.27, "c2": 0.09, "c3": 0.753 },
+					{ "time": 1.6333 }
+				]
+			},
+			"PaperL5d5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.319, "c3": 0.652, "c4": 0.34 },
+					{ "time": 1.1, "angle": -13.94, "curve": 0.27, "c2": 0.09, "c3": 0.753 },
+					{ "time": 1.6333 }
+				]
+			},
+			"PaperL5c5": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL5b5": {
+				"rotate": [
+					{ "time": 1, "angle": -10.44, "curve": 0, "c2": 0.09, "c3": 0 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL25": {
+				"rotate": [
+					{ "time": 1, "angle": -9.78, "curve": 0, "c2": 0.09, "c3": 0 },
+					{ "time": 1.5 }
+				]
+			},
+			"PaperL24": {
+				"rotate": [
+					{ "time": 1, "angle": -57.85, "curve": 0.323, "c2": 0.27, "c3": 0.657, "c4": 0.61 },
+					{ "time": 1.5 }
+				]
+			},
+			"Paper5f5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": 19.16 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper5e5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": 19.16 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper5d5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": -18.85 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper5c5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": -18.85 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper5b5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper23": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper22": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667, "angle": -171.08 }
+				]
+			},
+			"Paper4f5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper4e5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8667, "angle": -35.1 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper4d5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": -18.85 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper4c5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.8, "angle": -18.85 },
+					{ "time": 0.8667, "angle": -17.61 },
+					{ "time": 0.9333, "angle": -4.57 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper4b5": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper25": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667 }
+				]
+			},
+			"Paper24": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.9333, "angle": 25.96 },
+					{ "time": 1.4667, "angle": -171.08 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"PaperL": {
+					"PaperL": [
+						{},
+						{
+							"time": 0.4,
+							"offset": 4,
+							"vertices": [ 2.67528, 13.42061 ]
+						},
+						{
+							"time": 0.4333,
+							"offset": 4,
+							"vertices": [ 1.33764, 6.7103, 0, 0, 1.63156, 13.2506 ]
+						},
+						{ "time": 0.4667 }
+					]
+				},
+				"PaperL2": {
+					"PaperL": [
+						{},
+						{
+							"time": 0.5667,
+							"offset": 8,
+							"vertices": [ 3.71481, 17.19144 ]
+						},
+						{ "time": 0.6333 }
+					]
+				},
+				"PaperL3": {
+					"PaperL": [
+						{},
+						{
+							"time": 0.7,
+							"offset": 8,
+							"vertices": [ 2.89713, 22.02142 ]
+						},
+						{ "time": 0.7667 }
+					]
+				},
+				"PaperL5": {
+					"PaperL": [
+						{},
+						{
+							"time": 0.8333,
+							"offset": 8,
+							"vertices": [ 6.93503, 17.73624 ]
+						},
+						{ "time": 0.9 }
+					]
+				},
+				"PaperL6": {
+					"PaperL - 副本": [
+						{ "curve": "stepped" },
+						{ "time": 1.2667 }
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0.4333,
+				"offsets": [
+					{ "slot": "Paper2", "offset": 3 }
+				]
+			},
+			{
+				"time": 0.7,
+				"offsets": [
+					{ "slot": "Paper3", "offset": 5 },
+					{ "slot": "Paper2", "offset": 2 }
+				]
+			},
+			{
+				"time": 0.8,
+				"offsets": [
+					{ "slot": "Paper4", "offset": 7 },
+					{ "slot": "Paper3", "offset": 4 },
+					{ "slot": "Paper2", "offset": 1 }
+				]
+			},
+			{
+				"time": 0.9,
+				"offsets": [
+					{ "slot": "Paper5", "offset": 9 },
+					{ "slot": "Paper4", "offset": 6 },
+					{ "slot": "Paper3", "offset": 3 },
+					{ "slot": "Paper2", "offset": 0 }
+				]
+			}
+		]
+	}
+}
+}

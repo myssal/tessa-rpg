@@ -1,0 +1,424 @@
+
+v44login_shenweifn_a1.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_shenwei_21
+  rotate: true
+  xy: 1705, 316
+  size: 865, 330
+  orig: 865, 330
+  offset: 0, 0
+  index: -1
+Effect_shenwei_22
+  rotate: 270
+  xy: 2, 305
+  size: 1138, 973
+  orig: 1138, 973
+  offset: 0, 0
+  index: -1
+Effect_shenwei_24
+  rotate: false
+  xy: 631, 43
+  size: 358, 749
+  orig: 358, 749
+  offset: 0, 0
+  index: -1
+Effect_shenwei_25
+  rotate: false
+  xy: 1690, 1183
+  size: 312, 487
+  orig: 312, 487
+  offset: 0, 0
+  index: -1
+Effect_shenwei_26
+  rotate: false
+  xy: 2, 1053
+  size: 599, 973
+  orig: 599, 973
+  offset: 0, 0
+  index: -1
+Effect_shenwei_27
+  rotate: false
+  xy: 602, 1558
+  size: 395, 467
+  orig: 395, 467
+  offset: 0, 0
+  index: -1
+Fir/Fir1_0
+  rotate: false
+  xy: 976, 1040
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_1
+  rotate: false
+  xy: 991, 522
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_10
+  rotate: false
+  xy: 991, 3
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_11
+  rotate: true
+  xy: 999, 1671
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_12
+  rotate: false
+  xy: 1333, 1153
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_13
+  rotate: false
+  xy: 1348, 634
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_14
+  rotate: true
+  xy: 1518, 1671
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_15
+  rotate: false
+  xy: 1348, 116
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_16
+  rotate: true
+  xy: 113, 27
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Role_hand_1
+  rotate: false
+  xy: 1705, 359
+  size: 198, 209
+  orig: 198, 209
+  offset: 0, 0
+  index: -1
+Role_hand_10
+  rotate: false
+  xy: 859, 1496
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+Role_hand_11
+  rotate: false
+  xy: 231, 835
+  size: 270, 218
+  orig: 270, 228
+  offset: 0, 10
+  index: -1
+Role_hand_12
+  rotate: false
+  xy: 602, 1206
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+Role_hand_14
+  rotate: false
+  xy: 2, 72
+  size: 84, 231
+  orig: 84, 231
+  offset: 0, 0
+  index: -1
+Role_hand_15
+  rotate: false
+  xy: 2, 705
+  size: 245, 347
+  orig: 245, 347
+  offset: 0, 0
+  index: -1
+Role_hand_2
+  rotate: 180
+  xy: 1705, 185
+  size: 174, 191
+  orig: 174, 191
+  offset: 0, 0
+  index: -1
+Role_hand_3
+  rotate: false
+  xy: 374, 383
+  size: 214, 285
+  orig: 229, 285
+  offset: 0, 0
+  index: -1
+Role_hand_4
+  rotate: false
+  xy: 1705, 5
+  size: 266, 191
+  orig: 266, 191
+  offset: 0, 0
+  index: -1
+Role_hand_5
+  rotate: false
+  xy: 772, 794
+  size: 205, 262
+  orig: 205, 262
+  offset: 0, 0
+  index: -1
+Role_hand_6
+  rotate: false
+  xy: 602, 1295
+  size: 169, 262
+  orig: 169, 262
+  offset: 0, 0
+  index: -1
+Role_hand_7
+  rotate: false
+  xy: 773, 1452
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+Role_hand_8
+  rotate: false
+  xy: 1705, 552
+  size: 169, 233
+  orig: 169, 233
+  offset: 0, 0
+  index: -1
+Role_hand_9
+  rotate: false
+  xy: 1705, 800
+  size: 107, 210
+  orig: 107, 210
+  offset: 0, 0
+  index: -1
+
+v44login_shenweifn_a12.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_shenwei_2
+  rotate: false
+  xy: 1784, 746
+  size: 114, 486
+  orig: 114, 486
+  offset: 0, 0
+  index: -1
+Effect_shenwei_4
+  rotate: false
+  xy: 1784, 1234
+  size: 256, 486
+  orig: 256, 486
+  offset: 0, 0
+  index: -1
+Fir/Fir1_17
+  rotate: false
+  xy: 2, 1415
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_18
+  rotate: false
+  xy: 2, 897
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_19
+  rotate: false
+  xy: 2, 378
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_2
+  rotate: true
+  xy: 2, 22
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_20
+  rotate: false
+  xy: 358, 1415
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_21
+  rotate: false
+  xy: 358, 897
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_22
+  rotate: false
+  xy: 358, 378
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_23
+  rotate: true
+  xy: 520, 22
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_24
+  rotate: false
+  xy: 715, 1415
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_25
+  rotate: false
+  xy: 715, 897
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_26
+  rotate: false
+  xy: 715, 378
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_27
+  rotate: false
+  xy: 1071, 1415
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_28
+  rotate: false
+  xy: 1071, 897
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_29
+  rotate: false
+  xy: 1071, 378
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_3
+  rotate: true
+  xy: 1039, 22
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_30
+  rotate: false
+  xy: 1428, 1415
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_4
+  rotate: false
+  xy: 1428, 897
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_5
+  rotate: false
+  xy: 1428, 378
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_glow
+  rotate: false
+  xy: 1557, 4
+  size: 396, 373
+  orig: 396, 373
+  offset: 0, 0
+  index: -1
+Role_hand_13
+  rotate: true
+  xy: 1784, 1693
+  size: 239, 195
+  orig: 244, 195
+  offset: 5, 0
+  index: -1
+
+v44login_shenweifn_a13.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_shenwei_1
+  rotate: 180
+  xy: 835, 11
+  size: 864, 291
+  orig: 864, 291
+  offset: 0, 0
+  index: -1
+Effect_shenwei_23
+  rotate: true
+  xy: 1428, 246
+  size: 385, 612
+  orig: 415, 674
+  offset: 0, 62
+  index: -1
+Effect_shenwei_3
+  rotate: 270
+  xy: 1560, 4
+  size: 383, 486
+  orig: 383, 486
+  offset: 0, 0
+  index: -1
+Fir/Fir1_6
+  rotate: false
+  xy: 2, 114
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_7
+  rotate: false
+  xy: 358, 114
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_8
+  rotate: false
+  xy: 715, 114
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1
+Fir/Fir1_9
+  rotate: false
+  xy: 1071, 114
+  size: 355, 517
+  orig: 355, 517
+  offset: 0, 0
+  index: -1

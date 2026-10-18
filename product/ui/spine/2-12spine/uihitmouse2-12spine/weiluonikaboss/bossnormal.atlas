@@ -1,0 +1,83 @@
+
+bossnormal.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 580, 32
+  size: 227, 298
+  orig: 227, 298
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 479, 330
+  size: 693, 620
+  orig: 693, 620
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 3, 294
+  size: 729, 473
+  orig: 730, 473
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 1102, 698
+  size: 119, 121
+  orig: 121, 123
+  offset: 1, 1
+  index: -1
+xing2
+  rotate: false
+  xy: 1102, 819
+  size: 162, 204
+  orig: 164, 206
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 257, 32
+  size: 262, 144
+  orig: 262, 144
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 3, 0
+  size: 104, 294
+  orig: 106, 296
+  offset: 1, 1
+  index: -1
+youtui2
+  rotate: false
+  xy: 404, 57
+  size: 173, 237
+  orig: 175, 239
+  offset: 1, 1
+  index: -1
+zuitui2
+  rotate: false
+  xy: 938, 93
+  size: 173, 237
+  orig: 175, 239
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 110, 31
+  size: 263, 144
+  orig: 263, 144
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 810, 34
+  size: 125, 296
+  orig: 125, 296
+  offset: 0, 0
+  index: -1

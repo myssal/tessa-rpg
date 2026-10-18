@@ -1,0 +1,104 @@
+
+weilatutorialv34bgeffect.webp
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_1
+  rotate: false
+  xy: 2, 4
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+Bg_2
+  rotate: false
+  xy: 2, 255
+  size: 553, 379
+  orig: 553, 379
+  offset: 0, 0
+  index: -1
+Bg_3
+  rotate: true
+  xy: 556, 255
+  size: 259, 254
+  orig: 259, 254
+  offset: 0, 0
+  index: -1
+Bg_4
+  rotate: false
+  xy: 2, 940
+  size: 730, 730
+  orig: 730, 730
+  offset: 0, 0
+  index: -1
+Bg_5
+  rotate: false
+  xy: 2, 637
+  size: 710, 302
+  orig: 710, 302
+  offset: 0, 0
+  index: -1
+Bg_6j1
+  rotate: false
+  xy: 252, 149
+  size: 459, 104
+  orig: 459, 104
+  offset: 0, 0
+  index: -1
+Bg_6j2
+  rotate: true
+  xy: 811, 628
+  size: 331, 109
+  orig: 331, 109
+  offset: 0, 0
+  index: -1
+Bg_6j3
+  rotate: true
+  xy: 713, 6
+  size: 278, 205
+  orig: 278, 205
+  offset: 0, 0
+  index: -1
+Bg_6j4
+  rotate: false
+  xy: 789, 368
+  size: 155, 258
+  orig: 155, 258
+  offset: 0, 0
+  index: -1
+Bg_6j5
+  rotate: false
+  xy: 733, 966
+  size: 79, 339
+  orig: 79, 339
+  offset: 0, 0
+  index: -1
+Bg_6j6
+  rotate: false
+  xy: 714, 515
+  size: 124, 448
+  orig: 124, 448
+  offset: 0, 0
+  index: -1
+Bg_6j7
+  rotate: false
+  xy: 733, 1307
+  size: 205, 279
+  orig: 205, 279
+  offset: 0, 0
+  index: -1
+Bg_6j8
+  rotate: true
+  xy: 814, 1059
+  size: 299, 171
+  orig: 299, 171
+  offset: 0, 0
+  index: -1
+Bg_6j9
+  rotate: false
+  xy: 252, 45
+  size: 459, 102
+  orig: 459, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+godlifuactivityv40bg1bird_s1.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_Bird1_1
+  rotate: 270
+  xy: 2, 4
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Bg_Bird1_2
+  rotate: false
+  xy: 334, 6
+  size: 41, 63
+  orig: 41, 67
+  offset: 0, 4
+  index: -1
+Bg_Bird1_3
+  rotate: 270
+  xy: 370, 4
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Bg_Bird2_1
+  rotate: false
+  xy: 138, 3
+  size: 146, 85
+  orig: 146, 91
+  offset: 0, 0
+  index: -1
+Bg_Bird2_2
+  rotate: true
+  xy: 269, 8
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+Bg_Bird2_3
+  rotate: false
+  xy: 2, 31
+  size: 193, 56
+  orig: 193, 56
+  offset: 0, 0
+  index: -1

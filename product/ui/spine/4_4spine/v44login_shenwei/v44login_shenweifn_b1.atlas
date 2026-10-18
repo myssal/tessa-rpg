@@ -1,0 +1,272 @@
+
+v44login_shenweifn_b1.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_shenwei_10
+  rotate: true
+  xy: 1776, 4
+  size: 216, 270
+  orig: 216, 270
+  offset: 0, 0
+  index: -1
+Effect_shenwei_11
+  rotate: true
+  xy: 313, 272
+  size: 55, 270
+  orig: 55, 270
+  offset: 0, 0
+  index: -1
+Effect_shenwei_12
+  rotate: false
+  xy: 987, 79
+  size: 480, 155
+  orig: 480, 155
+  offset: 0, 0
+  index: -1
+Effect_shenwei_13
+  rotate: false
+  xy: 2, 436
+  size: 387, 271
+  orig: 387, 271
+  offset: 0, 0
+  index: -1
+Effect_shenwei_14
+  rotate: false
+  xy: 1896, 445
+  size: 123, 270
+  orig: 123, 270
+  offset: 0, 0
+  index: -1
+Effect_shenwei_15
+  rotate: true
+  xy: 640, 598
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+Effect_shenwei_16
+  rotate: false
+  xy: 2, 294
+  size: 288, 140
+  orig: 288, 140
+  offset: 0, 0
+  index: -1
+Effect_shenwei_17
+  rotate: true
+  xy: 1491, 352
+  size: 77, 540
+  orig: 77, 540
+  offset: 0, 0
+  index: -1
+Effect_shenwei_18
+  rotate: true
+  xy: 1506, 718
+  size: 370, 540
+  orig: 370, 540
+  offset: 0, 0
+  index: -1
+Effect_shenwei_19
+  rotate: false
+  xy: 2, 1080
+  size: 960, 452
+  orig: 960, 452
+  offset: 0, 0
+  index: -1
+Effect_shenwei_20
+  rotate: false
+  xy: 964, 1089
+  size: 960, 443
+  orig: 960, 443
+  offset: 0, 0
+  index: -1
+Effect_shenwei_9
+  rotate: true
+  xy: 655, 80
+  size: 135, 270
+  orig: 135, 270
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_1
+  rotate: false
+  xy: 1926, 1144
+  size: 107, 115
+  orig: 107, 115
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_10
+  rotate: false
+  xy: 1157, 115
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_11
+  rotate: false
+  xy: 574, 993
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_12
+  rotate: false
+  xy: 1882, 185
+  size: 100, 165
+  orig: 100, 165
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_13
+  rotate: true
+  xy: 2, 167
+  size: 126, 442
+  orig: 126, 442
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_14
+  rotate: true
+  xy: 1224, 154
+  size: 112, 166
+  orig: 112, 166
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_15
+  rotate: true
+  xy: 1065, 258
+  size: 159, 403
+  orig: 159, 403
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_16
+  rotate: 270
+  xy: 655, 139
+  size: 99, 158
+  orig: 99, 158
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_17
+  rotate: false
+  xy: 892, 920
+  size: 48, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_18
+  rotate: false
+  xy: 1323, 377
+  size: 166, 270
+  orig: 166, 270
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_19
+  rotate: false
+  xy: 445, 145
+  size: 208, 133
+  orig: 208, 133
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_2
+  rotate: false
+  xy: 1115, 156
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_20
+  rotate: false
+  xy: 391, 330
+  size: 273, 267
+  orig: 273, 267
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_21
+  rotate: false
+  xy: 910, 169
+  size: 202, 105
+  orig: 202, 105
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_22
+  rotate: false
+  xy: 1469, 180
+  size: 210, 171
+  orig: 210, 171
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_23
+  rotate: false
+  xy: 1681, 194
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_24
+  rotate: false
+  xy: 892, 413
+  size: 430, 235
+  orig: 442, 242
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_3
+  rotate: false
+  xy: 1942, 146
+  size: 99, 204
+  orig: 99, 204
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_4
+  rotate: true
+  xy: 647, 191
+  size: 189, 261
+  orig: 189, 261
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_5
+  rotate: true
+  xy: 666, 275
+  size: 300, 420
+  orig: 300, 420
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_6
+  rotate: false
+  xy: 292, 299
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_7
+  rotate: false
+  xy: 2, 737
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_8
+  rotate: true
+  xy: 964, 649
+  size: 438, 540
+  orig: 438, 540
+  offset: 0, 0
+  index: -1
+Fg_xiaoren_9
+  rotate: true
+  xy: 1506, 431
+  size: 285, 389
+  orig: 285, 389
+  offset: 0, 0
+  index: -1
+Role_hand_16
+  rotate: false
+  xy: 1926, 1261
+  size: 117, 270
+  orig: 117, 270
+  offset: 0, 0
+  index: -1
+Role_hand_17
+  rotate: false
+  xy: 2, 639
+  size: 637, 439
+  orig: 637, 439
+  offset: 0, 0
+  index: -1

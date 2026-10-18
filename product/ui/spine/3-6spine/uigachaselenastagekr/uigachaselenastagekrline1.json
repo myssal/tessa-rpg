@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"2pl9ethFP6w","spine":"4.3.70-beta","images":null,"audio":null},"bones":[{"name":"root"},{"name":"BtLine1","parent":"root"}],"slots":[{"name":"BtLine1","bone":"BtLine1","attachment":"BtLine1"}],"skins":[{"name":"default","attachments":{"BtLine1":{"BtLine1":{"x":9.19,"y":-9.52,"width":41,"height":34}}}}],"animations":{"idle":{}}}

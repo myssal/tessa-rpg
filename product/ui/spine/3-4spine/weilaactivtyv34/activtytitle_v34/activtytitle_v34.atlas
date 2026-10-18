@@ -1,0 +1,13 @@
+
+activtytitle_v34.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+UiActivityBriefBaseVeraTitle2
+  rotate: false
+  xy: 2, 3
+  size: 518, 261
+  orig: 671, 312
+  offset: 79, 43
+  index: -1

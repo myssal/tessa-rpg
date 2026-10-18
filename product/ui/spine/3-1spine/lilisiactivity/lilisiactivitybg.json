@@ -1,0 +1,84 @@
+{
+"skeleton": { "hash": "8MKDtmA8if05J+qM/+/Gte5sKvs", "spine": "3.8.99", "x": -1921, "y": -1081, "width": 3842, "height": 2162 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bg", "parent": "root" }
+],
+"slots": [
+	{ "name": "mask", "bone": "root" },
+	{ "name": "bg", "bone": "bg", "attachment": "bg" },
+	{ "name": "mask2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg": {
+				"bg": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1921, -1081, -1921, -1081, -1921, 1081, 1921, 1081 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Enable": {
+		"bones": {
+			"bg": {
+				"translate": [
+					{ "x": -986.58, "y": -241.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "x": -1283.91, "y": -241.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -1283.91, "y": -241.13, "curve": "stepped" },
+					{ "time": 2.6667, "x": 2305.96, "y": -764.09, "curve": 0.143, "c2": 0.2, "c3": 0.517 },
+					{ "time": 4.5, "x": 2045.33, "y": -764.09, "curve": "stepped" },
+					{ "time": 4.6667, "x": 2045.33, "y": -764.09, "curve": "stepped" },
+					{ "time": 4.8333, "x": 219.84, "y": -1508.51, "curve": 0.191, "c2": 0.34, "c3": 0.552 },
+					{
+						"time": 5.8333,
+						"x": -12.48,
+						"y": -1508.51,
+						"curve": 0.693,
+						"c2": 0.02,
+						"c3": 0.191,
+						"c4": 0.99
+					},
+					{ "time": 6.8333 }
+				],
+				"scale": [
+					{ "x": 2.949, "y": 2.949, "curve": "stepped" },
+					{ "time": 2.5, "x": 2.949, "y": 2.949, "curve": "stepped" },
+					{ "time": 2.6667, "x": 3.5, "y": 3.5, "curve": "stepped" },
+					{ "time": 4.6667, "x": 3.5, "y": 3.5, "curve": "stepped" },
+					{ "time": 4.8333, "x": 3.2, "y": 3.2, "curve": "stepped" },
+					{
+						"time": 5.8333,
+						"x": 3.2,
+						"y": 3.2,
+						"curve": 0.693,
+						"c2": 0.02,
+						"c3": 0.191,
+						"c4": 0.99
+					},
+					{ "time": 6.8333 }
+				],
+				"shear": [
+					{ "time": 8 }
+				]
+			}
+		}
+	},
+	"Loop": {
+		"bones": {
+			"bg": {
+				"shear": [
+					{ "time": 3.3333 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,524 @@
+
+weilaactivtyv34_role07.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_FX_glow
+  rotate: false
+  xy: 2, 1084
+  size: 377, 707
+  orig: 377, 707
+  offset: 0, 0
+  index: -1
+Role_FX_glow2
+  rotate: false
+  xy: 704, 1586
+  size: 195, 109
+  orig: 196, 122
+  offset: 0, 13
+  index: -1
+Role_Shoulder_r
+  rotate: false
+  xy: 774, 996
+  size: 157, 91
+  orig: 157, 93
+  offset: 0, 2
+  index: -1
+Role_Shoulder_r_2
+  rotate: 270
+  xy: 226, 240
+  size: 173, 221
+  orig: 173, 226
+  offset: 0, 5
+  index: -1
+Role_arm_l_1
+  rotate: false
+  xy: 769, 1725
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Role_arm_l_2
+  rotate: false
+  xy: 735, 622
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+Role_arm_l_3
+  rotate: false
+  xy: 1331, 1022
+  size: 224, 114
+  orig: 224, 114
+  offset: 0, 0
+  index: -1
+Role_arm_l_4
+  rotate: true
+  xy: 505, 431
+  size: 213, 328
+  orig: 213, 328
+  offset: 0, 0
+  index: -1
+Role_arm_r_1
+  rotate: 270
+  xy: 2, 185
+  size: 235, 197
+  orig: 235, 197
+  offset: 0, 0
+  index: -1
+Role_armor_1
+  rotate: 270
+  xy: 885, 562
+  size: 326, 320
+  orig: 340, 320
+  offset: 0, 0
+  index: -1
+Role_armor_2
+  rotate: false
+  xy: 892, 115
+  size: 261, 160
+  orig: 261, 167
+  offset: 0, 0
+  index: -1
+Role_armor_3
+  rotate: false
+  xy: 498, 1046
+  size: 201, 179
+  orig: 201, 179
+  offset: 0, 0
+  index: -1
+Role_armor_4
+  rotate: false
+  xy: 1288, 59
+  size: 377, 302
+  orig: 377, 302
+  offset: 0, 0
+  index: -1
+Role_body_1
+  rotate: false
+  xy: 896, 1087
+  size: 455, 705
+  orig: 455, 705
+  offset: 0, 0
+  index: -1
+Role_body_collar_1
+  rotate: false
+  xy: 947, 1119
+  size: 80, 141
+  orig: 80, 141
+  offset: 0, 0
+  index: -1
+Role_body_xiong_1
+  rotate: false
+  xy: 1780, 589
+  size: 240, 173
+  orig: 247, 184
+  offset: 0, 11
+  index: -1
+Role_cloak_1
+  rotate: false
+  xy: 477, 301
+  size: 586, 139
+  orig: 586, 139
+  offset: 0, 0
+  index: -1
+Role_cloak_2
+  rotate: false
+  xy: 2, 524
+  size: 432, 357
+  orig: 432, 376
+  offset: 0, 19
+  index: -1
+Role_cloak_3
+  rotate: true
+  xy: 380, 1031
+  size: 761, 639
+  orig: 761, 639
+  offset: 0, 0
+  index: -1
+Role_cloak_4
+  rotate: false
+  xy: 460, 1620
+  size: 344, 172
+  orig: 344, 172
+  offset: 0, 0
+  index: -1
+Role_ear
+  rotate: false
+  xy: 430, 1736
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+Role_earrings_1
+  rotate: true
+  xy: 573, 1747
+  size: 44, 167
+  orig: 44, 167
+  offset: 0, 0
+  index: -1
+Role_hair_b1_1
+  rotate: false
+  xy: 1393, 768
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+Role_hair_b1_10
+  rotate: false
+  xy: 1831, 1194
+  size: 87, 181
+  orig: 102, 181
+  offset: 0, 0
+  index: -1
+Role_hair_b1_2
+  rotate: false
+  xy: 98, 1008
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+Role_hair_b1_3
+  rotate: false
+  xy: 1693, 866
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+Role_hair_b1_4
+  rotate: 270
+  xy: 1042, 138
+  size: 258, 331
+  orig: 258, 339
+  offset: 0, 8
+  index: -1
+Role_hair_b1_5
+  rotate: false
+  xy: 888, 773
+  size: 109, 148
+  orig: 109, 148
+  offset: 0, 0
+  index: -1
+Role_hair_b1_6
+  rotate: 270
+  xy: 89, 573
+  size: 541, 795
+  orig: 541, 795
+  offset: 0, 0
+  index: -1
+Role_hair_b1_7
+  rotate: false
+  xy: 2, 980
+  size: 171, 103
+  orig: 171, 103
+  offset: 0, 0
+  index: -1
+Role_hair_b1_8
+  rotate: true
+  xy: 427, 1036
+  size: 138, 158
+  orig: 138, 158
+  offset: 0, 0
+  index: -1
+Role_hair_b1_9
+  rotate: false
+  xy: 2, 511
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+Role_hair_h2_1
+  rotate: 180
+  xy: 380, 1181
+  size: 286, 415
+  orig: 286, 415
+  offset: 0, 0
+  index: -1
+Role_hair_h2_10
+  rotate: true
+  xy: 15, 374
+  size: 278, 321
+  orig: 278, 348
+  offset: 0, 27
+  index: -1
+Role_hair_h2_11
+  rotate: true
+  xy: 580, 68
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: -1
+Role_hair_h2_12
+  rotate: false
+  xy: 1068, 1099
+  size: 127, 69
+  orig: 127, 81
+  offset: 0, 12
+  index: -1
+Role_hair_h2_2
+  rotate: true
+  xy: 340, 147
+  size: 120, 223
+  orig: 124, 233
+  offset: 4, 10
+  index: -1
+Role_hair_h2_3
+  rotate: false
+  xy: 206, 4
+  size: 414, 293
+  orig: 414, 303
+  offset: 0, 10
+  index: -1
+Role_hair_h2_4
+  rotate: true
+  xy: 416, 768
+  size: 464, 649
+  orig: 464, 649
+  offset: 0, 0
+  index: -1
+Role_hair_h2_5
+  rotate: false
+  xy: 1625, 1214
+  size: 326, 577
+  orig: 326, 577
+  offset: 0, 0
+  index: -1
+Role_hair_h2_6
+  rotate: false
+  xy: 1064, 511
+  size: 641, 490
+  orig: 641, 490
+  offset: 0, 0
+  index: -1
+Role_hair_h2_7
+  rotate: true
+  xy: 1634, 460
+  size: 164, 355
+  orig: 164, 355
+  offset: 0, 0
+  index: -1
+Role_hair_h2_8
+  rotate: true
+  xy: 1067, 823
+  size: 251, 510
+  orig: 251, 510
+  offset: 0, 0
+  index: -1
+Role_hair_h2_9
+  rotate: true
+  xy: 1310, 428
+  size: 149, 377
+  orig: 149, 377
+  offset: 0, 0
+  index: -1
+Role_hand_r_1
+  rotate: false
+  xy: 2, 807
+  size: 127, 143
+  orig: 135, 183
+  offset: 0, 1
+  index: -1
+Role_hand_r_2
+  rotate: false
+  xy: 1082, 1740
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Role_hand_r_3
+  rotate: true
+  xy: 998, 409
+  size: 217, 354
+  orig: 217, 354
+  offset: 0, 0
+  index: -1
+Role_head
+  rotate: 270
+  xy: 352, 386
+  size: 183, 236
+  orig: 224, 236
+  offset: 0, 0
+  index: -1
+Role_head_2
+  rotate: false
+  xy: 1296, 1741
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+Role_head_band_1
+  rotate: false
+  xy: 1571, 110
+  size: 228, 152
+  orig: 228, 152
+  offset: 0, 0
+  index: -1
+Role_head_band_2
+  rotate: false
+  xy: 874, 1540
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+Role_head_eyeball
+  rotate: false
+  xy: 407, 1775
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Role_head_eyelid_1
+  rotate: false
+  xy: 1619, 1739
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+Role_head_eyelid_2
+  rotate: false
+  xy: 874, 1748
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Role_head_hair_1_1
+  rotate: false
+  xy: 380, 1611
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+Role_head_hair_1a
+  rotate: 270
+  xy: 890, 490
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+Role_head_hair_2
+  rotate: false
+  xy: 1832, 1735
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+Role_head_hair_3_1
+  rotate: false
+  xy: 1659, 1743
+  size: 61, 50
+  orig: 61, 54
+  offset: 0, 4
+  index: -1
+Role_head_hair_3_2
+  rotate: false
+  xy: 843, 1700
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
+Role_head_hair_3_4
+  rotate: false
+  xy: 1897, 1739
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+Role_head_hair_3a
+  rotate: false
+  xy: 380, 1313
+  size: 95, 159
+  orig: 101, 159
+  offset: 0, 0
+  index: -1
+Role_head_hair_4
+  rotate: true
+  xy: 65, 52
+  size: 133, 431
+  orig: 133, 431
+  offset: 0, 0
+  index: -1
+Role_head_hair_6
+  rotate: true
+  xy: 1122, 331
+  size: 154, 463
+  orig: 154, 463
+  offset: 0, 0
+  index: -1
+Role_head_hair_7
+  rotate: false
+  xy: 1375, 1625
+  size: 250, 167
+  orig: 250, 167
+  offset: 0, 0
+  index: -1
+Role_head_hair_8
+  rotate: true
+  xy: 680, 189
+  size: 179, 267
+  orig: 179, 267
+  offset: 0, 0
+  index: -1
+Role_heda_eyebrow
+  rotate: false
+  xy: 742, 1746
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+Role_leg_l_1
+  rotate: 270
+  xy: 1438, 228
+  size: 134, 445
+  orig: 134, 445
+  offset: 0, 0
+  index: -1
+Role_leg_l_2
+  rotate: 180
+  xy: 1352, 953
+  size: 528, 351
+  orig: 528, 381
+  offset: 0, 0
+  index: -1
+Role_leg_r_1
+  rotate: true
+  xy: 1689, 339
+  size: 120, 246
+  orig: 120, 246
+  offset: 0, 0
+  index: -1
+Role_leg_r_2
+  rotate: 270
+  xy: 1124, 1298
+  size: 493, 530
+  orig: 493, 530
+  offset: 0, 0
+  index: -1
+Role_leg_r_3
+  rotate: false
+  xy: 1423, 578
+  size: 464, 331
+  orig: 490, 331
+  offset: 0, 0
+  index: -1
+Role_leg_r_4
+  rotate: false
+  xy: 336, 529
+  size: 169, 255
+  orig: 169, 255
+  offset: 0, 0
+  index: -1
+Role_neck_1
+  rotate: false
+  xy: 993, 878
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+Role_spear
+  rotate: false
+  xy: 1885, 762
+  size: 125, 1030
+  orig: 125, 1272
+  offset: 0, 0
+  index: -1

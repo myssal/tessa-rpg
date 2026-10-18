@@ -1,0 +1,27 @@
+
+weiluonikaactivityv38fuben.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BgNewCommonv0380Bg04_1
+  rotate: true
+  xy: 2, 374
+  size: 129, 1119
+  orig: 212, 1119
+  offset: 41, 0
+  index: -1
+BgNewCommonv0380Bg04_2
+  rotate: true
+  xy: 380, 115
+  size: 257, 384
+  orig: 257, 438
+  offset: 0, 31
+  index: -1
+BgNewCommonv0380Bg04_3
+  rotate: false
+  xy: 2, 2
+  size: 376, 370
+  orig: 433, 391
+  offset: 32, 18
+  index: -1

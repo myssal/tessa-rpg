@@ -1,0 +1,146 @@
+
+slifuloginv40fn.webp
+size: 2048,2048
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Effect_fw39
+  rotate: true
+  xy: 750, 217
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+Effect_fw391
+  rotate: true
+  xy: 750, 766
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+Effect_fw41
+  rotate: true
+  xy: 750, 554
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+Effect_fw62
+  rotate: true
+  xy: 2, 270
+  size: 572, 451
+  orig: 572, 451
+  offset: 0, 0
+  index: -1
+Effect_fw7
+  rotate: true
+  xy: 1013, 300
+  size: 218, 98
+  orig: 218, 108
+  offset: 0, 0
+  index: -1
+Fg_zjc1
+  rotate: false
+  xy: 777, 547
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc10
+  rotate: false
+  xy: 750, 328
+  size: 261, 190
+  orig: 261, 190
+  offset: 0, 0
+  index: -1
+Fg_zjc14
+  rotate: false
+  xy: 845, 520
+  size: 509, 834
+  orig: 509, 834
+  offset: 0, 0
+  index: -1
+Fg_zjc15
+  rotate: false
+  xy: 455, 298
+  size: 293, 544
+  orig: 293, 544
+  offset: 0, 0
+  index: -1
+Fg_zjc16
+  rotate: false
+  xy: 782, 541
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Fg_zjc17
+  rotate: false
+  xy: 768, 547
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc18
+  rotate: false
+  xy: 2, 844
+  size: 841, 510
+  orig: 841, 510
+  offset: 0, 0
+  index: -1
+Fg_zjc2
+  rotate: true
+  xy: 750, 643
+  size: 121, 61
+  orig: 121, 61
+  offset: 0, 0
+  index: -1
+Fg_zjc3
+  rotate: false
+  xy: 750, 545
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Fg_zjc4
+  rotate: false
+  xy: 759, 545
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Fg_zjc5
+  rotate: false
+  xy: 784, 547
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc6
+  rotate: false
+  xy: 768, 540
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc7
+  rotate: false
+  xy: 750, 538
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc8
+  rotate: false
+  xy: 757, 538
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Fg_zjc9
+  rotate: false
+  xy: 775, 540
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

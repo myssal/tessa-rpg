@@ -1,0 +1,230 @@
+
+weiluonikaactivityv38bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 542
+  size: 1920, 988
+  orig: 1920, 988
+  offset: 0, 0
+  index: -1
+Bg_flag_1
+  rotate: false
+  xy: 52, 510
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Bg_flag_10
+  rotate: false
+  xy: 388, 18
+  size: 193, 85
+  orig: 193, 85
+  offset: 0, 0
+  index: -1
+Bg_flag_11
+  rotate: false
+  xy: 84, 481
+  size: 30, 27
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Bg_flag_12
+  rotate: false
+  xy: 769, 12
+  size: 171, 221
+  orig: 171, 221
+  offset: 0, 0
+  index: -1
+Bg_flag_13
+  rotate: false
+  xy: 558, 243
+  size: 268, 191
+  orig: 273, 191
+  offset: 0, 0
+  index: -1
+Bg_flag_14
+  rotate: false
+  xy: 2, 318
+  size: 19, 54
+  orig: 19, 55
+  offset: 0, 1
+  index: -1
+Bg_flag_15
+  rotate: false
+  xy: 2, 240
+  size: 13, 57
+  orig: 13, 57
+  offset: 0, 0
+  index: -1
+Bg_flag_16
+  rotate: false
+  xy: 15, 276
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Bg_flag_17
+  rotate: false
+  xy: 52, 493
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Bg_flag_18
+  rotate: false
+  xy: 20, 434
+  size: 35, 29
+  orig: 35, 30
+  offset: 0, 1
+  index: -1
+Bg_flag_19
+  rotate: false
+  xy: 10, 206
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+Bg_flag_2
+  rotate: false
+  xy: 2, 406
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+Bg_flag_20
+  rotate: false
+  xy: 132, 478
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+Bg_flag_21
+  rotate: false
+  xy: 89, 500
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Bg_flag_22
+  rotate: false
+  xy: 123, 475
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+Bg_flag_23
+  rotate: false
+  xy: 2, 373
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Bg_flag_24
+  rotate: false
+  xy: 14, 242
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Bg_flag_25
+  rotate: false
+  xy: 22, 375
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+Bg_flag_26
+  rotate: false
+  xy: 2, 444
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+Bg_flag_27
+  rotate: false
+  xy: 14, 475
+  size: 68, 14
+  orig: 69, 15
+  offset: 1, 0
+  index: -1
+Bg_flag_3
+  rotate: false
+  xy: 2, 187
+  size: 6, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+Bg_flag_4
+  rotate: false
+  xy: 138, 525
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+Bg_flag_5
+  rotate: false
+  xy: 2, 298
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Bg_flag_6
+  rotate: false
+  xy: 109, 437
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+Bg_flag_7
+  rotate: false
+  xy: 67, 462
+  size: 56, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+Bg_flag_8
+  rotate: false
+  xy: 583, 7
+  size: 220, 151
+  orig: 256, 156
+  offset: 27, 5
+  index: -1
+Bg_flag_9
+  rotate: false
+  xy: 13, 338
+  size: 38, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Fn_yanguang1
+  rotate: false
+  xy: 461, 113
+  size: 797, 427
+  orig: 797, 427
+  offset: 0, 0
+  index: -1
+Fn_yanguang1_2
+  rotate: false
+  xy: 558, 342
+  size: 313, 198
+  orig: 313, 198
+  offset: 0, 0
+  index: -1
+Fn_yanguang2
+  rotate: false
+  xy: 2, 2
+  size: 554, 538
+  orig: 554, 538
+  offset: 0, 0
+  index: -1
+Sk
+  rotate: false
+  xy: 2, 492
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

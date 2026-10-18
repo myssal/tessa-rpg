@@ -1,0 +1,13 @@
+
+v43loginnietiya_niao.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fg_niao_1
+  rotate: false
+  xy: 2, 3
+  size: 450, 275
+  orig: 450, 275
+  offset: 0, 0
+  index: -1

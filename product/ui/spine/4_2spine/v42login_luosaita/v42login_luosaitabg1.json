@@ -1,0 +1,47 @@
+{
+"skeleton": { "hash": "is7a39I79ayGWv/R96HuO03PX4A", "spine": "3.8.99", "x": -1940.82, "y": -1091.81, "width": 3880.42, "height": 2183.62 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root" },
+	{ "name": "Bg", "parent": "All", "length": 60.99 },
+	{ "name": "Bg_1", "parent": "Bg", "scaleX": 1.01, "scaleY": 1.01 }
+],
+"slots": [
+	{ "name": "Bg_luosaita36", "bone": "Bg_1", "attachment": "Bg_luosaita36" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Bg_luosaita36": {
+				"Bg_luosaita36": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1920.4, -1081, -1921.6, -1081, -1921.6, 1081, 1920.4, 1081 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"bones": {
+			"Bg_1": {
+				"translate": [
+					{ "x": -17.11, "y": 11.14, "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "x": 18.91, "y": 10.63, "curve": 0.25, "c3": 0.75 },
+					{ "time": 10.6667, "x": -17.11, "y": 11.14 }
+				],
+				"scale": [
+					{ "x": 1.003, "y": 1.003, "curve": 0.359, "c2": 0.43, "c3": 0.756 },
+					{ "time": 3.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 8.6667, "x": 1.005, "y": 1.005, "curve": 0.26, "c3": 0.618, "c4": 0.44 },
+					{ "time": 10.6667, "x": 1.003, "y": 1.003 }
+				]
+			}
+		}
+	}
+}
+}

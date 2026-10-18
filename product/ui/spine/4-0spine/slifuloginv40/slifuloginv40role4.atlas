@@ -1,0 +1,146 @@
+
+slifuloginv40role4.webp
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Effect_zctx19
+  rotate: true
+  xy: 2, 268
+  size: 277, 168
+  orig: 286, 176
+  offset: 9, 8
+  index: -1
+Role_bm1
+  rotate: true
+  xy: 157, 26
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Role_bm10
+  rotate: false
+  xy: 193, 219
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+Role_bm11
+  rotate: false
+  xy: 213, 227
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Role_bm12
+  rotate: false
+  xy: 79, 4
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Role_bm13
+  rotate: true
+  xy: 193, 139
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+Role_bm131
+  rotate: true
+  xy: 172, 271
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+Role_bm14
+  rotate: false
+  xy: 2, 2
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+Role_bm141
+  rotate: true
+  xy: 47, 3
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+Role_bm15
+  rotate: false
+  xy: 218, 271
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+Role_bm16
+  rotate: true
+  xy: 172, 402
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+Role_bm2
+  rotate: false
+  xy: 193, 170
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Role_bm3
+  rotate: true
+  xy: 219, 403
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+Role_bm4
+  rotate: false
+  xy: 190, 27
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+Role_bm5
+  rotate: true
+  xy: 172, 287
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+Role_bm6
+  rotate: true
+  xy: 2, 14
+  size: 252, 153
+  orig: 270, 153
+  offset: 18, 0
+  index: -1
+Role_bm7
+  rotate: true
+  xy: 157, 83
+  size: 183, 34
+  orig: 183, 34
+  offset: 0, 0
+  index: -1
+Role_bm8
+  rotate: false
+  xy: 157, 3
+  size: 113, 21
+  orig: 113, 21
+  offset: 0, 0
+  index: -1
+Role_bm9
+  rotate: true
+  xy: 272, 7
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+Role_bs46
+  rotate: false
+  xy: 2, 547
+  size: 442, 475
+  orig: 442, 475
+  offset: 0, 0
+  index: -1

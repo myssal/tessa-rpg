@@ -1,0 +1,139 @@
+
+v44login_shenweibg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_shenwei_10
+  rotate: false
+  xy: 1663, 1813
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+Bg_shenwei_11
+  rotate: false
+  xy: 686, 1155
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Bg_shenwei_13
+  rotate: false
+  xy: 287, 57
+  size: 960, 135
+  orig: 960, 205
+  offset: 0, 70
+  index: -1
+Bg_shenwei_14
+  rotate: 270
+  xy: 1783, 958
+  size: 960, 259
+  orig: 960, 418
+  offset: 0, 159
+  index: -1
+Bg_shenwei_15
+  rotate: 270
+  xy: 1505, 4
+  size: 553, 540
+  orig: 553, 540
+  offset: 0, 0
+  index: -1
+Bg_shenwei_16
+  rotate: false
+  xy: 2, 1427
+  size: 961, 491
+  orig: 961, 491
+  offset: 0, 0
+  index: -1
+Bg_shenwei_17
+  rotate: false
+  xy: 922, 193
+  size: 329, 270
+  orig: 329, 270
+  offset: 0, 0
+  index: -1
+Bg_shenwei_18
+  rotate: false
+  xy: 1507, 846
+  size: 422, 530
+  orig: 422, 530
+  offset: 0, 0
+  index: -1
+Bg_shenwei_21
+  rotate: true
+  xy: 964, 932
+  size: 445, 541
+  orig: 445, 541
+  offset: 0, 0
+  index: -1
+Bg_shenwei_22
+  rotate: true
+  xy: 919, 465
+  size: 465, 540
+  orig: 465, 540
+  offset: 0, 0
+  index: -1
+Bg_shenwei_23
+  rotate: 180
+  xy: 2, 976
+  size: 961, 450
+  orig: 961, 450
+  offset: 0, 0
+  index: -1
+Bg_shenwei_24
+  rotate: false
+  xy: 1461, 337
+  size: 345, 271
+  orig: 345, 271
+  offset: 0, 0
+  index: -1
+Bg_shenwei_25
+  rotate: false
+  xy: 2, 94
+  size: 284, 271
+  orig: 284, 271
+  offset: 0, 0
+  index: -1
+Bg_shenwei_26
+  rotate: false
+  xy: 1253, 65
+  size: 280, 271
+  orig: 280, 271
+  offset: 0, 0
+  index: -1
+Bg_shenwei_27
+  rotate: false
+  xy: 1359, 610
+  size: 449, 235
+  orig: 449, 235
+  offset: 0, 0
+  index: -1
+Bg_shenwei_3
+  rotate: false
+  xy: 964, 1378
+  size: 904, 541
+  orig: 952, 541
+  offset: 0, 0
+  index: -1
+Bg_shenwei_7
+  rotate: false
+  xy: 2, 456
+  size: 918, 518
+  orig: 961, 518
+  offset: 0, 0
+  index: -1
+Bg_shenwei_8
+  rotate: false
+  xy: 107, 285
+  size: 791, 384
+  orig: 960, 518
+  offset: 169, 134
+  index: -1
+Bg_shenwei_9
+  rotate: false
+  xy: 964, 1848
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+slifuloginv40suipian.webp
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Effect_fw35
+  rotate: false
+  xy: 762, 616
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Effect_suipian16
+  rotate: true
+  xy: 341, 332
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+Effect_suipian2
+  rotate: true
+  xy: 756, 549
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Effect_suipian24
+  rotate: true
+  xy: 435, 622
+  size: 268, 176
+  orig: 268, 176
+  offset: 0, 0
+  index: -1
+Effect_suipian241
+  rotate: false
+  xy: 262, 413
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Effect_suipian242
+  rotate: false
+  xy: 399, 462
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Effect_suipian243
+  rotate: true
+  xy: 762, 763
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Effect_suipian26
+  rotate: false
+  xy: 138, 459
+  size: 259, 114
+  orig: 259, 114
+  offset: 0, 0
+  index: -1
+Effect_suipian27
+  rotate: false
+  xy: 600, 489
+  size: 223, 33
+  orig: 223, 33
+  offset: 0, 0
+  index: -1
+Effect_suipian29
+  rotate: false
+  xy: 801, 677
+  size: 61, 213
+  orig: 61, 213
+  offset: 0, 0
+  index: -1
+Effect_suipian3
+  rotate: true
+  xy: 714, 670
+  size: 135, 29
+  orig: 135, 29
+  offset: 0, 0
+  index: -1
+Effect_suipian30
+  rotate: true
+  xy: 745, 660
+  size: 145, 15
+  orig: 145, 15
+  offset: 0, 0
+  index: -1
+Effect_suipian31
+  rotate: false
+  xy: 2, 401
+  size: 134, 172
+  orig: 134, 172
+  offset: 0, 0
+  index: -1
+Effect_suipian32
+  rotate: true
+  xy: 756, 582
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+Effect_suipian34
+  rotate: true
+  xy: 399, 493
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Effect_suipian35
+  rotate: false
+  xy: 309, 405
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Effect_suipian36
+  rotate: false
+  xy: 138, 401
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Effect_suipian37
+  rotate: true
+  xy: 687, 721
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Effect_suipian38
+  rotate: false
+  xy: 814, 558
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Effect_suipian39
+  rotate: true
+  xy: 613, 719
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+Effect_suipian4
+  rotate: false
+  xy: 613, 709
+  size: 92, 8
+  orig: 92, 8
+  offset: 0, 0
+  index: -1
+Effect_suipian40
+  rotate: true
+  xy: 694, 676
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+Effect_suipian41
+  rotate: true
+  xy: 159, 401
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+Effect_suipian42
+  rotate: false
+  xy: 138, 409
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+Effect_suipian43
+  rotate: true
+  xy: 237, 256
+  size: 146, 102
+  orig: 146, 102
+  offset: 0, 0
+  index: -1
+Effect_suipian44
+  rotate: true
+  xy: 2, 130
+  size: 269, 115
+  orig: 269, 115
+  offset: 0, 0
+  index: -1
+Effect_suipian441
+  rotate: true
+  xy: 714, 534
+  size: 104, 40
+  orig: 104, 41
+  offset: 0, 1
+  index: -1
+Effect_suipian442
+  rotate: false
+  xy: 694, 640
+  size: 44, 28
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Effect_suipian45
+  rotate: false
+  xy: 435, 321
+  size: 229, 36
+  orig: 229, 36
+  offset: 0, 0
+  index: -1
+Effect_suipian46
+  rotate: true
+  xy: 613, 638
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+Effect_suipian47
+  rotate: true
+  xy: 600, 524
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+Effect_suipian48
+  rotate: true
+  xy: 171, 403
+  size: 4, 33
+  orig: 4, 33
+  offset: 0, 0
+  index: -1
+Effect_suipian49
+  rotate: true
+  xy: 215, 404
+  size: 3, 33
+  orig: 3, 33
+  offset: 0, 0
+  index: -1
+Effect_suipian50
+  rotate: false
+  xy: 206, 403
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+Effect_suipian51
+  rotate: true
+  xy: 828, 632
+  size: 20, 62
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+Effect_suipian52
+  rotate: true
+  xy: 828, 654
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+Effect_suipian53
+  rotate: false
+  xy: 762, 679
+  size: 31, 82
+  orig: 31, 82
+  offset: 0, 0
+  index: -1
+Effect_suipian54
+  rotate: false
+  xy: 613, 807
+  size: 186, 83
+  orig: 186, 83
+  offset: 0, 0
+  index: -1
+Effect_suipian55
+  rotate: true
+  xy: 119, 176
+  size: 223, 116
+  orig: 223, 116
+  offset: 0, 0
+  index: -1
+Effect_suipian56
+  rotate: true
+  xy: 435, 359
+  size: 261, 163
+  orig: 278, 163
+  offset: 17, 0
+  index: -1
+Effect_suipian6
+  rotate: false
+  xy: 687, 751
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+Effect_zctx17
+  rotate: false
+  xy: 2, 575
+  size: 431, 315
+  orig: 432, 315
+  offset: 0, 0
+  index: -1

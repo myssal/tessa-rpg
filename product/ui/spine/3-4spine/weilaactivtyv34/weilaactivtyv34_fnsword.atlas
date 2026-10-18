@@ -1,0 +1,13 @@
+
+weilaactivtyv34_fnsword.webp
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn_sword_1
+  rotate: false
+  xy: 2, 2
+  size: 629, 1438
+  orig: 632, 1438
+  offset: 0, 0
+  index: -1

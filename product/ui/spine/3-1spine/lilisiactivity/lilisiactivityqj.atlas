@@ -1,0 +1,83 @@
+
+lilisiactivityqj.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Dark
+  rotate: false
+  xy: 2, 721
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 2, 692
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: false
+  xy: 2, 932
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+huaban3
+  rotate: false
+  xy: 2, 678
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: false
+  xy: 63, 933
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+huaban5
+  rotate: false
+  xy: 110, 927
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+huaban6
+  rotate: false
+  xy: 86, 930
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+huaban7
+  rotate: false
+  xy: 28, 935
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 977, 1238
+  size: 159, 163
+  orig: 159, 163
+  offset: 0, 0
+  index: -1
+zhuozi1
+  rotate: false
+  xy: 2, 687
+  size: 1536, 1035
+  orig: 1536, 1035
+  offset: 0, 0
+  index: -1
+zhuozi2
+  rotate: false
+  xy: 2, 3
+  size: 1536, 682
+  orig: 1536, 682
+  offset: 0, 0
+  index: -1

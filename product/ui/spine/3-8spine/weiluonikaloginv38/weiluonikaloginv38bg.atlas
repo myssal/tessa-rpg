@@ -1,0 +1,97 @@
+
+weiluonikaloginv38bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 1059
+  size: 960, 558
+  orig: 960, 558
+  offset: 0, 0
+  index: -1
+Bg_Fx_guang
+  rotate: 270
+  xy: 695, 34
+  size: 731, 577
+  orig: 780, 577
+  offset: 49, 0
+  index: -1
+Bg_Fx_xingxing
+  rotate: false
+  xy: 2, 978
+  size: 58, 79
+  orig: 58, 80
+  offset: 0, 1
+  index: -1
+Bg_boli1
+  rotate: true
+  xy: 964, 975
+  size: 416, 410
+  orig: 416, 410
+  offset: 0, 0
+  index: -1
+Bg_boli2
+  rotate: false
+  xy: 512, 803
+  size: 364, 254
+  orig: 364, 254
+  offset: 0, 0
+  index: -1
+Bg_long1
+  rotate: false
+  xy: 135, 977
+  size: 112, 81
+  orig: 130, 100
+  offset: 10, 11
+  index: -1
+Bg_long2
+  rotate: true
+  xy: 2, 3
+  size: 1054, 1053
+  orig: 1054, 1053
+  offset: 0, 0
+  index: -1
+Bg_long2_1
+  rotate: false
+  xy: 324, 604
+  size: 224, 199
+  orig: 246, 206
+  offset: 8, 4
+  index: -1
+Bg_long2_yan
+  rotate: false
+  xy: 62, 985
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Bg_long3
+  rotate: false
+  xy: 2, 913
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+Bg_long4
+  rotate: false
+  xy: 317, 922
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+Bg_long5
+  rotate: 270
+  xy: 1088, 131
+  size: 322, 323
+  orig: 322, 323
+  offset: 0, 0
+  index: -1
+Bg_long6
+  rotate: false
+  xy: 1065, 708
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1

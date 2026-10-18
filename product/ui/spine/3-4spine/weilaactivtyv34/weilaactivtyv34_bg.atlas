@@ -1,0 +1,20 @@
+
+weilaactivtyv34_bg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 321
+  size: 1800, 1013
+  orig: 1800, 1013
+  offset: 0, 0
+  index: -1
+Bg_stone_1
+  rotate: false
+  xy: 2, 4
+  size: 602, 316
+  orig: 602, 316
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+v42login_luosaitarole2.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_luosaita53
+  rotate: false
+  xy: 132, 140
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Effect_luosaita54
+  rotate: false
+  xy: 564, 151
+  size: 242, 67
+  orig: 242, 67
+  offset: 0, 0
+  index: -1
+RoleEffect_luosaita3
+  rotate: false
+  xy: 608, 82
+  size: 289, 74
+  orig: 384, 97
+  offset: 95, 23
+  index: -1
+RoleEffect_luosaita4
+  rotate: false
+  xy: 2, 36
+  size: 407, 106
+  orig: 407, 106
+  offset: 0, 0
+  index: -1
+Role_luosaita0
+  rotate: true
+  xy: 2, 141
+  size: 49, 129
+  orig: 49, 129
+  offset: 0, 0
+  index: -1
+Role_luosaita1
+  rotate: false
+  xy: 2, 90
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Role_luosaita2
+  rotate: true
+  xy: 2, 8
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+Role_luosaita47
+  rotate: false
+  xy: 2, 2
+  size: 909, 216
+  orig: 909, 216
+  offset: 0, 0
+  index: -1

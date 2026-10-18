@@ -1,0 +1,76 @@
+
+weiluonikaloginv38md.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn_Long_Y1
+  rotate: true
+  xy: 1746, 367
+  size: 273, 210
+  orig: 273, 210
+  offset: 0, 0
+  index: -1
+Fn_Long_Y2
+  rotate: false
+  xy: 1827, 7
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+Fn_Long_Y3
+  rotate: false
+  xy: 1746, 93
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Fn_Long_Y4
+  rotate: true
+  xy: 1746, 517
+  size: 438, 193
+  orig: 438, 193
+  offset: 0, 0
+  index: -1
+Fn_Long_Y5
+  rotate: false
+  xy: 1746, 220
+  size: 190, 195
+  orig: 190, 195
+  offset: 0, 0
+  index: -1
+Fn_Long_Z1
+  rotate: false
+  xy: 1746, 120
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+Fn_Long_Z2
+  rotate: false
+  xy: 1791, 3
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Fn_Long_Z3
+  rotate: false
+  xy: 1746, 53
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+Fx_light
+  rotate: false
+  xy: 2, 3
+  size: 995, 952
+  orig: 995, 952
+  offset: 0, 0
+  index: -1
+Fx_yanwu
+  rotate: true
+  xy: 998, 3
+  size: 878, 746
+  orig: 878, 746
+  offset: 0, 0
+  index: -1

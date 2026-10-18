@@ -1,0 +1,20 @@
+
+v45_login_aerfa_bg_2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG_di
+  rotate: false
+  xy: 2, 549
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+BG_hand32
+  rotate: false
+  xy: 2, 3
+  size: 1147, 545
+  orig: 1258, 545
+  offset: 111, 0
+  index: -1

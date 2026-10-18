@@ -1,0 +1,27 @@
+
+uigachaselenastagejpline34.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtHua
+  rotate: true
+  xy: 147, 8
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1
+BtLine3
+  rotate: false
+  xy: 0, 0
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+BtLine4
+  rotate: true
+  xy: 147, 38
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
