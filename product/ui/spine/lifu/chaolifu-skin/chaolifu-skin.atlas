@@ -1,5 +1,5 @@
 
-ChaoLifu-Skin.webp
+chaolifu-skin.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -369,7 +369,7 @@ zui
   offset: 0, 0
   index: -1
 
-ChaoLifu-Skin2.webp
+chaolifu-skin2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

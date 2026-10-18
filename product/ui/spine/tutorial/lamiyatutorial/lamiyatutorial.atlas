@@ -1,5 +1,5 @@
 
-LamiyaTutorial.webp
+lamiyatutorial.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -845,7 +845,7 @@ zyz
   offset: 0, 0
   index: -1
 
-LamiyaTutorial2.webp
+lamiyatutorial2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -907,7 +907,7 @@ yuwei
   offset: 0, 0
   index: -1
 
-LamiyaTutorial3.webp
+lamiyatutorial3.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

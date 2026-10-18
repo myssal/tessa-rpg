@@ -1,0 +1,187 @@
+
+activityhakamabg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+70.1
+  rotate: true
+  xy: 1811, 1499
+  size: 100, 104
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+70shou
+  rotate: false
+  xy: 463, 1553
+  size: 81, 46
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+70tf
+  rotate: true
+  xy: 412, 1566
+  size: 33, 49
+  orig: 36, 55
+  offset: 0, 5
+  index: -1
+70youtui
+  rotate: false
+  xy: 690, 1545
+  size: 104, 54
+  orig: 104, 70
+  offset: 0, 6
+  index: -1
+70zuotui
+  rotate: true
+  xy: 1072, 1529
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+diban
+  rotate: false
+  xy: 485, 758
+  size: 1537, 340
+  orig: 1537, 340
+  offset: 0, 0
+  index: -1
+heidong
+  rotate: false
+  xy: 1173, 1182
+  size: 541, 321
+  orig: 559, 322
+  offset: 12, 1
+  index: -1
+qunzi3
+  rotate: true
+  xy: 546, 1548
+  size: 51, 142
+  orig: 51, 142
+  offset: 0, 0
+  index: -1
+qunzi4
+  rotate: true
+  xy: 148, 1571
+  size: 28, 105
+  orig: 28, 108
+  offset: 0, 2
+  index: -1
+shenti2
+  rotate: true
+  xy: 796, 1542
+  size: 57, 274
+  orig: 57, 274
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 2, 383
+  size: 1700, 373
+  orig: 1700, 373
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 327, 1401
+  size: 464, 142
+  orig: 464, 142
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 2, 2
+  size: 1700, 379
+  orig: 1700, 379
+  offset: 0, 0
+  index: -1
+wu
+  rotate: true
+  xy: 1716, 1100
+  size: 397, 321
+  orig: 397, 321
+  offset: 0, 0
+  index: -1
+wu3
+  rotate: true
+  xy: 2, 1012
+  size: 387, 481
+  orig: 389, 482
+  offset: 1, 0
+  index: -1
+youhg
+  rotate: false
+  xy: 1155, 1505
+  size: 326, 94
+  orig: 326, 94
+  offset: 0, 0
+  index: -1
+youlg
+  rotate: false
+  xy: 2, 1419
+  size: 323, 148
+  orig: 335, 160
+  offset: 7, 6
+  index: -1
+youshou2
+  rotate: true
+  xy: 255, 1569
+  size: 30, 94
+  orig: 30, 94
+  offset: 0, 0
+  index: -1
+youxian2
+  rotate: true
+  xy: 351, 1568
+  size: 31, 59
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+zuohg
+  rotate: false
+  xy: 1483, 1505
+  size: 326, 94
+  orig: 326, 94
+  offset: 0, 0
+  index: -1
+zuolg
+  rotate: false
+  xy: 793, 1337
+  size: 378, 166
+  orig: 382, 174
+  offset: 2, 3
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 72, 1572
+  size: 27, 74
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+zuoxian2
+  rotate: true
+  xy: 2, 1574
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+
+activityhakamabg2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1536, 469
+  orig: 1536, 469
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 2, 473
+  size: 1592, 865
+  orig: 1592, 865
+  offset: 0, 0
+  index: -1

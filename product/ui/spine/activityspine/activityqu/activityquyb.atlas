@@ -1,0 +1,83 @@
+
+activityquyb.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yb
+  rotate: true
+  xy: 0, 415
+  size: 518, 1081
+  orig: 518, 1081
+  offset: 0, 0
+  index: -1
+yb-cao1
+  rotate: true
+  xy: 1710, 3
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+yb-cao2
+  rotate: false
+  xy: 1461, 16
+  size: 199, 53
+  orig: 199, 53
+  offset: 0, 0
+  index: -1
+yb-cao3
+  rotate: false
+  xy: 1461, 71
+  size: 247, 102
+  orig: 247, 102
+  offset: 0, 0
+  index: -1
+yb-cao4
+  rotate: true
+  xy: 1921, 0
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+yb-cao5
+  rotate: false
+  xy: 1798, 11
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+yb-xian
+  rotate: true
+  xy: 1815, 88
+  size: 845, 153
+  orig: 852, 153
+  offset: 7, 0
+  index: -1
+yb-yun1
+  rotate: true
+  xy: 1083, 21
+  size: 912, 376
+  orig: 913, 376
+  offset: 1, 0
+  index: -1
+yb-yun2
+  rotate: true
+  xy: 1461, 528
+  size: 405, 352
+  orig: 405, 352
+  offset: 0, 0
+  index: -1
+yb-yun3
+  rotate: false
+  xy: 1461, 175
+  size: 297, 351
+  orig: 297, 351
+  offset: 0, 0
+  index: -1
+yb-yun4
+  rotate: false
+  xy: 0, 160
+  size: 722, 253
+  orig: 722, 253
+  offset: 0, 0
+  index: -1

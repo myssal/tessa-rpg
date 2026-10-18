@@ -1,0 +1,20 @@
+
+uibabeltowermainnewye.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ye1
+  rotate: false
+  xy: 830, 97
+  size: 236, 408
+  orig: 236, 422
+  offset: 0, 14
+  index: -1
+ye2
+  rotate: false
+  xy: 2, 2
+  size: 826, 503
+  orig: 826, 503
+  offset: 0, 0
+  index: -1

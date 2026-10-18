@@ -1,0 +1,13 @@
+
+activityqishibg.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1192, 670
+  orig: 1192, 670
+  offset: 0, 0
+  index: -1

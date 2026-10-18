@@ -1,0 +1,34 @@
+
+activitybiankaqg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanhu1.1
+  rotate: false
+  xy: 1009, 2
+  size: 863, 664
+  orig: 863, 664
+  offset: 0, 0
+  index: -1
+shanhu2.2
+  rotate: false
+  xy: 1116, 668
+  size: 907, 788
+  orig: 907, 788
+  offset: 0, 0
+  index: -1
+shanhu3.3
+  rotate: false
+  xy: 2, 912
+  size: 1112, 544
+  orig: 1112, 544
+  offset: 0, 0
+  index: -1
+shanhu4.4
+  rotate: false
+  xy: 2, 47
+  size: 1005, 863
+  orig: 1005, 863
+  offset: 0, 0
+  index: -1

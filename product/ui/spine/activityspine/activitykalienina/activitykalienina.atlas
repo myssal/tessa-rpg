@@ -1,0 +1,82 @@
+
+activitykalienina.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaung1
+  rotate: false
+  xy: 849, 464
+  size: 815, 475
+  orig: 828, 475
+  offset: 12, 0
+  index: -1
+gaung2
+  rotate: false
+  xy: 807, 1719
+  size: 381, 212
+  orig: 390, 220
+  offset: 2, 4
+  index: -1
+gaung3
+  rotate: false
+  xy: 2, 479
+  size: 845, 460
+  orig: 845, 460
+  offset: 0, 0
+  index: -1
+gaung4
+  rotate: false
+  xy: 2, 2
+  size: 845, 475
+  orig: 845, 475
+  offset: 0, 0
+  index: -1
+touyingtai
+  rotate: false
+  xy: 2, 1377
+  size: 1690, 290
+  orig: 1690, 290
+  offset: 0, 0
+  index: -1
+weilan
+  rotate: false
+  xy: 2, 941
+  size: 1690, 434
+  orig: 1690, 434
+  offset: 0, 0
+  index: -1
+xianshiqi
+  rotate: false
+  xy: 2, 1740
+  size: 803, 191
+  orig: 803, 191
+  offset: 0, 0
+  index: -1
+youjiqie
+  rotate: false
+  xy: 1190, 1681
+  size: 293, 250
+  orig: 293, 250
+  offset: 0, 0
+  index: -1
+zuojixie
+  rotate: true
+  xy: 1485, 1669
+  size: 262, 276
+  orig: 262, 276
+  offset: 0, 0
+  index: -1
+
+activitykalienina2.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1690, 951
+  orig: 1690, 951
+  offset: 0, 0
+  index: -1

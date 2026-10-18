@@ -1,5 +1,5 @@
 
-LuxiyaAlphaTower.webp
+luxiyaalphatower.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -1279,7 +1279,7 @@ znyifu2
   offset: 0, 0
   index: -1
 
-LuxiyaAlphaTower2.webp
+luxiyaalphatower2.webp
 size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear

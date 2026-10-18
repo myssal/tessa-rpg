@@ -1,5 +1,5 @@
 
-UiMovieWeilaSkin01.webp
+uimovieweilaskin01.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -2581,7 +2581,7 @@ yy1
   offset: 0, 0
   index: -1
 
-UiMovieWeilaSkin012.webp
+uimovieweilaskin012.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -2720,7 +2720,7 @@ c8
   offset: 0, 0
   index: -1
 
-UiMovieWeilaSkin013.webp
+uimovieweilaskin013.webp
 size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear

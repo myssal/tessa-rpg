@@ -1,4 +1,4 @@
-V46MinaLine_Fuben16dp.webp
+v46minaline_fuben16dp.webp
 size:2048,2048
 filter:Linear,Linear
 Book_Shadow_1
@@ -112,7 +112,7 @@ bounds:1952,1652,373,94
 offsets:7,3,380,97
 rotate:90
 
-V46MinaLine_Fuben16dp_2.webp
+v46minaline_fuben16dp_2.webp
 size:2048,2048
 filter:Linear,Linear
 BG
@@ -208,7 +208,7 @@ bounds:1277,20,73,57
 R_forearm4
 bounds:1330,22,57,55
 
-V46MinaLine_Fuben16dp_3.webp
+v46minaline_fuben16dp_3.webp
 size:2048,2048
 filter:Linear,Linear
 Glow_dark

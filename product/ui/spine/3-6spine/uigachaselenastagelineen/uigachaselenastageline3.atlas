@@ -1,0 +1,20 @@
+
+uigachaselenastageline3.webp
+size: 422,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine3
+  rotate: false
+  xy: 0, 0
+  size: 211, 65
+  orig: 211, 65
+  offset: 0, 0
+  index: -1
+Bthua
+  rotate: false
+  xy: 211, 0
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1

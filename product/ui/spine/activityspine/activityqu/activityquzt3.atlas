@@ -1,0 +1,48 @@
+
+activityquzt3.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zt-1.2
+  rotate: true
+  xy: 1848, 194
+  size: 232, 106
+  orig: 232, 106
+  offset: 0, 0
+  index: -1
+zt-2.2
+  rotate: false
+  xy: 1387, 272
+  size: 459, 154
+  orig: 459, 154
+  offset: 0, 0
+  index: -1
+zt-2.3
+  rotate: false
+  xy: 1956, 207
+  size: 63, 219
+  orig: 63, 219
+  offset: 0, 0
+  index: -1
+zt-3.2
+  rotate: false
+  xy: 806, 38
+  size: 579, 388
+  orig: 579, 388
+  offset: 0, 0
+  index: -1
+zt-4.1
+  rotate: false
+  xy: 0, 0
+  size: 804, 426
+  orig: 804, 426
+  offset: 0, 0
+  index: -1
+zt-yun
+  rotate: false
+  xy: 1387, 68
+  size: 285, 202
+  orig: 285, 202
+  offset: 0, 0
+  index: -1

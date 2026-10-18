@@ -1,0 +1,153 @@
+
+activityliqg.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heimu
+  rotate: false
+  xy: 2, 227
+  size: 1057, 595
+  orig: 1057, 595
+  offset: 0, 0
+  index: -1
+heimu2
+  rotate: true
+  xy: 1370, 2
+  size: 1057, 595
+  orig: 1057, 595
+  offset: 0, 0
+  index: -1
+you1
+  rotate: false
+  xy: 508, 1438
+  size: 230, 187
+  orig: 230, 187
+  offset: 0, 0
+  index: -1
+you1.2
+  rotate: false
+  xy: 740, 1438
+  size: 230, 187
+  orig: 230, 187
+  offset: 0, 0
+  index: -1
+you1.3
+  rotate: false
+  xy: 972, 1438
+  size: 230, 187
+  orig: 230, 187
+  offset: 0, 0
+  index: -1
+you1yy
+  rotate: false
+  xy: 2, 1456
+  size: 255, 169
+  orig: 255, 169
+  offset: 0, 0
+  index: -1
+you2
+  rotate: false
+  xy: 1413, 1107
+  size: 333, 281
+  orig: 333, 281
+  offset: 0, 0
+  index: -1
+you2.1
+  rotate: false
+  xy: 2, 902
+  size: 333, 281
+  orig: 333, 281
+  offset: 0, 0
+  index: -1
+you2.2
+  rotate: false
+  xy: 337, 902
+  size: 333, 281
+  orig: 333, 281
+  offset: 0, 0
+  index: -1
+you2yy
+  rotate: false
+  xy: 1204, 1410
+  size: 297, 215
+  orig: 297, 215
+  offset: 0, 0
+  index: -1
+zhong1
+  rotate: false
+  xy: 672, 871
+  size: 347, 312
+  orig: 347, 312
+  offset: 0, 0
+  index: -1
+zhong1.1
+  rotate: false
+  xy: 1021, 824
+  size: 347, 312
+  orig: 347, 312
+  offset: 0, 0
+  index: -1
+zhong1yy
+  rotate: false
+  xy: 1040, 1138
+  size: 371, 270
+  orig: 371, 270
+  offset: 0, 0
+  index: -1
+zhong2
+  rotate: true
+  xy: 1503, 1390
+  size: 235, 247
+  orig: 235, 247
+  offset: 0, 0
+  index: -1
+zhong2.1
+  rotate: true
+  xy: 1752, 1390
+  size: 235, 247
+  orig: 235, 247
+  offset: 0, 0
+  index: -1
+zhong2.2
+  rotate: true
+  xy: 2, 1219
+  size: 235, 247
+  orig: 235, 247
+  offset: 0, 0
+  index: -1
+zhong2yy
+  rotate: false
+  xy: 259, 1441
+  size: 247, 184
+  orig: 247, 185
+  offset: 0, 1
+  index: -1
+zuo1
+  rotate: false
+  xy: 251, 1185
+  size: 261, 251
+  orig: 261, 251
+  offset: 0, 0
+  index: -1
+zuo1.2
+  rotate: false
+  xy: 514, 1185
+  size: 261, 251
+  orig: 261, 251
+  offset: 0, 0
+  index: -1
+zuo1.3
+  rotate: false
+  xy: 777, 1185
+  size: 261, 251
+  orig: 261, 251
+  offset: 0, 0
+  index: -1
+zuo1yy
+  rotate: true
+  xy: 1748, 1061
+  size: 327, 283
+  orig: 327, 284
+  offset: 0, 1
+  index: -1

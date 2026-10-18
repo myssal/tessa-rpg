@@ -1,5 +1,5 @@
 
-DuBianTower.webp
+dubiantower.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -677,7 +677,7 @@ zs4
   offset: 0, 0
   index: -1
 
-DuBianTower2.webp
+dubiantower2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -697,7 +697,7 @@ sha3
   offset: 0, 0
   index: -1
 
-DuBianTower3.webp
+dubiantower3.webp
 size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear

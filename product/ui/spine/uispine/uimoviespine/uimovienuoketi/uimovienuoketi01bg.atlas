@@ -1,5 +1,5 @@
 
-UiMovieNuoketi01Bg.webp
+uimovienuoketi01bg.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -33,7 +33,7 @@ yun3
   offset: 0, 1
   index: -1
 
-UiMovieNuoketi01Bg2.webp
+uimovienuoketi01bg2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -46,7 +46,7 @@ bj2
   offset: 0, 0
   index: -1
 
-UiMovieNuoketi01Bg3.webp
+uimovienuoketi01bg3.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

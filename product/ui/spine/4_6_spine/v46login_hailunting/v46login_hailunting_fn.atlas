@@ -1,4 +1,4 @@
-V46Login_HaiLunTing_Fn.webp
+v46login_hailunting_fn.webp
 size:1024,2048
 filter:Linear,Linear
 scale:0.5
@@ -36,7 +36,7 @@ Effect_light_F23
 bounds:2,961,69,57
 offsets:41,0,110,148
 Effect_light_F24
-bounds:588,1436,8,9
+bounds:588,1495,8,9
 Effect_light_F25
 bounds:556,1329,16,15
 Effect_light_F26
@@ -78,6 +78,8 @@ Fg_bubble_3
 bounds:324,19,133,134
 Fg_bubble_4
 bounds:918,653,61,100
+Fg_bubble_4_1
+bounds:588,1419,10,26
 Fg_bubble_5
 bounds:567,498,64,139
 offsets:0,0,67,142

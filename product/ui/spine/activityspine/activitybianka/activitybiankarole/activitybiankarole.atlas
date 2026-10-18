@@ -1,0 +1,194 @@
+
+activitybiankarole.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1166
+  size: 1536, 864
+  orig: 1536, 864
+  offset: 0, 0
+  index: -1
+bianzi
+  rotate: false
+  xy: 1951, 781
+  size: 72, 217
+  orig: 72, 217
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: false
+  xy: 1951, 1000
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 2, 312
+  size: 1070, 852
+  orig: 1184, 862
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1951, 478
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1951, 708
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2010, 1974
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1951, 1084
+  size: 160, 78
+  orig: 160, 78
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 1211, 528
+  size: 162, 310
+  orig: 162, 310
+  offset: 0, 0
+  index: -1
+yuqun1.2
+  rotate: false
+  xy: 1074, 144
+  size: 747, 350
+  orig: 747, 350
+  offset: 0, 0
+  index: -1
+yuqun3.1
+  rotate: false
+  xy: 1074, 520
+  size: 135, 644
+  orig: 135, 644
+  offset: 0, 0
+  index: -1
+yuqun3.2
+  rotate: true
+  xy: 2, 2
+  size: 308, 521
+  orig: 308, 521
+  offset: 0, 0
+  index: -1
+yuqun3.3
+  rotate: false
+  xy: 1540, 496
+  size: 409, 748
+  orig: 409, 748
+  offset: 0, 0
+  index: -1
+yuqun3.5
+  rotate: false
+  xy: 1211, 840
+  size: 310, 324
+  orig: 310, 324
+  offset: 0, 0
+  index: -1
+yuqun3.7
+  rotate: true
+  xy: 525, 10
+  size: 300, 398
+  orig: 300, 398
+  offset: 0, 0
+  index: -1
+yuqun3.8
+  rotate: false
+  xy: 1823, 29
+  size: 184, 447
+  orig: 184, 448
+  offset: 0, 0
+  index: -1
+yuqun4.1
+  rotate: false
+  xy: 1540, 1246
+  size: 468, 784
+  orig: 468, 784
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1951, 540
+  size: 55, 166
+  orig: 55, 166
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 925, 53
+  size: 135, 257
+  orig: 135, 257
+  offset: 0, 0
+  index: -1
+
+activitybiankarole2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 13
+  size: 236, 260
+  orig: 238, 264
+  offset: 2, 0
+  index: -1
+yuqun2.1
+  rotate: false
+  xy: 2, 251
+  size: 508, 1090
+  orig: 508, 1090
+  offset: 0, 0
+  index: -1
+yuqun3.4
+  rotate: false
+  xy: 1079, 2
+  size: 639, 1041
+  orig: 639, 1041
+  offset: 0, 0
+  index: -1
+yuqun3.6
+  rotate: true
+  xy: 512, 133
+  size: 264, 564
+  orig: 264, 564
+  offset: 0, 0
+  index: -1
+yuqun3.91
+  rotate: false
+  xy: 512, 399
+  size: 565, 942
+  orig: 565, 942
+  offset: 0, 0
+  index: -1
+yuqun4.2
+  rotate: false
+  xy: 1128, 1045
+  size: 795, 926
+  orig: 795, 926
+  offset: 0, 0
+  index: -1
+yuqun4.3
+  rotate: false
+  xy: 2, 1343
+  size: 1124, 628
+  orig: 1124, 628
+  offset: 0, 0
+  index: -1

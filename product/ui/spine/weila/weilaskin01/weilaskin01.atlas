@@ -1,5 +1,5 @@
 
-WeilaSkin01.webp
+weilaskin01.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -1104,7 +1104,7 @@ zuoxiaotui
   offset: 0, 0
   index: -1
 
-WeilaSkin012.webp
+weilaskin012.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

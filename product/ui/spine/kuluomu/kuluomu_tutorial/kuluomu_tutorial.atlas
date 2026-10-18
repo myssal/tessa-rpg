@@ -1,5 +1,5 @@
 
-kuluomu_Tutorial.webp
+kuluomu_tutorial.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -355,7 +355,7 @@ zuoxiu_2
   offset: 1, 0
   index: -1
 
-kuluomu_Tutorial2.webp
+kuluomu_tutorial2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

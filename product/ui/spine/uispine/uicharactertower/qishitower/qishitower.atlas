@@ -1,5 +1,5 @@
 
-QishiTower.webp
+qishitower.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -572,7 +572,7 @@ zuoyan5
   offset: 0, 0
   index: -1
 
-QishiTower2.webp
+qishitower2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

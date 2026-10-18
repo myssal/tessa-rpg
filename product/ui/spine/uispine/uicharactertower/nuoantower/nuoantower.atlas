@@ -1,5 +1,5 @@
 
-NuoanTower.webp
+nuoantower.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -1930,7 +1930,7 @@ yanzhu_r
   offset: 0, 0
   index: -1
 
-NuoanTower2.webp
+nuoantower2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -2027,7 +2027,7 @@ xiaotui
   offset: 0, 0
   index: -1
 
-NuoanTower3.webp
+nuoantower3.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

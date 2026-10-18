@@ -1,0 +1,41 @@
+
+chaokalieloginbg.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1536, 864
+  orig: 1536, 864
+  offset: 0, 0
+  index: -1
+dimianshouyz
+  rotate: false
+  xy: 1710, 366
+  size: 260, 90
+  orig: 260, 90
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1540, 189
+  size: 267, 168
+  orig: 296, 195
+  offset: 1, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 1540, 26
+  size: 178, 161
+  orig: 194, 161
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 1540, 458
+  size: 408, 302
+  orig: 495, 418
+  offset: 87, 5
+  index: -1

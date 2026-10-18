@@ -1,5 +1,5 @@
 
-UiMovieQu01.webp
+uimoviequ01.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -663,7 +663,7 @@ zuoshouzhi
   offset: 0, 0
   index: -1
 
-UiMovieQu012.webp
+uimoviequ012.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -711,7 +711,7 @@ tf25
   offset: 0, 0
   index: -1
 
-UiMovieQu013.webp
+uimoviequ013.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -738,7 +738,7 @@ tf24
   offset: 0, 0
   index: -1
 
-UiMovieQu014.webp
+uimoviequ014.webp
 size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear

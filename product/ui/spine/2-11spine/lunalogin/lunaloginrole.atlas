@@ -1,5 +1,5 @@
 
-LunaLoginRole.webp
+lunaloginrole.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -509,7 +509,7 @@ zxt
   offset: 0, 0
   index: -1
 
-LunaLoginRole2.webp
+lunaloginrole2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

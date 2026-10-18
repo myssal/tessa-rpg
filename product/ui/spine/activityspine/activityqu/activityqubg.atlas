@@ -1,0 +1,76 @@
+
+activityqubg.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 151
+  size: 1537, 865
+  orig: 1537, 865
+  offset: 0, 0
+  index: -1
+zt-g1
+  rotate: false
+  xy: 1819, 682
+  size: 156, 334
+  orig: 156, 334
+  offset: 0, 0
+  index: -1
+zt-g2
+  rotate: false
+  xy: 1539, 214
+  size: 91, 363
+  orig: 91, 363
+  offset: 0, 0
+  index: -1
+zt-g3
+  rotate: true
+  xy: 442, 35
+  size: 114, 365
+  orig: 114, 365
+  offset: 0, 0
+  index: -1
+zt-g4
+  rotate: false
+  xy: 1662, 669
+  size: 155, 347
+  orig: 155, 347
+  offset: 0, 0
+  index: -1
+zt-g5
+  rotate: false
+  xy: 1539, 579
+  size: 121, 437
+  orig: 121, 437
+  offset: 0, 0
+  index: -1
+zt-g6
+  rotate: true
+  xy: 0, 30
+  size: 119, 440
+  orig: 119, 440
+  offset: 0, 0
+  index: -1
+zt-g7
+  rotate: true
+  xy: 809, 0
+  size: 149, 314
+  orig: 149, 314
+  offset: 0, 0
+  index: -1
+zt-g8
+  rotate: true
+  xy: 1125, 3
+  size: 146, 188
+  orig: 146, 188
+  offset: 0, 0
+  index: -1
+zt-g8.1
+  rotate: false
+  xy: 1632, 287
+  size: 172, 290
+  orig: 172, 290
+  offset: 0, 0
+  index: -1

@@ -1,5 +1,5 @@
 
-Main13_Spine_Luna.webp
+main13_spine_luna.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -474,7 +474,7 @@ zuoyanxian-luna
   offset: 0, 1
   index: -1
 
-Main13_Spine_Luna2.webp
+main13_spine_luna2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear

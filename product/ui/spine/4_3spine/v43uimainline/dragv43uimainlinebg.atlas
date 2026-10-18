@@ -1,5 +1,5 @@
 
-DragV43UiMainLineBg.webp
+dragv43uimainlinebg.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -40,7 +40,7 @@ UI_BG_up
   offset: 0, 0
   index: -1
 
-DragV43UiMainLineBg2.webp
+dragv43uimainlinebg2.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -116,7 +116,7 @@ UI_BG
   offset: 0, 0
   index: -1
 
-DragV43UiMainLineBg3.webp
+dragv43uimainlinebg3.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -220,7 +220,7 @@ D_UI_huo2
   offset: 0, 0
   index: -1
 
-DragV43UiMainLineBg4.webp
+dragv43uimainlinebg4.webp
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -576,7 +576,7 @@ guangyun
   offset: 0, 0
   index: -1
 
-DragV43UiMainLineBg5.webp
+dragv43uimainlinebg5.webp
 size: 2048,256
 format: RGBA8888
 filter: Linear,Linear

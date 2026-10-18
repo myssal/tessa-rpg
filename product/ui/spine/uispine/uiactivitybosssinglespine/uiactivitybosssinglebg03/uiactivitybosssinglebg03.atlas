@@ -1,0 +1,20 @@
+
+uiactivitybosssinglebg03.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg03
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+guangqia2
+  rotate: true
+  xy: 2, 1084
+  size: 392, 555
+  orig: 392, 556
+  offset: 0, 0
+  index: -1
