@@ -10676,6 +10676,44 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg2",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_bg2.webp",
+          "size": [8192.0, 4096.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Bg1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_bg1.webp",
+          "size": [2048.0, 2048.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Fn_2",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_fn_2.webp",
+          "size": [2048.0, 2048.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_fn_1.webp",
+          "size": [1024.0, 1024.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "bone" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10696,6 +10734,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage2_lifu/v46_tuningstage2_lifu_b_2.webp",
+          "size": [5120.0, 3285.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage2_lifu/v46_tuningstage2_lifu_fn_1.webp",
+          "size": [793.5, 765.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10716,6 +10774,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li_bg_2.webp",
+          "size": [2457.6001, 1548.0001],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li_fn_1.webp",
+          "size": [532.0, 595.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10736,6 +10814,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage4_shenwei/v46_tuningstage4_shenwei_bg_1.webp",
+          "size": [6144.0, 3618.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "Bg2" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage4_shenwei/v46_tuningstage4_shenwei_fn_1.webp",
+          "size": [1180.0, 866.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "Bg2" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10756,6 +10854,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage5_sailinna/v46_tuningstage5_sailinna_bg1.webp",
+          "size": [8192.0, 4944.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage5_sailinna/v46_tuningstage5_sailinna_fn1.webp",
+          "size": [1472.5099, 1235.6697],
+          "position": [0.0, 0.0],
+          "alpha": 0.417,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10777,6 +10895,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage6_kalienina/v46_tuningstage6_kalienina_bg1.webp",
+          "size": [10240.0, 6810.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage6_kalienina/v46_tuningstage6_kalienina_fn1.webp",
+          "size": [1600.0, 1348.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10798,6 +10936,17 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage7_luolan/v46_tuningstage7_luolan_bg1.webp",
+          "size": [8192.0, 5448.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {
@@ -10819,6 +10968,26 @@
         }
       ],
       "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage8_aerfa/v46_tuningstage8_aerfa_bg1.webp",
+          "size": [11264.0, 7535.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "Bg" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage8_aerfa/v46_tuningstage8_aerfa_fn1.webp",
+          "size": [1536.0, 1191.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "Bg" }
+        }
+      ],
       "foundSize": [1920, 1080]
     },
     {

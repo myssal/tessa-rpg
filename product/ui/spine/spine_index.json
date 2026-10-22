@@ -89,8 +89,8 @@
           "name": "Bg",
           "skeleton": "2-11spine/lamiyaskin/lamiyaskinbg.json",
           "atlas": "2-11spine/lamiyaskin/lamiyaskinbg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.501,
+          "position": [10.326, 25.56],
+          "scale": 0.504,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -98,8 +98,8 @@
           "name": "Role",
           "skeleton": "2-11spine/lamiyaskin/lamiyaskinrole.json",
           "atlas": "2-11spine/lamiyaskin/lamiyaskinrole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.501,
+          "position": [10.326, 25.56],
+          "scale": 0.504,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -107,8 +107,8 @@
           "name": "Qj",
           "skeleton": "2-11spine/lamiyaskin/lamiyaskinqj.json",
           "atlas": "2-11spine/lamiyaskin/lamiyaskinqj.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.501,
+          "position": [10.326, 25.56],
+          "scale": 0.504,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -116,8 +116,8 @@
           "name": "lvjing",
           "skeleton": "2-11spine/lamiyaskin/lamiyaskinlvjing.json",
           "atlas": "2-11spine/lamiyaskin/lamiyaskinlvjing.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.501,
+          "position": [10.326, 25.56],
+          "scale": 0.504,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -277,7 +277,7 @@
           "name": "ChessMainLuna",
           "skeleton": "2-11spine/uiblackrockchessmain/skeleton/uiblackrockchessmainluna.json",
           "atlas": "2-11spine/uiblackrockchessmain/skeleton/uiblackrockchessmainluna.atlas",
-          "position": [-415.9999, 101.0],
+          "position": [-204, 65],
           "scale": 1.0,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -286,7 +286,7 @@
           "name": "ChessMainLuxiya",
           "skeleton": "2-11spine/uiblackrockchessmain/skeleton/uiblackrockchessmainluxiya.json",
           "atlas": "2-11spine/uiblackrockchessmain/skeleton/uiblackrockchessmainluxiya.atlas",
-          "position": [123.0, -49.0],
+          "position": [335, -85],
           "scale": 1.0,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -306,7 +306,7 @@
           "name": "uiblackrockchessmainluna2",
           "skeleton": "2-11spine/uiblackrockchessmain/skeletongraphic/uiblackrockchessmainluna2.json",
           "atlas": "2-11spine/uiblackrockchessmain/skeletongraphic/uiblackrockchessmainluna2.atlas",
-          "position": null,
+          "position": [-67, 13],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -325,7 +325,7 @@
           "name": "Role2",
           "skeleton": "2-11spine/uimoviespine/uimoviejisi/uimoviejisirole2.json",
           "atlas": "2-11spine/uimoviespine/uimoviejisi/uimoviejisirole2.atlas",
-          "position": [0, 0],
+          "position": [25, 18],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -334,7 +334,7 @@
           "name": "Kou",
           "skeleton": "2-11spine/uimoviespine/uimoviejisi/uimoviejisikou.json",
           "atlas": "2-11spine/uimoviespine/uimoviejisi/uimoviejisikou.atlas",
-          "position": [0, 0],
+          "position": [-165, -71],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -343,7 +343,7 @@
           "name": "Role",
           "skeleton": "2-11spine/uimoviespine/uimoviejisi/uimoviejisirole.json",
           "atlas": "2-11spine/uimoviespine/uimoviejisi/uimoviejisirole.atlas",
-          "position": [0, 0],
+          "position": [-165, -71],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -369,8 +369,8 @@
           "name": "Role",
           "skeleton": "2-11spine/uimoviespine/uimovielamiy01/uimovielamiy01.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiy01/uimovielamiy01.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.501,
+          "position": [-4.2, 8.361],
+          "scale": 0.505,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -477,7 +477,7 @@
           "name": "Role2",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/huyaozhansun/lamiyaskinrole2.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/huyaozhansun/lamiyaskinrole2.atlas",
-          "position": [0, 0],
+          "position": [7, -9],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -486,7 +486,7 @@
           "name": "Kou",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/wuqizhansun/lamiyaskinkou.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/wuqizhansun/lamiyaskinkou.atlas",
-          "position": [0, 0],
+          "position": [7, -9],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -495,7 +495,7 @@
           "name": "Role",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/huyaozhansun/lamiyaskinrole.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/huyaozhansun/lamiyaskinrole.atlas",
-          "position": [0, 0],
+          "position": [7, -9],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -521,7 +521,7 @@
           "name": "Role2",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinrole2.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinrole2.atlas",
-          "position": [0, 0],
+          "position": [28, 8],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -530,7 +530,7 @@
           "name": "Kou",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinkou.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinkou.atlas",
-          "position": [0, 0],
+          "position": [28, 8],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -539,7 +539,7 @@
           "name": "Role",
           "skeleton": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinrole.json",
           "atlas": "2-11spine/uimoviespine/uimovielamiyaskin/putong/uimovielamiyaskinrole.atlas",
-          "position": [0, 0],
+          "position": [28, 8],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -702,7 +702,7 @@
           "name": "Role2",
           "skeleton": "2-11spine/uimoviespine/uimovienmgirl/uimovienmgirlrole.json",
           "atlas": "2-11spine/uimoviespine/uimovienmgirl/uimovienmgirlrole.atlas",
-          "position": [0, 0],
+          "position": [11, 83],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -711,7 +711,7 @@
           "name": "Kou",
           "skeleton": "2-11spine/uimoviespine/uimovienmgirl/uimovienmgirlkou.json",
           "atlas": "2-11spine/uimoviespine/uimovienmgirl/uimovienmgirlkou.atlas",
-          "position": [0, 0],
+          "position": [11, 83],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "A"
@@ -1059,15 +1059,15 @@
       "source": "skeleton",
       "name": "2-12spine/bulijitelogin/bulijitelogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "bulijitelogin",
           "skeleton": "2-12spine/bulijitelogin/bulijitelogin.json",
           "atlas": "2-12spine/bulijitelogin/bulijitelogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [9.662, -2.501],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -1114,8 +1114,8 @@
           "name": "Hit",
           "skeleton": "2-12spine/uihitmouse2-12spine/hanying/hanyinghit.json",
           "atlas": "2-12spine/uihitmouse2-12spine/hanying/hanyinghit.atlas",
-          "position": [0, 0],
-          "scale": 1,
+          "position": [4.92, -22.665],
+          "scale": 1.027,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -1123,8 +1123,8 @@
           "name": "Normal",
           "skeleton": "2-12spine/uihitmouse2-12spine/hanying/hanyingnormal.json",
           "atlas": "2-12spine/uihitmouse2-12spine/hanying/hanyingnormal.atlas",
-          "position": [0, 0],
-          "scale": 1,
+          "position": [4.92, -22.665],
+          "scale": 1.027,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -1143,7 +1143,7 @@
           "name": "Hit",
           "skeleton": "2-12spine/uihitmouse2-12spine/weiluonikaboss/bossnormal.json",
           "atlas": "2-12spine/uihitmouse2-12spine/weiluonikaboss/bossnormal.atlas",
-          "position": [0, 0],
+          "position": [4, -77],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -1152,7 +1152,7 @@
           "name": "Normal",
           "skeleton": "2-12spine/uihitmouse2-12spine/weiluonikaboss/bossnormal.json",
           "atlas": "2-12spine/uihitmouse2-12spine/weiluonikaboss/bossnormal.atlas",
-          "position": [0, 0],
+          "position": [4, -77],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -1222,15 +1222,15 @@
       "source": "skeleton",
       "name": "2-13spine/hanyinglogin/hanyinglogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "hanyinglogin",
           "skeleton": "2-13spine/hanyinglogin/hanyinglogin.json",
           "atlas": "2-13spine/hanyinglogin/hanyinglogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-6.981, 6.412],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -1438,8 +1438,8 @@
           "name": "Bg",
           "skeleton": "2-14spine/activitywanshi/activitywanshibg.json",
           "atlas": "2-14spine/activitywanshi/activitywanshibg.atlas",
-          "position": [262.0, -1.0],
-          "scale": 0.64,
+          "position": [-49.729, -20.422],
+          "scale": 0.628,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -1447,8 +1447,8 @@
           "name": "Shu",
           "skeleton": "2-14spine/activitywanshi/activitywanshishu.json",
           "atlas": "2-14spine/activitywanshi/activitywanshishu.atlas",
-          "position": [262.0, -1.0],
-          "scale": 0.64,
+          "position": [-49.729, -20.422],
+          "scale": 0.628,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -1456,8 +1456,8 @@
           "name": "Hupo",
           "skeleton": "2-14spine/activitywanshi/activitywanshihupo.json",
           "atlas": "2-14spine/activitywanshi/activitywanshihupo.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-306.535, -19.442],
+          "scale": 0.981,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -1465,8 +1465,8 @@
           "name": "Role",
           "skeleton": "2-14spine/activitywanshi/activitywanshirole.json",
           "atlas": "2-14spine/activitywanshi/activitywanshirole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-306.535, -19.442],
+          "scale": 0.981,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -1474,8 +1474,8 @@
           "name": "Qj",
           "skeleton": "2-14spine/activitywanshi/activitywanshiqj.json",
           "atlas": "2-14spine/activitywanshi/activitywanshiqj.atlas",
-          "position": [262.0, -1.0],
-          "scale": 0.64,
+          "position": [-49.729, -20.422],
+          "scale": 0.628,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -1494,8 +1494,8 @@
           "name": "Role",
           "skeleton": "2-14spine/uilinearithmeticmainwanshi/uilinearithmeticmainwanshi.json",
           "atlas": "2-14spine/uilinearithmeticmainwanshi/uilinearithmeticmainwanshi.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [72.949, 15.29],
+          "scale": 2,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -1632,15 +1632,15 @@
       "source": "skeleton",
       "name": "2-14spine/wanshilogin/wanshilogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "wanshilogin",
           "skeleton": "2-14spine/wanshilogin/wanshilogin.json",
           "atlas": "2-14spine/wanshilogin/wanshilogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-6.377, -1.373],
+          "scale": 0.514,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -1919,7 +1919,7 @@
           "name": "Role2",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01role2.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01role2.atlas",
-          "position": [0, 0],
+          "position": [-100, 6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1928,7 +1928,7 @@
           "name": "Kou",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01kou.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01kou.atlas",
-          "position": [0, 0],
+          "position": [-100, 6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1937,7 +1937,7 @@
           "name": "Role",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01role.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin01/uimoviealphaskin01role.atlas",
-          "position": [0, 0],
+          "position": [-100, 6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1963,7 +1963,7 @@
           "name": "FxHuo",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02fxhuo.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02fxhuo.atlas",
-          "position": [0, 0],
+          "position": [-55, 14],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1972,7 +1972,7 @@
           "name": "Role2",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02role2.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02role2.atlas",
-          "position": [0, 0],
+          "position": [-55, 14],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1981,7 +1981,7 @@
           "name": "Kou",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02kou.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02kou.atlas",
-          "position": [0, 0],
+          "position": [-55, 14],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -1990,7 +1990,7 @@
           "name": "Role",
           "skeleton": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02role.json",
           "atlas": "2-15spine/uimoviespine/uimoviealphaskin02/uimoviealphaskin02role.atlas",
-          "position": [0, 0],
+          "position": [-55, 14],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -2016,7 +2016,7 @@
           "name": "Role2",
           "skeleton": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbossrole2.json",
           "atlas": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbossrole2.atlas",
-          "position": [0, 0],
+          "position": [-4, -6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -2025,7 +2025,7 @@
           "name": "Kou",
           "skeleton": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbosskou.json",
           "atlas": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbosskou.atlas",
-          "position": [0, 0],
+          "position": [-4, -6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -2034,7 +2034,7 @@
           "name": "Role",
           "skeleton": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbossrole.json",
           "atlas": "2-15spine/uimoviespine/uimoviehbboss/uimoviehbbossrole.atlas",
-          "position": [0, 0],
+          "position": [-4, -6],
           "scale": 1,
           "pivot": [0.5, 0],
           "defaultAnimation": "idle"
@@ -2463,8 +2463,8 @@
           "name": "Bg",
           "skeleton": "2-16spine/activitybazhi/activitybazhibg.json",
           "atlas": "2-16spine/activitybazhi/activitybazhibg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-4.52, -71.331],
+          "scale": 1.047,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -2472,8 +2472,8 @@
           "name": "Role",
           "skeleton": "2-16spine/activitybazhi/activitybazhirole.json",
           "atlas": "2-16spine/activitybazhi/activitybazhirole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-4.52, -71.331],
+          "scale": 1.047,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -2485,15 +2485,15 @@
       "source": "skeleton",
       "name": "2-16spine/bazhilogin/bazhilogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "bazhilogin",
           "skeleton": "2-16spine/bazhilogin/bazhilogin.json",
           "atlas": "2-16spine/bazhilogin/bazhilogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-7.161, 4.317],
+          "scale": 0.506,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -2531,8 +2531,8 @@
           "name": "Zj",
           "skeleton": "2-17spine/activityqishi/activityqishizj/activityqishizj.json",
           "atlas": "2-17spine/activityqishi/activityqishizj/activityqishizj.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.8,
+          "position": [-98.55, -97.008],
+          "scale": 0.885,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -2540,13 +2540,24 @@
           "name": "Role",
           "skeleton": "2-17spine/activityqishi/activityqishirole/activityqishirole.json",
           "atlas": "2-17spine/activityqishi/activityqishirole/activityqishirole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.8,
+          "position": [-98.55, -97.008],
+          "scale": 0.885,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg",
+          "texture": "2-17spine/activityqishi/houjing_21.webp",
+          "size": [2097, 1080],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": null
+        }
+      ]
     },
     {
       "version": 1,
@@ -2582,15 +2593,15 @@
       "source": "skeleton",
       "name": "2-17spine/loginqishi/loginqishi",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "loginqishi",
           "skeleton": "2-17spine/loginqishi/loginqishi.json",
           "atlas": "2-17spine/loginqishi/loginqishi.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.783, 12.526],
+          "scale": 0.498,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -2608,8 +2619,8 @@
           "name": "Bg",
           "skeleton": "2-17spine/qishitutorial/qishitutorial_bg/qishitutorial_bg.json",
           "atlas": "2-17spine/qishitutorial/qishitutorial_bg/qishitutorial_bg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [34.024, 18.117],
+          "scale": 0.499,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -2617,8 +2628,8 @@
           "name": "Role",
           "skeleton": "2-17spine/qishitutorial/qishitutorial_role/qishitutorial_role.json",
           "atlas": "2-17spine/qishitutorial/qishitutorial_role/qishitutorial_role.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.5,
+          "position": [21.537, -22.312],
+          "scale": 0.465,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -2714,7 +2725,7 @@
           "name": "uiriftqishi",
           "skeleton": "2-17spine/uiriftqishi/uiriftqishi.json",
           "atlas": "2-17spine/uiriftqishi/uiriftqishi.atlas",
-          "position": null,
+          "position": [9, -354],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -2809,8 +2820,8 @@
           "name": "chibeizhelogin_role",
           "skeleton": "3-0spine/chibeizhelogin/chibeizhelogin_role/chibeizhelogin_role.json",
           "atlas": "3-0spine/chibeizhelogin/chibeizhelogin_role/chibeizhelogin_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [739.193, 714.647],
+          "scale": 1.777,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -2899,15 +2910,15 @@
       "source": "prefab",
       "name": "3-0spine/lunaskinv30/lunaskinv30passport",
       "prefab": "assets/product/ui/spine/3-0spine/lunaskinv30/lunaskinv30passport.prefab",
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": "idle",
       "layers": [
         {
           "name": "bg",
           "skeleton": "3-0spine/lunaskinv30/lunaskinv30bg.json",
           "atlas": "3-0spine/lunaskinv30/lunaskinv30bg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [-9.823, -2.957],
+          "scale": 0.506,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -2915,8 +2926,8 @@
           "name": "role",
           "skeleton": "3-0spine/lunaskinv30/lunaskinv30role.json",
           "atlas": "3-0spine/lunaskinv30/lunaskinv30role.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [-9.823, -2.957],
+          "scale": 0.506,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -3178,15 +3189,15 @@
       "source": "skeleton",
       "name": "3-1spine/lilisiloginv31/lilisiloginv31",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "lilisiloginv31",
           "skeleton": "3-1spine/lilisiloginv31/lilisiloginv31.json",
           "atlas": "3-1spine/lilisiloginv31/lilisiloginv31.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-28.953, -18.771],
+          "scale": 0.529,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -3347,55 +3358,33 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-2spine/sailingnaloginv32/sailingnaloginv32bg",
+      "name": "3-2spine/sailingnaloginv32/sailingnaloginv32bg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "sailingnaloginv32bg",
           "skeleton": "3-2spine/sailingnaloginv32/sailingnaloginv32bg.json",
           "atlas": "3-2spine/sailingnaloginv32/sailingnaloginv32bg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.571, 0.039],
+          "scale": 0.377,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-2spine/sailingnaloginv32/sailingnaloginv32fn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "sailingnaloginv32fn",
           "skeleton": "3-2spine/sailingnaloginv32/sailingnaloginv32fn.json",
           "atlas": "3-2spine/sailingnaloginv32/sailingnaloginv32fn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.571, 0.039],
+          "scale": 0.377,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-2spine/sailingnaloginv32/sailingnaloginv32role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "sailingnaloginv32role",
           "skeleton": "3-2spine/sailingnaloginv32/sailingnaloginv32role.json",
           "atlas": "3-2spine/sailingnaloginv32/sailingnaloginv32role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.571, 0.039],
+          "scale": 0.377,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -4261,15 +4250,15 @@
       "source": "skeleton",
       "name": "3-3spine/jietaweiloginv33/jietaweiloginv33",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "jietaweiloginv33",
           "skeleton": "3-3spine/jietaweiloginv33/jietaweiloginv33.json",
           "atlas": "3-3spine/jietaweiloginv33/jietaweiloginv33.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.824, -2.379],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -4659,8 +4648,8 @@
           "name": "Role",
           "skeleton": "3-4spine/weilaqv34/weilaq_lose_v34/weilaq_lose_v34.json",
           "atlas": "3-4spine/weilaqv34/weilaq_lose_v34/weilaq_lose_v34.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-3.649, -48.14],
+          "scale": 0.184,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -4679,8 +4668,8 @@
           "name": "Role",
           "skeleton": "3-4spine/weilaqv34/weilaq_win_v34/weilaq_win_v34.json",
           "atlas": "3-4spine/weilaqv34/weilaq_win_v34/weilaq_win_v34.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [3.123, -47.01],
+          "scale": 0.133,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -4690,112 +4679,57 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34bg",
+      "name": "3-4spine/weilatutorialv34/weilatutorialv34bg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "weilatutorialv34bg",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34bg.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34bg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.391, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34bgeffect",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weilatutorialv34bgeffect",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34bgeffect.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34bgeffect.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.391, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34bgfn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weilatutorialv34bgfn",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34bgfn.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34bgfn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.391, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34bgrole1",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weilatutorialv34bgrole1",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34bgrole1.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34bgrole1.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.391, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34bgrole2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weilatutorialv34bgrole2",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34bgrole2.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34bgrole2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.391, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-4spine/weilatutorialv34/weilatutorialv34role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weilatutorialv34role",
           "skeleton": "3-4spine/weilatutorialv34/weilatutorialv34role.json",
           "atlas": "3-4spine/weilatutorialv34/weilatutorialv34role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.545, -3.596],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -4869,74 +4803,41 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-5spine/guiqiloginv35/guiqiloginv35_bg",
+      "name": "3-5spine/guiqiloginv35/guiqiloginv35_bg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "guiqiloginv35_bg",
           "skeleton": "3-5spine/guiqiloginv35/guiqiloginv35_bg.json",
           "atlas": "3-5spine/guiqiloginv35/guiqiloginv35_bg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.414, -30.144],
+          "scale": 0.528,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-5spine/guiqiloginv35/guiqiloginv35_effect",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "guiqiloginv35_effect",
           "skeleton": "3-5spine/guiqiloginv35/guiqiloginv35_effect.json",
           "atlas": "3-5spine/guiqiloginv35/guiqiloginv35_effect.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.414, -30.144],
+          "scale": 0.528,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-5spine/guiqiloginv35/guiqiloginv35_fn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "guiqiloginv35_fn",
           "skeleton": "3-5spine/guiqiloginv35/guiqiloginv35_fn.json",
           "atlas": "3-5spine/guiqiloginv35/guiqiloginv35_fn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.414, -30.144],
+          "scale": 0.528,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-5spine/guiqiloginv35/guiqiloginv35_role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "guiqiloginv35_role",
           "skeleton": "3-5spine/guiqiloginv35/guiqiloginv35_role.json",
           "atlas": "3-5spine/guiqiloginv35/guiqiloginv35_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.414, -30.144],
+          "scale": 0.528,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -5059,74 +4960,41 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-6spine/biankaloginv36/biankaloginv36_bg1",
+      "name": "3-6spine/biankaloginv36/biankaloginv36_bg1_glue",
       "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "biankaloginv36_bg1",
-          "skeleton": "3-6spine/biankaloginv36/biankaloginv36_bg1.json",
-          "atlas": "3-6spine/biankaloginv36/biankaloginv36_bg1.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-6spine/biankaloginv36/biankaloginv36_bg2",
-      "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "biankaloginv36_bg2",
           "skeleton": "3-6spine/biankaloginv36/biankaloginv36_bg2.json",
           "atlas": "3-6spine/biankaloginv36/biankaloginv36_bg2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [2.95, 4.843],
+          "scale": 0.505,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-6spine/biankaloginv36/biankaloginv36_fn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
+        {
+          "name": "biankaloginv36_bg1",
+          "skeleton": "3-6spine/biankaloginv36/biankaloginv36_bg1.json",
+          "atlas": "3-6spine/biankaloginv36/biankaloginv36_bg1.atlas",
+          "position": [2.95, 4.843],
+          "scale": 0.505,
+          "pivot": [0.5, 0.5]
+        },
         {
           "name": "biankaloginv36_fn",
           "skeleton": "3-6spine/biankaloginv36/biankaloginv36_fn.json",
           "atlas": "3-6spine/biankaloginv36/biankaloginv36_fn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [2.95, 4.843],
+          "scale": 0.505,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-6spine/biankaloginv36/biankaloginv36_role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "biankaloginv36_role",
           "skeleton": "3-6spine/biankaloginv36/biankaloginv36_role.json",
           "atlas": "3-6spine/biankaloginv36/biankaloginv36_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [2.95, 4.843],
+          "scale": 0.505,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -6810,7 +6678,7 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-7spine/xiezouloginv37/xiezouloginv37bg",
+      "name": "3-7spine/xiezouloginv37/xiezouloginv37bg_glue",
       "prefab": null,
       "size": null,
       "defaultAnimation": null,
@@ -6822,18 +6690,7 @@
           "position": null,
           "scale": 1.0,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-7spine/xiezouloginv37/xiezouloginv37role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "xiezouloginv37role",
           "skeleton": "3-7spine/xiezouloginv37/xiezouloginv37role.json",
@@ -6991,7 +6848,7 @@
           "name": "weiluonikaactivityv38fuben",
           "skeleton": "3-8spine/weiluonikaactivityv38fuben/weiluonikaactivityv38fuben.json",
           "atlas": "3-8spine/weiluonikaactivityv38fuben/weiluonikaactivityv38fuben.atlas",
-          "position": null,
+          "position": [-73, 12],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -7001,93 +6858,49 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38bg",
+      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38bg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "weiluonikaloginv38bg",
           "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38bg.json",
           "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38bg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.507, -13.009],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38fn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "weiluonikaloginv38fn",
-          "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38fn.json",
-          "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38fn.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38md",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weiluonikaloginv38md",
           "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38md.json",
           "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38md.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.507, -13.009],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role1_08",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
-          "name": "weiluonikaloginv38role1_08",
-          "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role1_08.json",
-          "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role1_08.atlas",
-          "position": null,
-          "scale": 1.0,
+          "name": "weiluonikaloginv38fn",
+          "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38fn.json",
+          "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38fn.atlas",
+          "position": [-8.507, -13.009],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weiluonikaloginv38role2",
           "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role2.json",
           "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.507, -13.009],
+          "scale": 0.508,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "weiluonikaloginv38role1_08",
+          "skeleton": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role1_08.json",
+          "atlas": "3-8spine/weiluonikaloginv38/weiluonikaloginv38role1_08.atlas",
+          "position": [-8.507, -13.009],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -7201,7 +7014,7 @@
     {
       "version": 1,
       "source": "prefab",
-      "name": "3-8spine/weiluonikauiriftv38/weiluonikauiriftv38",
+      "name": "3-8spine/weiluonikauiriftv38/weiluonikauiriftv38_glue",
       "prefab": "assets/product/ui/spine/3-8spine/weiluonikauiriftv38/weiluonikauiriftv38.prefab",
       "size": [1920, 1080],
       "defaultAnimation": "idle",
@@ -7223,24 +7036,13 @@
           "scale": 0.51,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "3-8spine/weiluonikauiriftv38/weiluonikauiriftv38_role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "weiluonikauiriftv38_role",
           "skeleton": "3-8spine/weiluonikauiriftv38/weiluonikauiriftv38_role.json",
           "atlas": "3-8spine/weiluonikauiriftv38/weiluonikauiriftv38_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [248.826, -61.58],
+          "scale": 0.424,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -7511,8 +7313,8 @@
           "name": "Bg4",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40bg4.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40bg4.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7520,8 +7322,8 @@
           "name": "Bg3",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40bg3.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40bg3.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7529,8 +7331,8 @@
           "name": "Role_Shadow",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40roles_s05.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40roles_s05.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7538,8 +7340,8 @@
           "name": "Bg2",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40bg2.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40bg2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7547,8 +7349,8 @@
           "name": "Role",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40role_s1.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40role_s1.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7556,8 +7358,8 @@
           "name": "Fn",
           "skeleton": "4-0spine/godlifuactivityv40/godlifuactivityv40fn_s1.json",
           "atlas": "4-0spine/godlifuactivityv40/godlifuactivityv40fn_s1.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.459,
+          "position": [2.178, -7.6],
+          "scale": 0.596,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -7623,150 +7425,73 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40bg",
+      "name": "4-0spine/slifuloginv40/slifuloginv40suipian_glue",
       "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "slifuloginv40bg",
-          "skeleton": "4-0spine/slifuloginv40/slifuloginv40bg.json",
-          "atlas": "4-0spine/slifuloginv40/slifuloginv40bg.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40fn",
-      "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "slifuloginv40fn",
           "skeleton": "4-0spine/slifuloginv40/slifuloginv40fn.json",
           "atlas": "4-0spine/slifuloginv40/slifuloginv40fn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.194, 5.283],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40fx",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "slifuloginv40fx",
           "skeleton": "4-0spine/slifuloginv40/slifuloginv40fx.json",
           "atlas": "4-0spine/slifuloginv40/slifuloginv40fx.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.194, 5.283],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40role1",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
-          "name": "slifuloginv40role1",
-          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role1.json",
-          "atlas": "4-0spine/slifuloginv40/slifuloginv40role1.atlas",
-          "position": null,
-          "scale": 1.0,
+          "name": "slifuloginv40bg",
+          "skeleton": "4-0spine/slifuloginv40/slifuloginv40bg.json",
+          "atlas": "4-0spine/slifuloginv40/slifuloginv40bg.atlas",
+          "position": [3.194, 5.283],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40role2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "slifuloginv40role2",
-          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role2.json",
-          "atlas": "4-0spine/slifuloginv40/slifuloginv40role2.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40role3",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "slifuloginv40role3",
-          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role3.json",
-          "atlas": "4-0spine/slifuloginv40/slifuloginv40role3.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40role4",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "slifuloginv40role4",
-          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role4.json",
-          "atlas": "4-0spine/slifuloginv40/slifuloginv40role4.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/slifuloginv40/slifuloginv40suipian",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "slifuloginv40suipian",
           "skeleton": "4-0spine/slifuloginv40/slifuloginv40suipian.json",
           "atlas": "4-0spine/slifuloginv40/slifuloginv40suipian.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [3.194, 5.283],
+          "scale": 0.511,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "slifuloginv40role1",
+          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role1.json",
+          "atlas": "4-0spine/slifuloginv40/slifuloginv40role1.atlas",
+          "position": [3.194, 5.283],
+          "scale": 0.511,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "slifuloginv40role2",
+          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role2.json",
+          "atlas": "4-0spine/slifuloginv40/slifuloginv40role2.atlas",
+          "position": [1.149, -0.337],
+          "scale": 0.511,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "slifuloginv40role3",
+          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role3.json",
+          "atlas": "4-0spine/slifuloginv40/slifuloginv40role3.atlas",
+          "position": [3.194, 5.283],
+          "scale": 0.511,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "slifuloginv40role4",
+          "skeleton": "4-0spine/slifuloginv40/slifuloginv40role4.json",
+          "atlas": "4-0spine/slifuloginv40/slifuloginv40role4.atlas",
+          "position": [3.194, 5.283],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -7775,11 +7500,27 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role1",
+      "name": "4-0spine/uiactivitybosssinglelifuv40eyes_glue",
       "prefab": null,
       "size": null,
       "defaultAnimation": null,
       "layers": [
+        {
+          "name": "uiactivitybosssinglelifuv40eyes",
+          "skeleton": "4-0spine/uiactivitybosssinglelifuv40eyes/uiactivitybosssinglelifuv40eyes.json",
+          "atlas": "4-0spine/uiactivitybosssinglelifuv40eyes/uiactivitybosssinglelifuv40eyes.atlas",
+          "position": null,
+          "scale": 1.0,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "uiactivitybosssinglelifuv40role2_09",
+          "skeleton": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.json",
+          "atlas": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.atlas",
+          "position": null,
+          "scale": 1.0,
+          "pivot": [0.5, 0.5]
+        },
         {
           "name": "uiactivitybosssinglelifuv40role1",
           "skeleton": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role1.json",
@@ -7794,34 +7535,31 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09",
+      "name": "4-0spine/uiactivitybosssinglelifuv40role1_glue",
       "prefab": null,
       "size": null,
       "defaultAnimation": null,
       "layers": [
         {
-          "name": "uiactivitybosssinglelifuv40role2_09",
-          "skeleton": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.json",
-          "atlas": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.atlas",
+          "name": "uiactivitybosssinglelifuv40role1",
+          "skeleton": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role1.json",
+          "atlas": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role1.atlas",
           "position": null,
           "scale": 1.0,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4-0spine/uiactivitybosssinglelifuv40eyes/uiactivitybosssinglelifuv40eyes",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "uiactivitybosssinglelifuv40eyes",
           "skeleton": "4-0spine/uiactivitybosssinglelifuv40eyes/uiactivitybosssinglelifuv40eyes.json",
           "atlas": "4-0spine/uiactivitybosssinglelifuv40eyes/uiactivitybosssinglelifuv40eyes.atlas",
+          "position": null,
+          "scale": 1.0,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "uiactivitybosssinglelifuv40role2_09",
+          "skeleton": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.json",
+          "atlas": "4-0spine/uiactivitybosssinglelifuv40/uiactivitybosssinglelifuv40role2_09.atlas",
           "position": null,
           "scale": 1.0,
           "pivot": [0.5, 0.5]
@@ -7935,8 +7673,8 @@
           "name": "Bg",
           "skeleton": "4_1spine/buouxiongactivityv41/buouxiongactivityv41bg.json",
           "atlas": "4_1spine/buouxiongactivityv41/buouxiongactivityv41bg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [11.036, 1.293],
+          "scale": 0.602,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7944,8 +7682,8 @@
           "name": "Bg2",
           "skeleton": "4_1spine/buouxiongactivityv41/buouxiongactivityv41bg2.json",
           "atlas": "4_1spine/buouxiongactivityv41/buouxiongactivityv41bg2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [11.036, 1.293],
+          "scale": 0.602,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7953,8 +7691,8 @@
           "name": "Role2",
           "skeleton": "4_1spine/buouxiongactivityv41/buouxiongactivityv41role2.json",
           "atlas": "4_1spine/buouxiongactivityv41/buouxiongactivityv41role2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [11.036, 1.293],
+          "scale": 0.602,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7962,8 +7700,8 @@
           "name": "Role1",
           "skeleton": "4_1spine/buouxiongactivityv41/buouxiongactivityv41role1.json",
           "atlas": "4_1spine/buouxiongactivityv41/buouxiongactivityv41role1.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [11.036, 1.293],
+          "scale": 0.602,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -7971,8 +7709,8 @@
           "name": "Fn",
           "skeleton": "4_1spine/buouxiongactivityv41/buouxiongactivityv41fn.json",
           "atlas": "4_1spine/buouxiongactivityv41/buouxiongactivityv41fn.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [11.036, 1.293],
+          "scale": 0.602,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -8134,8 +7872,8 @@
           "name": "Role",
           "skeleton": "4_2spine/v42autowindow_biankaskin/v42autowindow_biankaskin.json",
           "atlas": "4_2spine/v42autowindow_biankaskin/v42autowindow_biankaskin.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [27, 4],
+          "scale": 0.427,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -8165,131 +7903,65 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitabg1",
+      "name": "4_2spine/v42login_luosaita/v42login_luosaitabg1_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "v42login_luosaitabg1",
           "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitabg1.json",
           "atlas": "4_2spine/v42login_luosaita/v42login_luosaitabg1.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.274, -7.722],
+          "scale": 0.503,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitabg2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v42login_luosaitabg2",
           "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitabg2.json",
           "atlas": "4_2spine/v42login_luosaita/v42login_luosaitabg2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.274, -7.722],
+          "scale": 0.503,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitafn",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v42login_luosaitafn",
           "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitafn.json",
           "atlas": "4_2spine/v42login_luosaita/v42login_luosaitafn.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.274, -7.722],
+          "scale": 0.503,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitarole1",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v42login_luosaitarole1",
           "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole1.json",
           "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole1.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.274, -7.722],
+          "scale": 0.503,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitarole2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v42login_luosaitarole2",
-          "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole2.json",
-          "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole2.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitarole3",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v42login_luosaitarole3",
-          "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole3.json",
-          "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole3.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_2spine/v42login_luosaita/v42login_luosaitarole4",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v42login_luosaitarole4",
           "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole4.json",
           "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole4.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.274, -7.722],
+          "scale": 0.503,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "v42login_luosaitarole3",
+          "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole3.json",
+          "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole3.atlas",
+          "position": [21.875, -14.268],
+          "scale": 0.503,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "v42login_luosaitarole2",
+          "skeleton": "4_2spine/v42login_luosaita/v42login_luosaitarole2.json",
+          "atlas": "4_2spine/v42login_luosaita/v42login_luosaitarole2.atlas",
+          "position": [7.274, -7.722],
+          "scale": 0.503,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -8760,36 +8432,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4_3spine/v43loginnietiya/v43loginnietiya_niao",
+      "name": "4_3spine/v43loginnietiya/v43loginnietiya_role_glue",
       "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v43loginnietiya_niao",
-          "skeleton": "4_3spine/v43loginnietiya/v43loginnietiya_niao.json",
-          "atlas": "4_3spine/v43loginnietiya/v43loginnietiya_niao.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_3spine/v43loginnietiya/v43loginnietiya_role",
-      "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "v43loginnietiya_role",
           "skeleton": "4_3spine/v43loginnietiya/v43loginnietiya_role.json",
           "atlas": "4_3spine/v43loginnietiya/v43loginnietiya_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [16.758, 20.893],
+          "scale": 0.495,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "v43loginnietiya_niao",
+          "skeleton": "4_3spine/v43loginnietiya/v43loginnietiya_niao.json",
+          "atlas": "4_3spine/v43loginnietiya/v43loginnietiya_niao.atlas",
+          "position": [16.758, 20.893],
+          "scale": 0.495,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -8837,7 +8498,7 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4_3spine/v43uimainline/v43uimainlinehjs_down",
+      "name": "4_3spine/v43uimainline/v43uimainlinehjs_down_glue",
       "prefab": null,
       "size": null,
       "defaultAnimation": null,
@@ -8849,18 +8510,7 @@
           "position": null,
           "scale": 1.0,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_3spine/v43uimainline/v43uimainlinehjs_up",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v43uimainlinehjs_up",
           "skeleton": "4_3spine/v43uimainline/v43uimainlinehjs_up.json",
@@ -8942,8 +8592,8 @@
           "name": "Bg2",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_bg2.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_bg2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8951,8 +8601,8 @@
           "name": "Bg1",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_bg1.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_bg1.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8960,8 +8610,8 @@
           "name": "RoleC",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_rolec.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_rolec.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8969,8 +8619,8 @@
           "name": "RoleB",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_roleb.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_roleb.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8978,8 +8628,8 @@
           "name": "RoleA",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_rolea.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_rolea.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8987,8 +8637,8 @@
           "name": "RoleB2",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenwei_roleb2.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenwei_roleb2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -8996,8 +8646,8 @@
           "name": "Fn",
           "skeleton": "4_4spine/v44activty_shenwei/v44activty_shenweifn.json",
           "atlas": "4_4spine/v44activty_shenwei/v44activty_shenweifn.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [2.546, -57.727],
+          "scale": 0.455,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -9007,74 +8657,41 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4_4spine/v44login_shenwei/v44login_shenweibg",
+      "name": "4_4spine/v44login_shenwei/v44login_shenweibg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "v44login_shenweibg",
           "skeleton": "4_4spine/v44login_shenwei/v44login_shenweibg.json",
           "atlas": "4_4spine/v44login_shenwei/v44login_shenweibg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [10.18, 5.98],
+          "scale": 0.512,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_4spine/v44login_shenwei/v44login_shenweifn_a1",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v44login_shenweifn_a1",
-          "skeleton": "4_4spine/v44login_shenwei/v44login_shenweifn_a1.json",
-          "atlas": "4_4spine/v44login_shenwei/v44login_shenweifn_a1.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_4spine/v44login_shenwei/v44login_shenweifn_b1",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v44login_shenweifn_b1",
-          "skeleton": "4_4spine/v44login_shenwei/v44login_shenweifn_b1.json",
-          "atlas": "4_4spine/v44login_shenwei/v44login_shenweifn_b1.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_4spine/v44login_shenwei/v44login_shenweirole",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "v44login_shenweirole",
           "skeleton": "4_4spine/v44login_shenwei/v44login_shenweirole.json",
           "atlas": "4_4spine/v44login_shenwei/v44login_shenweirole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [10.18, 5.98],
+          "scale": 0.512,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "v44login_shenweifn_b1",
+          "skeleton": "4_4spine/v44login_shenwei/v44login_shenweifn_b1.json",
+          "atlas": "4_4spine/v44login_shenwei/v44login_shenweifn_b1.atlas",
+          "position": [10.18, 5.98],
+          "scale": 0.512,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "v44login_shenweifn_a1",
+          "skeleton": "4_4spine/v44login_shenwei/v44login_shenweifn_a1.json",
+          "atlas": "4_4spine/v44login_shenwei/v44login_shenweifn_a1.atlas",
+          "position": [10.18, 5.98],
+          "scale": 0.512,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -9103,55 +8720,33 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_1",
+      "name": "4_5_spine/v45_login_aerfa/v45_login_aerfa_role_glue",
       "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "v45_login_aerfa_bg_1",
-          "skeleton": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_1.json",
-          "atlas": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_1.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_2",
-      "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "v45_login_aerfa_bg_2",
           "skeleton": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_2.json",
           "atlas": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [5.316, -0.04],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "4_5_spine/v45_login_aerfa/v45_login_aerfa_role",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
+        {
+          "name": "v45_login_aerfa_bg_1",
+          "skeleton": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_1.json",
+          "atlas": "4_5_spine/v45_login_aerfa/v45_login_aerfa_bg_1.atlas",
+          "position": [5.316, -0.04],
+          "scale": 0.504,
+          "pivot": [0.5, 0.5]
+        },
         {
           "name": "v45_login_aerfa_role",
           "skeleton": "4_5_spine/v45_login_aerfa/v45_login_aerfa_role.json",
           "atlas": "4_5_spine/v45_login_aerfa/v45_login_aerfa_role.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [5.316, -0.04],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -9263,8 +8858,8 @@
           "name": "Bg",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh2.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [50.077, -67.274],
+          "scale": 0.409,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9272,8 +8867,8 @@
           "name": "Hua",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_huaban.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_huaban.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [50.077, -67.274],
+          "scale": 0.409,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9281,8 +8876,8 @@
           "name": "Fn",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_fn.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_fn.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [50.077, -67.274],
+          "scale": 0.409,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9290,8 +8885,8 @@
           "name": "Role",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_role.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_role.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.4,
+          "position": [50.077, -67.274],
+          "scale": 0.409,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -9310,8 +8905,8 @@
           "name": "Bg",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh2.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.58,
+          "position": [25.957, -100.675],
+          "scale": 0.444,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9319,8 +8914,8 @@
           "name": "Hua",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_huaban.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_huaban.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.58,
+          "position": [25.957, -100.675],
+          "scale": 0.444,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9328,8 +8923,8 @@
           "name": "Fn",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_fn.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_fn.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.58,
+          "position": [25.957, -100.675],
+          "scale": 0.444,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -9337,8 +8932,8 @@
           "name": "Role",
           "skeleton": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_role.json",
           "atlas": "4_5_spine/v45autowindow_lifu_skinteh/v45passportskin_lifuteh_role.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.58,
+          "position": [25.957, -100.675],
+          "scale": 0.444,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -10320,12 +9915,50 @@
           "name": "Role",
           "skeleton": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya.json",
           "atlas": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-81, -25],
+          "scale": 0.753,
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg2",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_bg2.webp",
+          "size": [8192.0, 4096.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Bg1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_bg1.webp",
+          "size": [2048.0, 2048.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Fn_2",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_fn_2.webp",
+          "size": [2048.0, 2048.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "bone" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage1_luxiya/v46_tuningstage1_luxiya_fn_1.webp",
+          "size": [1024.0, 1024.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "bone" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10344,7 +9977,27 @@
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage2_lifu/v46_tuningstage2_lifu_b_2.webp",
+          "size": [5120.0, 3285.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage2_lifu/v46_tuningstage2_lifu_fn_1.webp",
+          "size": [793.5, 765.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10358,12 +10011,32 @@
           "name": "Role",
           "skeleton": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li.json",
           "atlas": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li.atlas",
-          "position": [0.0, 0.0],
+          "position": [0, -49],
           "scale": 0.8,
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li_bg_2.webp",
+          "size": [2457.6001, 1548.0001],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage3_li/v46_tuningstage3_li_fn_1.webp",
+          "size": [532.0, 595.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10382,7 +10055,27 @@
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage4_shenwei/v46_tuningstage4_shenwei_bg_1.webp",
+          "size": [6144.0, 3618.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "Bg2" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage4_shenwei/v46_tuningstage4_shenwei_fn_1.webp",
+          "size": [1180.0, 866.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "Bg2" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10401,7 +10094,27 @@
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage5_sailinna/v46_tuningstage5_sailinna_bg1.webp",
+          "size": [8192.0, 4944.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage5_sailinna/v46_tuningstage5_sailinna_fn1.webp",
+          "size": [1472.5099, 1235.6697],
+          "position": [0.0, 0.0],
+          "alpha": 0.417,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10421,7 +10134,27 @@
           "defaultAnimation": "Loop"
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage6_kalienina/v46_tuningstage6_kalienina_bg1.webp",
+          "size": [10240.0, 6810.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage6_kalienina/v46_tuningstage6_kalienina_fn1.webp",
+          "size": [1600.0, 1348.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10441,7 +10174,18 @@
           "defaultAnimation": "Loop"
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage7_luolan/v46_tuningstage7_luolan_bg1.webp",
+          "size": [8192.0, 5448.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "ALL" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10461,7 +10205,27 @@
           "defaultAnimation": "Loop"
         }
       ],
-      "boneFollowers": []
+      "boneFollowers": [],
+      "images": [
+        {
+          "name": "Bg_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage8_aerfa/v46_tuningstage8_aerfa_bg1.webp",
+          "size": [11264.0, 7535.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 0,
+          "follow": { "layer": 0, "bone": "Bg" }
+        },
+        {
+          "name": "Fn_1",
+          "texture": "4_6_spine/v46_uiconcertpreheating/v46_tuningstage8_aerfa/v46_tuningstage8_aerfa_fn1.webp",
+          "size": [1536.0, 1191.0],
+          "position": [0.0, 0.0],
+          "alpha": 1.0,
+          "under": 1,
+          "follow": { "layer": 0, "bone": "Bg" }
+        }
+      ]
     },
     {
       "version": 1,
@@ -10475,8 +10239,8 @@
           "name": "Role",
           "skeleton": "4_6_spine/v46_uiconcertpreheating/v46_tuningstageall_kv/v46_tuningstageall_kv.json",
           "atlas": "4_6_spine/v46_uiconcertpreheating/v46_tuningstageall_kv/v46_tuningstageall_kv.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.47,
+          "position": [0.139, -4.504],
+          "scale": 0.041,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -11355,8 +11119,8 @@
           "name": "Bg",
           "skeleton": "4_7_spine/v47activty_kalienina/v47activty_kalienina_bg.json",
           "atlas": "4_7_spine/v47activty_kalienina/v47activty_kalienina_bg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [0.986, 16.732],
+          "scale": 0.205,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -11364,8 +11128,8 @@
           "name": "RoleB",
           "skeleton": "4_7_spine/v47activty_kalienina/v47activty_kalienina_roleb.json",
           "atlas": "4_7_spine/v47activty_kalienina/v47activty_kalienina_roleb.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [0.986, 16.732],
+          "scale": 0.205,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -11373,8 +11137,8 @@
           "name": "RoleA",
           "skeleton": "4_7_spine/v47activty_kalienina/v47activty_kalienina_rolea.json",
           "atlas": "4_7_spine/v47activty_kalienina/v47activty_kalienina_rolea.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [0.986, 16.732],
+          "scale": 0.205,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -11382,8 +11146,8 @@
           "name": "Fn",
           "skeleton": "4_7_spine/v47activty_kalienina/v47activty_kalienina_fn.json",
           "atlas": "4_7_spine/v47activty_kalienina/v47activty_kalienina_fn.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [0.986, 16.732],
+          "scale": 0.205,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -12017,7 +11781,7 @@
           "name": "Role",
           "skeleton": "7_0_spine/v70_uimovieaximofu/v70_uimovieaximofu.json",
           "atlas": "7_0_spine/v70_uimovieaximofu/v70_uimovieaximofu.atlas",
-          "position": [0, 0],
+          "position": [10, 84],
           "scale": 1,
           "pivot": [0.5, 0]
         }
@@ -12027,27 +11791,7 @@
     {
       "version": 1,
       "source": "prefab",
-      "name": "activityspine/activitybianka/activitybiankaqg/activitybiankaqg",
-      "prefab": "assets/product/ui/spine/activityspine/activitybianka/activitybiankaqg/activitybiankaqg.prefab",
-      "size": [1920, 1080],
-      "defaultAnimation": "loop",
-      "layers": [
-        {
-          "name": "ActivityBiankaQg",
-          "skeleton": "activityspine/activitybianka/activitybiankaqg/activitybiankaqg.json",
-          "atlas": "activityspine/activitybianka/activitybiankaqg/activitybiankaqg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.255,
-          "pivot": [0.5, 0.5],
-          "defaultAnimation": "loop"
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "prefab",
-      "name": "activityspine/activitybianka/activitybiankarole/activitybiankarole",
+      "name": "activityspine/activitybianka/activitybiankarole_glue",
       "prefab": "assets/product/ui/spine/activityspine/activitybianka/activitybiankarole/activitybiankarole.prefab",
       "size": [1920, 1080],
       "defaultAnimation": "loop",
@@ -12056,6 +11800,15 @@
           "name": "ActivityBiankaRole",
           "skeleton": "activityspine/activitybianka/activitybiankarole/activitybiankarole.json",
           "atlas": "activityspine/activitybianka/activitybiankarole/activitybiankarole.atlas",
+          "position": [0.0, 0.0],
+          "scale": 0.255,
+          "pivot": [0.5, 0.5],
+          "defaultAnimation": "loop"
+        },
+        {
+          "name": "ActivityBiankaQg",
+          "skeleton": "activityspine/activitybianka/activitybiankaqg/activitybiankaqg.json",
+          "atlas": "activityspine/activitybianka/activitybiankaqg/activitybiankaqg.atlas",
           "position": [0.0, 0.0],
           "scale": 0.255,
           "pivot": [0.5, 0.5],
@@ -12237,15 +11990,15 @@
       "source": "skeleton",
       "name": "activityspine/activityhakama/activityhakamabg/activityhakamabg",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "activityhakamabg",
           "skeleton": "activityspine/activityhakama/activityhakamabg/activityhakamabg.json",
           "atlas": "activityspine/activityhakama/activityhakamabg/activityhakamabg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-6.421, -8.602],
+          "scale": 0.513,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12283,7 +12036,7 @@
           "name": "Role",
           "skeleton": "activityspine/activityhanying/activityhanying.json",
           "atlas": "activityspine/activityhanying/activityhanying.atlas",
-          "position": [685.29, 100.76],
+          "position": [-4.71, -9.24],
           "scale": 0.5,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
@@ -12332,8 +12085,8 @@
           "name": "Role",
           "skeleton": "activityspine/activityhuiyin/activityhuiyin.skel",
           "atlas": "activityspine/activityhuiyin/activityhuiyin.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-8.519, -0.074],
+          "scale": 0.515,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -12352,8 +12105,8 @@
           "name": "Role",
           "skeleton": "activityspine/activityhuiyin/activityhuiyin.skel",
           "atlas": "activityspine/activityhuiyin/activityhuiyin.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [-1.186, -9.001],
+          "scale": 0.509,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -12412,36 +12165,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "activityspine/activityli/activitylibg/activitylibg",
+      "name": "activityspine/activityli/activityliqg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "activitylibg",
           "skeleton": "activityspine/activityli/activitylibg/activitylibg.json",
           "atlas": "activityspine/activityli/activitylibg/activitylibg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-0.272, -0.039],
+          "scale": 0.454,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "activityspine/activityli/activityliqg/activityliqg",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "activityliqg",
           "skeleton": "activityspine/activityli/activityliqg/activityliqg.json",
           "atlas": "activityspine/activityli/activityliqg/activityliqg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-0.272, -0.039],
+          "scale": 0.454,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12459,8 +12201,8 @@
           "name": "Role",
           "skeleton": "activityspine/activityluxiya2s/activityluxiya2s.json",
           "atlas": "activityspine/activityluxiya2s/activityluxiya2s.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [2.346, -6.922],
+          "scale": 0.506,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -12479,8 +12221,8 @@
           "name": "Role",
           "skeleton": "activityspine/activityluxiya2s/activityluxiya2s.json",
           "atlas": "activityspine/activityluxiya2s/activityluxiya2s.atlas",
-          "position": [620.0, 137.1],
-          "scale": 1.0,
+          "position": [4.118, 1.107],
+          "scale": 0.507,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         }
@@ -12690,63 +12432,49 @@
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": [],
-      "renderQuirk": "short"
+      "boneFollowers": []
     },
     {
       "version": 1,
       "source": "skeleton",
-      "name": "activityspine/activityspinechunjieqishi/activityqishiqg/activityqishiqg",
+      "name": "activityspine/activityspinechunjieqishi/activityqishirole_glue",
       "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
-        {
-          "name": "activityqishiqg",
-          "skeleton": "activityspine/activityspinechunjieqishi/activityqishiqg/activityqishiqg.json",
-          "atlas": "activityspine/activityspinechunjieqishi/activityqishiqg/activityqishiqg.atlas",
-          "position": null,
-          "scale": 1.0,
-          "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": [],
-      "renderQuirk": "short"
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "activityspine/activityspinechunjieqishi/activityqishirole/activityqishirole",
-      "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "activityqishirole",
           "skeleton": "activityspine/activityspinechunjieqishi/activityqishirole/activityqishirole.json",
           "atlas": "activityspine/activityspinechunjieqishi/activityqishirole/activityqishirole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-139, -48],
+          "scale": 0.677,
+          "pivot": [0.5, 0.5]
+        },
+        {
+          "name": "activityqishiqg",
+          "skeleton": "activityspine/activityspinechunjieqishi/activityqishiqg/activityqishiqg.json",
+          "atlas": "activityspine/activityspinechunjieqishi/activityqishiqg/activityqishiqg.atlas",
+          "position": [-139, -48],
+          "scale": 0.677,
           "pivot": [0.5, 0.5]
         }
       ],
-      "boneFollowers": [],
-      "renderQuirk": "short"
+      "boneFollowers": []
     },
     {
       "version": 1,
       "source": "skeleton",
       "name": "activityspine/activityspineyuandan/activityspineyuandanbg/activityspineyuandanbg",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "activityspineyuandanbg",
           "skeleton": "activityspine/activityspineyuandan/activityspineyuandanbg/activityspineyuandanbg.json",
           "atlas": "activityspine/activityspineyuandan/activityspineyuandanbg/activityspineyuandanbg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [7.084, 0.75],
+          "scale": 0.508,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12777,15 +12505,15 @@
       "source": "skeleton",
       "name": "activityspine_wanshi/activityspine_wanshi",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "activityspine_wanshi",
           "skeleton": "activityspine_wanshi/activityspine_wanshi.json",
           "atlas": "activityspine_wanshi/activityspine_wanshi.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-28.414, -31.459],
+          "scale": 0.337,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12803,8 +12531,8 @@
           "name": "ActivitySpineLogin",
           "skeleton": "niera_mainart_yoko/niera_mainart_yoko.json",
           "atlas": "niera_mainart_yoko/niera_mainart_yoko.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.6,
+          "position": [-15.958, -25.383],
+          "scale": 0.583,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -12814,55 +12542,33 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "aili/ailalogin/ailaloginbg/ailaloginbg",
+      "name": "aili/ailalogin/ailaloginbg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "ailaloginbg",
           "skeleton": "aili/ailalogin/ailaloginbg/ailaloginbg.json",
           "atlas": "aili/ailalogin/ailaloginbg/ailaloginbg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [21.368, -1.332],
+          "scale": 0.429,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "aili/ailalogin/ailaloginbg2/ailaloginbg2",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "ailaloginbg2",
           "skeleton": "aili/ailalogin/ailaloginbg2/ailaloginbg2.json",
           "atlas": "aili/ailalogin/ailaloginbg2/ailaloginbg2.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [21.368, -1.332],
+          "scale": 0.429,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "aili/ailalogin/ailaloginrole/ailaloginrole",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "ailaloginrole",
           "skeleton": "aili/ailalogin/ailaloginrole/ailaloginrole.json",
           "atlas": "aili/ailalogin/ailaloginrole/ailaloginrole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [21.368, -1.332],
+          "scale": 0.429,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12893,15 +12599,15 @@
       "source": "skeleton",
       "name": "bangbinata/bangbinatalogin/bangbinatalogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "bangbinatalogin",
           "skeleton": "bangbinata/bangbinatalogin/bangbinatalogin.json",
           "atlas": "bangbinata/bangbinatalogin/bangbinatalogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.269, 8.091],
+          "scale": 0.516,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -12950,36 +12656,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "bianka/biankaloginbg/biankaloginbg",
+      "name": "bianka/biankaloginrole_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "biankaloginbg",
           "skeleton": "bianka/biankaloginbg/biankaloginbg.json",
           "atlas": "bianka/biankaloginbg/biankaloginbg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-0.039, -5.347],
+          "scale": 0.251,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "bianka/biankaloginrole/biankaloginrole",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "biankaloginrole",
           "skeleton": "bianka/biankaloginrole/biankaloginrole.json",
           "atlas": "bianka/biankaloginrole/biankaloginrole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-0.039, -5.347],
+          "scale": 0.251,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13259,8 +12954,8 @@
           "name": "BG",
           "skeleton": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgbg.json",
           "atlas": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgbg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.5545,
+          "position": [-39.773, -0.177],
+          "scale": 0.394,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -13268,8 +12963,8 @@
           "name": "Role",
           "skeleton": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgrole.json",
           "atlas": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgrole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.5545,
+          "position": [-39.773, -0.177],
+          "scale": 0.394,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -13277,8 +12972,8 @@
           "name": "Role2",
           "skeleton": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgrole2.json",
           "atlas": "bigworld/common/process/kh01_luxiyaxyprocess/kh01_luxiyaxycgrole2.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.5545,
+          "position": [-39.773, -0.177],
+          "scale": 0.394,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -13329,15 +13024,15 @@
       "source": "skeleton",
       "name": "dahezhao/dahezhao",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "dahezhao",
           "skeleton": "dahezhao/dahezhao.json",
           "atlas": "dahezhao/dahezhao.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-10.17, -10.808],
+          "scale": 0.46,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13348,15 +13043,15 @@
       "source": "skeleton",
       "name": "hakama/hakamalogin/hakamalogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "hakamalogin",
           "skeleton": "hakama/hakamalogin/hakamalogin.json",
           "atlas": "hakama/hakamalogin/hakamalogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-18.274, -32.274],
+          "scale": 0.254,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13367,15 +13062,15 @@
       "source": "skeleton",
       "name": "hakama/hakamatutorial/hakamatutorial",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "hakamatutorial",
           "skeleton": "hakama/hakamatutorial/hakamatutorial.json",
           "atlas": "hakama/hakamatutorial/hakamatutorial.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-15.703, 2.57],
+          "scale": 0.254,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13384,36 +13079,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "kalienina/chaokalieloginbg/chaokalieloginbg",
+      "name": "kalienina/chaokalieloginrole_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "chaokalieloginbg",
           "skeleton": "kalienina/chaokalieloginbg/chaokalieloginbg.json",
           "atlas": "kalienina/chaokalieloginbg/chaokalieloginbg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [0.529, -0.966],
+          "scale": 0.251,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "kalienina/chaokalieloginrole/chaokalieloginrole",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "chaokalieloginrole",
           "skeleton": "kalienina/chaokalieloginrole/chaokalieloginrole.json",
           "atlas": "kalienina/chaokalieloginrole/chaokalieloginrole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [0.529, -0.966],
+          "scale": 0.251,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13540,15 +13224,15 @@
       "source": "skeleton",
       "name": "kalienina/kalieninatutorial/kalieninatutorial",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "kalieninatutorial",
           "skeleton": "kalienina/kalieninatutorial/kalieninatutorial.json",
           "atlas": "kalienina/kalieninatutorial/kalieninatutorial.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [5.22, -7.691],
+          "scale": 0.251,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13599,15 +13283,15 @@
       "source": "skeleton",
       "name": "li/chaolilogin/chaolilogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "chaolilogin",
           "skeleton": "li/chaolilogin/chaolilogin.json",
           "atlas": "li/chaolilogin/chaolilogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [11.761, 5.93],
+          "scale": 0.521,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13618,15 +13302,15 @@
       "source": "skeleton",
       "name": "li/chaolitutorial/chaolitutorial",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "chaolitutorial",
           "skeleton": "li/chaolitutorial/chaolitutorial.json",
           "atlas": "li/chaolitutorial/chaolitutorial.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [10.504, 4.231],
+          "scale": 0.52,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13725,15 +13409,15 @@
       "source": "prefab",
       "name": "lifu/chaolifudarkskin/chaolifudarkskinpassport",
       "prefab": "assets/product/ui/spine/lifu/chaolifudarkskin/chaolifudarkskinpassport.prefab",
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": "idle",
       "layers": [
         {
           "name": "ChaolifuDarkSkinBg",
           "skeleton": "lifu/chaolifudarkskin/chaolifudarkskinbg_passport/chaolifudarkskinbg.json",
           "atlas": "lifu/chaolifudarkskin/chaolifudarkskinbg_passport/chaolifudarkskinbg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.2,
+          "position": [-5.194, 2.341],
+          "scale": 0.253,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         },
@@ -13741,8 +13425,8 @@
           "name": "ChaolifuDarkSkinRole",
           "skeleton": "lifu/chaolifudarkskin/chaolifudarkskinrole_passport/chaolifudarkskinrole.json",
           "atlas": "lifu/chaolifudarkskin/chaolifudarkskinrole_passport/chaolifudarkskinrole.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.2,
+          "position": [-5.194, 2.341],
+          "scale": 0.253,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -13790,8 +13474,8 @@
           "name": "SkeletonGraphicLoginNew",
           "skeleton": "login/denglutu.json",
           "atlas": "login/denglutu.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [0.163, -1.605],
+          "scale": 0.095,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -13809,7 +13493,7 @@
           "name": "Bg",
           "skeleton": "luciya/luciyasairenbg/luciyasairenbg.json",
           "atlas": "luciya/luciyasairenbg/luciyasairenbg.atlas",
-          "position": [0.0, 0.0],
+          "position": [42, -13],
           "scale": 0.4,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
@@ -13818,7 +13502,7 @@
           "name": "Role",
           "skeleton": "luciya/luciyasairen/luciyasairen.json",
           "atlas": "luciya/luciyasairen/luciyasairen.atlas",
-          "position": [0.0, 0.0],
+          "position": [42, -13],
           "scale": 0.45,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
@@ -13838,8 +13522,8 @@
           "name": "Bg",
           "skeleton": "luciya/luciyasairenbg/luciyasairenbg.json",
           "atlas": "luciya/luciyasairenbg/luciyasairenbg.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.51,
+          "position": [38.249, -29.551],
+          "scale": 0.518,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
         },
@@ -13847,8 +13531,8 @@
           "name": "Role",
           "skeleton": "luciya/luciyasairen/luciyasairen.json",
           "atlas": "luciya/luciyasairen/luciyasairen.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.5,
+          "position": [142.932, -117.972],
+          "scale": 0.508,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
         }
@@ -13867,7 +13551,7 @@
           "name": "Bg",
           "skeleton": "luciya/luciyasairenbg/luciyasairenbg.json",
           "atlas": "luciya/luciyasairenbg/luciyasairenbg.atlas",
-          "position": [0.0, 0.0],
+          "position": [42, -9],
           "scale": 0.4,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
@@ -13876,7 +13560,7 @@
           "name": "Role",
           "skeleton": "luciya/luciyasairen/luciyasairen.json",
           "atlas": "luciya/luciyasairen/luciyasairen.atlas",
-          "position": [0.0, 0.0],
+          "position": [42, -9],
           "scale": 0.4,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
@@ -13896,8 +13580,8 @@
           "name": "Spine-Luxiya-CoupletGame",
           "skeleton": "luxiya-coupletgame/spine-luxiya-coupletgame.json",
           "atlas": "luxiya-coupletgame/spine-luxiya-coupletgame.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [82.881, 71.486],
+          "scale": 0.869,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -13996,8 +13680,8 @@
           "name": "LuxiyaSkinHuangJiYongYi",
           "skeleton": "luxiyaskinhuangjiyongyi/luxiyaskinhuangjiyongyi.json",
           "atlas": "luxiyaskinhuangjiyongyi/luxiyaskinhuangjiyongyi.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.195,
+          "position": [3.419, 2.514],
+          "scale": 0.199,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -14049,15 +13733,15 @@
       "source": "skeleton",
       "name": "nier/nierdenglu",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "nierdenglu",
           "skeleton": "nier/nierdenglu.json",
           "atlas": "nier/nierdenglu.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-13.498, 9.745],
+          "scale": 0.262,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14068,15 +13752,15 @@
       "source": "skeleton",
       "name": "nuoan/nuoanlogin/nuoanlogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "nuoanlogin",
           "skeleton": "nuoan/nuoanlogin/nuoanlogin.json",
           "atlas": "nuoan/nuoanlogin/nuoanlogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.626, -4.416],
+          "scale": 0.26,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14127,15 +13811,15 @@
       "source": "skeleton",
       "name": "qishi/qishi_tutorial/qishi_tutorial",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "qishi_tutorial",
           "skeleton": "qishi/qishi_tutorial/qishi_tutorial.json",
           "atlas": "qishi/qishi_tutorial/qishi_tutorial.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.958, -20.395],
+          "scale": 0.253,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14146,15 +13830,15 @@
       "source": "skeleton",
       "name": "qishi/qishilogin/qishilogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "qishilogin",
           "skeleton": "qishi/qishilogin/qishilogin.json",
           "atlas": "qishi/qishilogin/qishilogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-2.853, 3.926],
+          "scale": 0.226,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14165,15 +13849,15 @@
       "source": "skeleton",
       "name": "qu-skin/spinequskin_activity/spinequskin_activity",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "spinequskin_activity",
           "skeleton": "qu-skin/spinequskin_activity/spinequskin_activity.json",
           "atlas": "qu-skin/spinequskin_activity/spinequskin_activity.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [17.657, -19.082],
+          "scale": 0.337,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14191,8 +13875,8 @@
           "name": "SkinSpineAnimation",
           "skeleton": "qu-skin/spinequskin_autowindow/spinequskin_autowindow.json",
           "atlas": "qu-skin/spinequskin_autowindow/spinequskin_autowindow.atlas",
-          "position": [0.0, 0.0],
-          "scale": 0.26,
+          "position": [13.732, -14.667],
+          "scale": 0.265,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "stand"
         }
@@ -14318,36 +14002,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "spinelogin/21haologin/21haologin",
+      "name": "spinelogin/21haologin/21haologin02_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "21haologin",
           "skeleton": "spinelogin/21haologin/21haologin.json",
           "atlas": "spinelogin/21haologin/21haologin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [9.321, -1.711],
+          "scale": 0.506,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "spinelogin/21haologin/21haologin02",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "21haologin02",
           "skeleton": "spinelogin/21haologin/21haologin02.json",
           "atlas": "spinelogin/21haologin/21haologin02.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-179.023, -59.935],
+          "scale": 0.506,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14358,15 +14031,15 @@
       "source": "skeleton",
       "name": "spinelogin/buouxionglogin/buouxionglogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "buouxionglogin",
           "skeleton": "spinelogin/buouxionglogin/buouxionglogin.json",
           "atlas": "spinelogin/buouxionglogin/buouxionglogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-8.249, 9.923],
+          "scale": 0.495,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14375,36 +14048,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "spinelogin/dubianlogin/dubianlogin",
+      "name": "spinelogin/dubianlogin/dubianlogin_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "dubianlogin",
           "skeleton": "spinelogin/dubianlogin/dubianlogin.json",
           "atlas": "spinelogin/dubianlogin/dubianlogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-7.124, 1.613],
+          "scale": 0.51,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "spinelogin/dubianlogin/dubianlogin01",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "dubianlogin01",
           "skeleton": "spinelogin/dubianlogin/dubianlogin01.json",
           "atlas": "spinelogin/dubianlogin/dubianlogin01.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-7.124, 1.613],
+          "scale": 0.51,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14415,15 +14077,15 @@
       "source": "skeleton",
       "name": "spinelogin/hanyinglogin/hanyinglogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "hanyinglogin",
           "skeleton": "spinelogin/hanyinglogin/hanyinglogin.json",
           "atlas": "spinelogin/hanyinglogin/hanyinglogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [2.229, -7.96],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14432,36 +14094,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "spinelogin/heiyanlogin/heiyanlogin",
+      "name": "spinelogin/heiyanlogin/heiyanlogin_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "heiyanlogin",
           "skeleton": "spinelogin/heiyanlogin/heiyanlogin.skel",
           "atlas": "spinelogin/heiyanlogin/heiyanlogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-3.261, -112.921],
+          "scale": 0.5,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "spinelogin/heiyanlogin/heiyanloginhyh",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "heiyanloginhyh",
           "skeleton": "spinelogin/heiyanlogin/heiyanloginhyh.skel",
           "atlas": "spinelogin/heiyanlogin/heiyanloginhyh.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-74.224, -94.432],
+          "scale": 0.55,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14472,15 +14123,15 @@
       "source": "skeleton",
       "name": "spinelogin/huiyinlogin/huiyinlogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "huiyinlogin",
           "skeleton": "spinelogin/huiyinlogin/huiyinlogin.json",
           "atlas": "spinelogin/huiyinlogin/huiyinlogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [14.315, 5.392],
+          "scale": 0.511,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14489,36 +14140,25 @@
     {
       "version": 1,
       "source": "skeleton",
-      "name": "spinelogin/lamiyalogin/lamiyaloginbg",
+      "name": "spinelogin/lamiyalogin/lamiyaloginbg_glue",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "lamiyaloginbg",
           "skeleton": "spinelogin/lamiyalogin/lamiyaloginbg.json",
           "atlas": "spinelogin/lamiyalogin/lamiyaloginbg.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [15.848, 1.319],
+          "scale": 0.498,
           "pivot": [0.5, 0.5]
-        }
-      ],
-      "boneFollowers": []
-    },
-    {
-      "version": 1,
-      "source": "skeleton",
-      "name": "spinelogin/lamiyalogin/lamiyaloginrole",
-      "prefab": null,
-      "size": null,
-      "defaultAnimation": null,
-      "layers": [
+        },
         {
           "name": "lamiyaloginrole",
           "skeleton": "spinelogin/lamiyalogin/lamiyaloginrole.json",
           "atlas": "spinelogin/lamiyalogin/lamiyaloginrole.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-16.041, 4.309],
+          "scale": 0.498,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14529,15 +14169,15 @@
       "source": "skeleton",
       "name": "spinelogin/luxiya2slogin/luxiya2slogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "luxiya2slogin",
           "skeleton": "spinelogin/luxiya2slogin/luxiya2slogin.json",
           "atlas": "spinelogin/luxiya2slogin/luxiya2slogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [2.872, 3.408],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14548,15 +14188,15 @@
       "source": "skeleton",
       "name": "spinelogin/nuoketilogin/nouketilogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "nouketilogin",
           "skeleton": "spinelogin/nuoketilogin/nouketilogin.json",
           "atlas": "spinelogin/nuoketilogin/nouketilogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-1.953, 7.018],
+          "scale": 0.518,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14567,15 +14207,15 @@
       "source": "skeleton",
       "name": "spinelogin/qulogin/qulogin",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "qulogin",
           "skeleton": "spinelogin/qulogin/qulogin.json",
           "atlas": "spinelogin/qulogin/qulogin.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-2.645, 4.548],
+          "scale": 0.504,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -14887,7 +14527,7 @@
           "name": "Hit",
           "skeleton": "4_6_spine/v46uihitmouse/bianka/hit/bianankahit.json",
           "atlas": "4_6_spine/v46uihitmouse/bianka/hit/bianankahit.atlas",
-          "position": [0, 0],
+          "position": [-9, -509],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -14896,7 +14536,7 @@
           "name": "Normal",
           "skeleton": "4_6_spine/v46uihitmouse/bianka/normal/biananka.json",
           "atlas": "4_6_spine/v46uihitmouse/bianka/normal/biananka.atlas",
-          "position": [0, 0],
+          "position": [-9, -509],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -14916,7 +14556,7 @@
           "name": "Hit",
           "skeleton": "4_6_spine/v46uihitmouse/buouxiong/hit/buouxionghit.json",
           "atlas": "4_6_spine/v46uihitmouse/buouxiong/hit/buouxionghit.atlas",
-          "position": [0, 0],
+          "position": [-2, -503],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -14925,7 +14565,7 @@
           "name": "Normal",
           "skeleton": "4_6_spine/v46uihitmouse/buouxiong/normal/buouxiong.json",
           "atlas": "4_6_spine/v46uihitmouse/buouxiong/normal/buouxiong.atlas",
-          "position": [0, 0],
+          "position": [-2, -503],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -14945,7 +14585,7 @@
           "name": "Hit",
           "skeleton": "4_6_spine/v46uihitmouse/huhu/hit/huhuhit.json",
           "atlas": "4_6_spine/v46uihitmouse/huhu/hit/huhuhit.atlas",
-          "position": [0, 0],
+          "position": [-17, -377],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -14954,7 +14594,7 @@
           "name": "Normal",
           "skeleton": "4_6_spine/v46uihitmouse/huhu/normal/huhu.json",
           "atlas": "4_6_spine/v46uihitmouse/huhu/normal/huhu.atlas",
-          "position": [0, 0],
+          "position": [-17, -377],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "NormalLoop"
@@ -15003,7 +14643,7 @@
           "name": "Hit",
           "skeleton": "4_6_spine/v46uihitmouse/kalie/hit/kaliehit.json",
           "atlas": "4_6_spine/v46uihitmouse/kalie/hit/kaliehit.atlas",
-          "position": [0, 0],
+          "position": [-9, -511],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -15012,7 +14652,7 @@
           "name": "Normal",
           "skeleton": "4_6_spine/v46uihitmouse/kalie/normal/kalie.json",
           "atlas": "4_6_spine/v46uihitmouse/kalie/normal/kalie.atlas",
-          "position": [0, 0],
+          "position": [-9, -511],
           "scale": 1,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
@@ -15166,8 +14806,8 @@
           "name": "Hit",
           "skeleton": "uihitmousespine/xiezouv36/uihitmousexiezouv36/uihitmousexiezouv36_hit.json",
           "atlas": "uihitmousespine/xiezouv36/uihitmousexiezouv36/uihitmousexiezouv36_hit.atlas",
-          "position": [0, 0],
-          "scale": 1,
+          "position": [48.65, -126.37],
+          "scale": 2,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "animation"
         },
@@ -15175,8 +14815,8 @@
           "name": "Normal",
           "skeleton": "uihitmousespine/xiezouv36/uihitmousexiezouv36/uihitmousexiezouv36.json",
           "atlas": "uihitmousespine/xiezouv36/uihitmousexiezouv36/uihitmousexiezouv36.atlas",
-          "position": [0, 0],
-          "scale": 1,
+          "position": [48.65, -126.37],
+          "scale": 2,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
         }
@@ -15293,14 +14933,14 @@
       "source": "skeleton",
       "name": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg01/uiactivitybosssinglebg01",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "uiactivitybosssinglebg01",
           "skeleton": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg01/uiactivitybosssinglebg01.json",
           "atlas": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg01/uiactivitybosssinglebg01.atlas",
-          "position": null,
+          "position": [0, -9],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -15312,15 +14952,15 @@
       "source": "skeleton",
       "name": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg02/uiactivitybosssinglebg02",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "uiactivitybosssinglebg02",
           "skeleton": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg02/uiactivitybosssinglebg02.json",
           "atlas": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg02/uiactivitybosssinglebg02.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [6.678, 12.702],
+          "scale": 1.067,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -15331,15 +14971,15 @@
       "source": "skeleton",
       "name": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg03/uiactivitybosssinglebg03",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "uiactivitybosssinglebg03",
           "skeleton": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg03/uiactivitybosssinglebg03.json",
           "atlas": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg03/uiactivitybosssinglebg03.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-4.517, 2.106],
+          "scale": 1.011,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -15350,15 +14990,15 @@
       "source": "skeleton",
       "name": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg04/uiactivitybosssinglebg04",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "uiactivitybosssinglebg04",
           "skeleton": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg04/uiactivitybosssinglebg04.json",
           "atlas": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg04/uiactivitybosssinglebg04.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [-1.886, -1.06],
+          "scale": 1.002,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -15369,14 +15009,14 @@
       "source": "skeleton",
       "name": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg05/uiactivitybosssinglebg05",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "uiactivitybosssinglebg05",
           "skeleton": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg05/uiactivitybosssinglebg05.json",
           "atlas": "uispine/uiactivitybosssinglespine/uiactivitybosssinglebg05/uiactivitybosssinglebg05.atlas",
-          "position": null,
+          "position": [2, -6],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -17393,7 +17033,7 @@
           "name": "UiMovieNuoAn02",
           "skeleton": "uispine/uimoviespine/uimovienuoan02/uimovienuoan02.json",
           "atlas": "uispine/uimoviespine/uimovienuoan02/uimovienuoan02.atlas",
-          "position": [0.0, 0.0],
+          "position": [18, -38],
           "scale": 0.51,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "buxiao"
@@ -17413,7 +17053,7 @@
           "name": "Bg",
           "skeleton": "uispine/uimoviespine/uimovienuoketi/uimovienuoketi01bg.json",
           "atlas": "uispine/uimoviespine/uimovienuoketi/uimovienuoketi01bg.atlas",
-          "position": [0.0, 0.0],
+          "position": [7, 438],
           "scale": 0.51,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -17422,7 +17062,7 @@
           "name": "Role",
           "skeleton": "uispine/uimoviespine/uimovienuoketi/uimovienuoketi01role.json",
           "atlas": "uispine/uimoviespine/uimovienuoketi/uimovienuoketi01role.atlas",
-          "position": [0.0, 0.0],
+          "position": [7, 438],
           "scale": 0.51,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "idle"
@@ -17502,7 +17142,7 @@
           "name": "UiNewbieTaskSailika01",
           "skeleton": "uispine/uinewbietasksailika/uinewbietasksailika.json",
           "atlas": "uispine/uinewbietasksailika/uinewbietasksailika.atlas",
-          "position": [0.0, 0.0],
+          "position": [0, -323],
           "scale": 0.32,
           "pivot": [0.5, 0.5]
         }
@@ -17521,8 +17161,8 @@
           "name": "Bg",
           "skeleton": "activityspine/activity21/bg.json",
           "atlas": "activityspine/activity21/bg.atlas",
-          "position": [8.14, 0.0],
-          "scale": 1.0,
+          "position": [3.845, -8.607],
+          "scale": 0.254,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -17530,8 +17170,8 @@
           "name": "Dw",
           "skeleton": "activityspine/activity21/dw.json",
           "atlas": "activityspine/activity21/dw.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [1.783, -8.607],
+          "scale": 0.254,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
         },
@@ -17539,19 +17179,10 @@
           "name": "21",
           "skeleton": "activityspine/activity21/21.json",
           "atlas": "activityspine/activity21/21.atlas",
-          "position": [0.0, 0.0],
-          "scale": 1.0,
+          "position": [1.783, -8.607],
+          "scale": 0.254,
           "pivot": [0.5, 0.5],
           "defaultAnimation": "Loop"
-        },
-        {
-          "name": "Role",
-          "skeleton": "uispine/uinewfuben21spine/uinewfuben21spine.json",
-          "atlas": "uispine/uinewfuben21spine/uinewfuben21spine.atlas",
-          "position": [-34.0, 0.0],
-          "scale": 1.8,
-          "pivot": [0.5, 0.5],
-          "defaultAnimation": "idle"
         }
       ],
       "boneFollowers": []
@@ -17981,7 +17612,7 @@
           "name": "uitheatre6loadingbg02",
           "skeleton": "uispine/uitheatre6/uitheatre6loadingbg02.json",
           "atlas": "uispine/uitheatre6/uitheatre6loadingbg02.atlas",
-          "position": null,
+          "position": [76, -170],
           "scale": 1.0,
           "pivot": [0.5, 0.5]
         }
@@ -18073,15 +17704,15 @@
       "source": "skeleton",
       "name": "weila/weila",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "weila",
           "skeleton": "weila/weila.json",
           "atlas": "weila/weila.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [6.227, -7.92],
+          "scale": 0.258,
           "pivot": [0.5, 0.5]
         }
       ],
@@ -18214,15 +17845,15 @@
       "source": "skeleton",
       "name": "yizhounian/yizhounian",
       "prefab": null,
-      "size": null,
+      "size": [1920, 1080],
       "defaultAnimation": null,
       "layers": [
         {
           "name": "yizhounian",
           "skeleton": "yizhounian/yizhounian.json",
           "atlas": "yizhounian/yizhounian.atlas",
-          "position": null,
-          "scale": 1.0,
+          "position": [1.766, 0.781],
+          "scale": 0.643,
           "pivot": [0.5, 0.5]
         }
       ],
